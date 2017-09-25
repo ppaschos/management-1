@@ -2,13 +2,53 @@
     "docs": [
         {
             "location": "/", 
-            "text": "OSG Management Area\n\n\nWelcome to the home page of the OSG Management Team documentation area! This is currently a work in progress as we migrate our TWiki documentation to GitHub. If you are looking for our full documentation, please visit the \nTWiki\n.", 
+            "text": "OSG Management Area\n\n\nWelcome to the home page of the OSG Management Team documentation area!  This is currently a work in progress as we\nmigrate our TWiki documentation to GitHub.  If you are looking for our full documentation, please visit the\n\nTWiki\n.\n\n\nOrganization\n\n\nThe Management Plan, By-laws, and official reports are stored in the official\n\nDocument Repository\n.\n\n\nThe OSG Organization structure is described\n\nhere\n. The concept and\nclassification of Satellite projects is described\n\nhere\n. The OSG Computer Science Student\nFellowship is described\n\nhere\n.\n\n\nThe Calendar for Consortium and other OSG collaboration meetings is in\n\nIndico\n.\n\n\nWork Plan and Tracking\n\n\nThe OSG Planning process includes a WBS with the high level tasks (deliverables and milestones).  The WBS is maintained\nby the Project Manager and updated on a quarterly basis by the responsible person for each task area.  Each Area\nCoordinator then maintains more detailed task and action lists and plans.  These relate to the items in the WBS and are\ndeveloped to a hierachy as appropriate.  Area Coordinators work with the Project Manager to review their work for\nconsistency with the WBS.  The WBS is modified as needed to include any new work identified.\n\n\nPlease view the Area Coordinators \nMeeting and Calendar\n\n\nPlease view the work plans for ny5 Year 1 in \nOSG DocDB\n\n\nAdministrative Procedures\n\n\nDocumentation of OSG Administrative Procedures: \nAdministrative Procedures\n\n\nExecutive Team\n\n\nThe \nExecutive Team home page\n contains meeting information and an archive of meeting notes (mostly\nfrom 2008 and earlier).\n\n\nOSG Newsletter Log\n\n\nDocumentation of possible articles month by month \nNewsletter Articles\n (yes, the link is broken).\n\n\nComputer Science Student Fellowships\n\n\nThe OSG Computer Science Student Fellowship provides for one year of funding to a graduate or undergraduate student in\nComputer Science.  The fellowship provides funding for up to 20 hours a week for computer science research of value both\nto the OSG and the broader community.  The Fellowship is offered for the institutions that are funded as part of the OSG\nproject at the time of application and delivery of the research.\n\n\nThe OSG Computer Science Student Fellowship is described\n\nhere\n.\nPlease contact the \nExecutive Team\n if you are interested in this opportunity.\nFellowships to date:\n\n\n| Date | Fellow | Mentor | Project Description | Reports ||\n| 10/10 | Derek Weitzel | David Swanson | \nCampus Grid Technologies\n | ||\n\n\nSatellite Projects\n\n\nOSG has a special relationship with certain projects.  See \nSatellite Projects\n (link is broken)\nfor more information.\n\n\nPartnerships\n\n\nOSG partners with organizations in the broad area of high throughput and high performance computing.  See \nPartner\nOrganizations\n (link is broken).", 
             "title": "Home"
         }, 
         {
             "location": "/#osg-management-area", 
-            "text": "Welcome to the home page of the OSG Management Team documentation area! This is currently a work in progress as we migrate our TWiki documentation to GitHub. If you are looking for our full documentation, please visit the  TWiki .", 
+            "text": "Welcome to the home page of the OSG Management Team documentation area!  This is currently a work in progress as we\nmigrate our TWiki documentation to GitHub.  If you are looking for our full documentation, please visit the TWiki .", 
             "title": "OSG Management Area"
+        }, 
+        {
+            "location": "/#organization", 
+            "text": "The Management Plan, By-laws, and official reports are stored in the official Document Repository .  The OSG Organization structure is described here . The concept and\nclassification of Satellite projects is described here . The OSG Computer Science Student\nFellowship is described here .  The Calendar for Consortium and other OSG collaboration meetings is in Indico .", 
+            "title": "Organization"
+        }, 
+        {
+            "location": "/#work-plan-and-tracking", 
+            "text": "The OSG Planning process includes a WBS with the high level tasks (deliverables and milestones).  The WBS is maintained\nby the Project Manager and updated on a quarterly basis by the responsible person for each task area.  Each Area\nCoordinator then maintains more detailed task and action lists and plans.  These relate to the items in the WBS and are\ndeveloped to a hierachy as appropriate.  Area Coordinators work with the Project Manager to review their work for\nconsistency with the WBS.  The WBS is modified as needed to include any new work identified.  Please view the Area Coordinators  Meeting and Calendar  Please view the work plans for ny5 Year 1 in  OSG DocDB", 
+            "title": "Work Plan and Tracking"
+        }, 
+        {
+            "location": "/#administrative-procedures", 
+            "text": "Documentation of OSG Administrative Procedures:  Administrative Procedures", 
+            "title": "Administrative Procedures"
+        }, 
+        {
+            "location": "/#executive-team", 
+            "text": "The  Executive Team home page  contains meeting information and an archive of meeting notes (mostly\nfrom 2008 and earlier).", 
+            "title": "Executive Team"
+        }, 
+        {
+            "location": "/#osg-newsletter-log", 
+            "text": "Documentation of possible articles month by month  Newsletter Articles  (yes, the link is broken).", 
+            "title": "OSG Newsletter Log"
+        }, 
+        {
+            "location": "/#computer-science-student-fellowships", 
+            "text": "The OSG Computer Science Student Fellowship provides for one year of funding to a graduate or undergraduate student in\nComputer Science.  The fellowship provides funding for up to 20 hours a week for computer science research of value both\nto the OSG and the broader community.  The Fellowship is offered for the institutions that are funded as part of the OSG\nproject at the time of application and delivery of the research.  The OSG Computer Science Student Fellowship is described here .\nPlease contact the  Executive Team  if you are interested in this opportunity.\nFellowships to date:  | Date | Fellow | Mentor | Project Description | Reports ||\n| 10/10 | Derek Weitzel | David Swanson |  Campus Grid Technologies  | ||", 
+            "title": "Computer Science Student Fellowships"
+        }, 
+        {
+            "location": "/#satellite-projects", 
+            "text": "OSG has a special relationship with certain projects.  See  Satellite Projects  (link is broken)\nfor more information.", 
+            "title": "Satellite Projects"
+        }, 
+        {
+            "location": "/#partnerships", 
+            "text": "OSG partners with organizations in the broad area of high throughput and high performance computing.  See  Partner\nOrganizations  (link is broken).", 
+            "title": "Partnerships"
         }
     ]
 }
