@@ -27,7 +27,7 @@
 
 ## Upcoming Meetings
 
-- 2017-09-27 - Software and Release (Brian Lin and Tim Theisen)
+- 2017-09-27 - Software (Brian Lin) and Release (Tim Theisen)
 - 2017-10-04 - Canceled due to [OSG Council meeting](https://indico.fnal.gov/conferenceDisplay.py?confId=14824)
 - 2017-10-11 - Networking (Shawn McKee)
 - 2017-10-18 - User and Campus Support (Benedikt Riedel)
@@ -40,9 +40,9 @@
 
 Past meetings are listed newest to oldest.  Blank lines separate cycles of area coordinator presentations.
 
--   2017-09-20 - [Technology (Brian Bockelman)](https://twiki.opensciencegrid.org/bin/view/Management/20170920AgendaMinutes)
--   2017-09-13 - [Security (Susan Sons)](https://twiki.opensciencegrid.org/bin/view/Management/20170913AgendaMinutes)
--   2017-09-06 - [Outreach and Operations (Kyle Gross and Rob Quick)](https://twiki.opensciencegrid.org/bin/view/Management/20170906AgendaMinutes)
+- 2017-09-20 - [Technology](https://drive.google.com/open?id=0B-VLYsFOFY5ROHZwLWU3eFJvMWM) (Brian Bockelman)
+- 2017-09-13 - [Security (Susan Sons)](https://twiki.opensciencegrid.org/bin/view/Management/20170913AgendaMinutes)
+- 2017-09-06 - [Outreach and Operations (Kyle Gross and Rob Quick)](https://twiki.opensciencegrid.org/bin/view/Management/20170906AgendaMinutes)
 
 <!-- -->
 
