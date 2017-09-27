@@ -27,7 +27,7 @@
 
 ## Upcoming Meetings
 
-- 2017-09-27 - Software (Brian Lin) and Release (Tim Theisen)
+- 2017-09-27 - [Software and Release (Brian Lin and Tim Theisen)](https://docs.google.com/document/d/1NmIpykDswfYoQ72wumwO60RXLBIeAEbIZH8nq8zSXGA/edit?usp=sharing)
 - 2017-10-04 - Canceled due to [OSG Council meeting](https://indico.fnal.gov/conferenceDisplay.py?confId=14824)
 - 2017-10-11 - Networking (Shawn McKee)
 - 2017-10-18 - User and Campus Support (Benedikt Riedel)
