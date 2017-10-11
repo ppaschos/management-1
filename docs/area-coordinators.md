@@ -27,7 +27,7 @@
 
 ## Upcoming Meetings
 
-- 2017-10-11 - Networking (Shawn McKee)
+- 2017-10-11 - [Networking](https://drive.google.com/file/d/0B63jqzjmiVgcV1dBQy1GdzlIazg/view?usp=sharing) (Shawn McKee)
 - 2017-10-18 - User and Campus Support (Benedikt Riedel)
 - 2017-10-25 - Production Support (Ken Herner)
 
