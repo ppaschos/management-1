@@ -27,7 +27,6 @@
 
 ## Upcoming Meetings
 
-- 2017-10-11 - [Networking](https://drive.google.com/file/d/0B63jqzjmiVgcV1dBQy1GdzlIazg/view?usp=sharing) (Shawn McKee)
 - 2017-10-18 - User and Campus Support (Benedikt Riedel)
 - 2017-10-25 - Production Support (Ken Herner)
 
@@ -38,6 +37,7 @@
 
 Past meetings are listed newest to oldest.  Blank lines separate cycles of area coordinator presentations.
 
+- 2017-10-11 - [Networking](https://drive.google.com/file/d/0B63jqzjmiVgcV1dBQy1GdzlIazg/view?usp=sharing) (Shawn McKee)
 - 2017-10-04 - Canceled due to [OSG Council meeting](https://indico.fnal.gov/conferenceDisplay.py?confId=14824)
 - 2017-09-27 - [Software and Release](https://docs.google.com/document/d/1NmIpykDswfYoQ72wumwO60RXLBIeAEbIZH8nq8zSXGA/edit?usp=sharing)
   (Brian Lin and Tim Theisen)
