@@ -27,7 +27,7 @@
 
 ## Upcoming Meetings
 
-- 2017-10-18 - User and Campus Support (Benedikt Riedel)
+- 2017-10-18 - [User and Campus Support](https://docs.google.com/presentation/d/197X_9zF4iKyhyIwD2YVgc-PIm8oKVb74wo7nbJnlY8o/view?usp=sharing) (Benedikt Riedel)
 - 2017-10-25 - Production Support (Ken Herner)
 
 
