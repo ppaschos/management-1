@@ -1,76 +1,67 @@
-# OSG Management Area
+# OSG Management
 
-Welcome to the home page of the OSG Management Team documentation area!  This is currently a work in progress as we
-migrate our TWiki documentation to GitHub.  If you are looking for our full documentation, please visit the
-[TWiki](https://twiki.opensciencegrid.org/bin/view/Management).
+This is the Open Science Grid (OSG) Management website, providing information about the management structure and activities of the OSG
+Consortium.
 
-
-## Organization
-
-The Management Plan, By-laws, and official reports are stored in the official
-[Document Repository](http://osg-docdb.opensciencegrid.org/cgi-bin/DocumentDatabase/).
-
-The OSG Organization structure is described
-[here](http://osg-docdb.opensciencegrid.org/0003/000314/008/6.OSG%20Management%20Plan.pdf). The concept and
-classification of Satellite projects is described
-[here](https://www.opensciencegrid.org/bin/view/Management/OSGSatelliteProjects). The OSG Computer Science Student
-Fellowship is described
-[here](https://osg-docdb.opensciencegrid.org:440/cgi-bin/RetrieveFile?docid=831&version=2&filename=OSG%20CS%20Student%20Fellowship.pdf).
-
-The Calendar for Consortium and other OSG collaboration meetings is in
-[Indico](http://indico.fnal.gov/categoryDisplay.py?categId=86).
+A much older and now out-of-date version of the OSG Management website is still available
+[on the OSG TWiki](https://twiki.opensciencegrid.org/bin/view/Management/WebHome?rev=153),
+but it will be removed at the end of 2017.
 
 
-## Work Plan and Tracking
+## Management Overview
 
-The OSG Planning process includes a WBS with the high level tasks (deliverables and milestones).  The WBS is maintained
-by the Project Manager and updated on a quarterly basis by the responsible person for each task area.  Each Area
-Coordinator then maintains more detailed task and action lists and plans.  These relate to the items in the WBS and are
-developed to a hierachy as appropriate.  Area Coordinators work with the Project Manager to review their work for
-consistency with the WBS.  The WBS is modified as needed to include any new work identified.
+The OSG is managed by three key groups, with substantial overlaps in personnel between the groups:
 
-**Please view the Area Coordinators [Meeting and Calendar](area-coordinators.md)**
+* **OSG Council** &ndash; a group of key stakeholders and the governing body of the OSG Consortium (for more information, [visit the OSG Council website](https://opensciencegrid.github.io/council/))
 
-**Please view the work plans for ny5 Year 1 in [OSG DocDB](https://osg-docdb.opensciencegrid.org:440/cgi-bin/ShowDocument?docid=1133)**
+* **OSG Executive Team** &ndash; manages the program of work and priorities of the OSG Project (see below)
 
+* **OSG Area Coordinators** &ndash; as leads of OSG functional areas, perform detailed planning and tracking (for more information, [visit the OSG Area Coordinators page](/management/area-coordinators/))
 
-## Administrative Procedures
-
-Documentation of OSG Administrative Procedures: [Administrative Procedures](AdministrativeProcedures)
 
 ## Executive Team
 
-The [Executive Team home page](executive-team.md) contains meeting information and an archive of meeting notes (mostly
-from 2008 and earlier).
+The OSG Executive Team manages the program of work and priorities of the OSG Project, as well as contributions from OSG
+Consortium members.
+
+Current Executive Team members:
+
+* Frank Würthwein, University of California San Diego, OSG Executive Director
+* Miron Livny, University of Wisconsin&ndash;Madison, OSG Technical Director and PI
+* Brian Bockelman, University of Nebraska–Lincoln, OSG Technology lead
+* Burt Holzman, Fermi National Accelerator Laboratory, Fermilab representative
+* David Swanson, University of Nebraska–Lincoln, OSG Council chair
+* Eric Lançon, Brookhaven National Laboratory, ATLAS representative
+* Mark Neubauer, University of Illinois at Urbana-Champaign, OSG Resource Manager
+* Rob Gardner, University of Chicago, OSG User and Campus Support lead
+* Rob Quick, Indiana University, OSG Operations lead
+* Tim Cartwright, University of Wisconsin&ndash;Madison, OSG Chief of Staff
 
 
-## OSG Newsletter Log
+## Management Activities
 
-Documentation of possible articles month by month [Newsletter Articles](NewsletterArticles) (yes, the link is broken).
+Major activities of OSG management teams include:
+
+* An annual planning retreat.  At this two-day meeting near the start of each fiscal year, strategies, goals, and plans
+  for the coming year and beyond are reviewed, discussed, debated, and settled on.
+
+* A work-breakdown structure (WBS).  Stemming from the annual planning retreat and maintained throughout the year is a
+  standard WBS of high-level goals and objectives, including deliverables and milestones.  The Executive Director and
+  Chief of Staff select key goals to monitor during the year, and Area Coordinators report progress on and update the
+  WBS documents periodically.
+
+* OSG Council meetings.  These are scheduled quarterly (two per year in person, two by conference call) and generally
+  include comprehensive reviews of all OSG areas and goals.  Members from outside the OSG provide valuable insight into
+  stakeholder needs, the cyberinfrastructure environment, and funding opportunities, and advise OSG management.
+
+* OSG Executive Team meetings.  The team meets weekly to check in on key projects and discuss particular challenges.
+
+* OSG Area Coordinator meetings.  Also weekly, one or two Area Coordinators present on recent accomplishments, update
+  the group on the status of WBS goals, and discuss current or foreseeable challenges.  Because every OSG functional
+  area is represented, this is a great venue to discuss cross-area issues.
 
 
-## Computer Science Student Fellowships
+## For More Information
 
-The OSG Computer Science Student Fellowship provides for one year of funding to a graduate or undergraduate student in
-Computer Science.  The fellowship provides funding for up to 20 hours a week for computer science research of value both
-to the OSG and the broader community.  The Fellowship is offered for the institutions that are funded as part of the OSG
-project at the time of application and delivery of the research.
-
-The OSG Computer Science Student Fellowship is described
-[here](https://osg-docdb.opensciencegrid.org:440/cgi-bin/RetrieveFile?docid=831&version=2&filename=OSG%20CS%20Student%20Fellowship.pdf).
-Please contact the [Executive Team](mailto:osg-et@opensciencegrid.org) if you are interested in this opportunity.
-Fellowships to date:
-
-| Date | Fellow | Mentor | Project Description | Reports ||
-| 10/10 | Derek Weitzel | David Swanson | [Campus Grid Technologies](https://twiki.grid.iu.edu/bin/view/Trash/Trash/Trash/Trash/CampusGrids/CampusGridTechnology) | ||
-
-
-## Satellite Projects
-
-OSG has a special relationship with certain projects.  See [Satellite Projects](OSGSatelliteProjects) (link is broken)
-for more information.
-
-## Partnerships
-
-OSG partners with organizations in the broad area of high throughput and high performance computing.  See [Partner
-Organizations](OSGPartnerOrganizations) (link is broken).
+* [OSG official document repository (“DocDB”)](http://osg-docdb.opensciencegrid.org/cgi-bin/DocumentDatabase/)
+* [Calendar of OSG and collaborator events](http://indico.fnal.gov/categoryDisplay.py?categId=86)
