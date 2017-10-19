@@ -12,11 +12,14 @@ but it will be removed at the end of 2017.
 
 The OSG is managed by three key groups, with substantial overlaps in personnel between the groups:
 
-* **OSG Council** &ndash; a group of key stakeholders and the governing body of the OSG Consortium (for more information, [visit the OSG Council website](https://opensciencegrid.github.io/council/))
+* The **OSG Council** is a group of key stakeholders and the governing body of the OSG Consortium&nbsp;&mdash; for more
+  information, [visit the OSG Council website](https://opensciencegrid.github.io/council/)
 
-* **OSG Executive Team** &ndash; manages the program of work and priorities of the OSG Project ([see below](#executive-team))
+* The **OSG Executive Team** manages the program of work and priorities of the OSG Project&nbsp;&mdash;
+  [see below](#executive-team)
 
-* **OSG Area Coordinators** &ndash; as leads of OSG functional areas, perform detailed planning and tracking (for more information, [visit the OSG Area Coordinators page](area-coordinators))
+* The **OSG Area Coordinators** are leads of OSG functional areas and perform detailed planning and
+  tracking&nbsp;&mdash; for more information, [visit the OSG Area Coordinators page](area-coordinators)
 
 
 ## Executive Team
@@ -29,9 +32,9 @@ Current Executive Team members:
 * Frank Würthwein, University of California San Diego, OSG Executive Director
 * Miron Livny, University of Wisconsin&ndash;Madison, OSG Technical Director and PI
 * Brian Bockelman, University of Nebraska–Lincoln, OSG Technology lead
-* Burt Holzman, Fermi National Accelerator Laboratory, Fermilab representative
+* Burt Holzman, Fermi National Accelerator Laboratory, Fermilab/CMS representative
 * David Swanson, University of Nebraska–Lincoln, OSG Council chair
-* Eric Lançon, Brookhaven National Laboratory, ATLAS representative
+* Eric Lançon, Brookhaven National Laboratory, BNL/ATLAS representative
 * Mark Neubauer, University of Illinois at Urbana-Champaign, OSG Resource Manager
 * Rob Gardner, University of Chicago, OSG User and Campus Support lead
 * Rob Quick, Indiana University, OSG Operations lead
@@ -46,13 +49,14 @@ Major activities of OSG management teams include:
   for the coming year and beyond are reviewed, discussed, debated, and settled on.
 
 * A work-breakdown structure (WBS).  Stemming from the annual planning retreat and maintained throughout the year is a
-  standard WBS of high-level goals and objectives, including deliverables and milestones.  The Executive Director and
-  Chief of Staff select key goals to monitor during the year, and Area Coordinators report progress on and update the
-  WBS documents periodically.
+  standard WBS of high-level goals and objectives, including deliverables and milestones.  The Area Coordinators report
+  progress on and update the WBS documents periodically, and the OSG Executive team is responsible for the management
+  and supervision of the WBS throughout the year.
 
 * OSG Council meetings.  These are scheduled quarterly (two per year in person, two by conference call) and generally
-  include comprehensive reviews of all OSG areas and goals.  Members from outside the OSG provide valuable insight into
-  stakeholder needs, the cyberinfrastructure environment, and funding opportunities, and advise OSG management.
+  include reviews of all OSG areas and goals, as well as any other reports the Council requests.  Council members
+  provide long-term strategy and supervision of the OSG Project and its management team, including election of the
+  Executive Director.
 
 * OSG Executive Team meetings.  The team meets weekly to check in on key projects and discuss particular challenges.
 
