@@ -14,9 +14,9 @@ The OSG is managed by three key groups, with substantial overlaps in personnel b
 
 * **OSG Council** &ndash; a group of key stakeholders and the governing body of the OSG Consortium (for more information, [visit the OSG Council website](https://opensciencegrid.github.io/council/))
 
-* **OSG Executive Team** &ndash; manages the program of work and priorities of the OSG Project (see below)
+* **OSG Executive Team** &ndash; manages the program of work and priorities of the OSG Project ([see below](#executive-team))
 
-* **OSG Area Coordinators** &ndash; as leads of OSG functional areas, perform detailed planning and tracking (for more information, [visit the OSG Area Coordinators page](/management/area-coordinators/))
+* **OSG Area Coordinators** &ndash; as leads of OSG functional areas, perform detailed planning and tracking (for more information, [visit the OSG Area Coordinators page](area-coordinators))
 
 
 ## Executive Team
