@@ -1,10 +1,21 @@
 # OSG Area Coordinators
 
+The OSG Area Coordinators are leads of OSG functional areas and perform detailed planning and tracking.  The Area
+Coordinators meet weekly, and one or two Area Coordinators present on recent accomplishments, update the group on the
+status of WBS goals, and discuss current or foreseeable challenges.
 
-## Reference Information
 
-- [OSG calendar](https://indico.fnal.gov/categoryDisplay.py?categId=86)
-- [OSG workplan for N5Y Year 5](https://osg-docdb.opensciencegrid.org:440/cgi-bin/ShowDocument?docid=1232)
+## Current Area Coordinators
+
+| OSG Area | Area Coordinator |
+| :------- | :--------------- |
+| [Networking](https://opensciencegrid.github.io/networking/) | Shawn McKee, University of Michigan |
+| [Operations](https://opensciencegrid.github.io/operations/) | Rob Quick, Indiana University |
+| [Outreach](https://www.opensciencegrid.org/) | Kyle Gross, Indiana University |
+| [Security](https://opensciencegrid.github.io/security/) | Susan Sons, Indiana University |
+| [Software and Release](https://opensciencegrid.github.io/technology/) | Brian Lin<br>Tim Theisen, University of Wisconsin&ndash;Madison |
+| [Technology Investigations](https://www.github.com/opensciencegrid/technology/) | Brian Bockelman, University of Nebraska&ndash;Lincoln |
+| [User and Campus Support](https://support.opensciencegrid.org/) | Rob Gardner, University of Chicago |
 
 
 ## Weekly Meeting
@@ -23,6 +34,12 @@
     </td>
   </tr>
 </table>
+
+
+## Reference Information
+
+- [OSG calendar](https://indico.fnal.gov/categoryDisplay.py?categId=86)
+- [OSG workplan for N5Y Year 5](https://osg-docdb.opensciencegrid.org:440/cgi-bin/ShowDocument?docid=1232)
 
 
 ## Upcoming Meetings
