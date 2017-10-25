@@ -43,7 +43,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2017-10-25 - Production Support (Ken Herner)
+- 2017-10-25 - [Production Support](https://drive.google.com/open?id=0BzjiUtV-7HOrZ2ZTTUN4eXFnS0E) (Ken Herner)
 
 
 ### Past Meetings
