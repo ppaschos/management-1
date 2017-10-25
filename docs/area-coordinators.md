@@ -35,20 +35,20 @@ The current Area Coordinators are:
 </table>
 
 
-## Reference Information
+### Reference Information
 
 - [OSG calendar](https://indico.fnal.gov/categoryDisplay.py?categId=86)
 - [OSG workplan for N5Y Year 5](https://osg-docdb.opensciencegrid.org:440/cgi-bin/ShowDocument?docid=1232)
 
 
-## Upcoming Meetings
+### Upcoming Meetings
 
 - 2017-10-25 - Production Support (Ken Herner)
 
 
-## Past Meetings
+### Past Meetings
 
-### 2017
+#### 2017
 
 Past meetings are listed newest to oldest.  Blank lines separate cycles of area coordinator presentations.
 
@@ -112,7 +112,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 -   2017-01-04 - [Networking (Shawn McKee)](https://twiki.opensciencegrid.org/bin/view/Management/20170104AgendaMinutes)
 
 
-### 2016 and earlier
+#### 2016 and earlier
 
 Links to Area Coordinator meetings from 2016 are on [a separate archive page](ac-meeting-archive).  In late 2017, when
 the OSG TWiki is decommissioned, the archived meeting pages from late 2017 and eariler will no longer be available
