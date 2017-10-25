@@ -13,7 +13,7 @@ status of WBS goals, and discuss current or foreseeable challenges.
 | [Operations](https://opensciencegrid.github.io/operations/) | Rob Quick, Indiana University |
 | [Outreach](https://www.opensciencegrid.org/) | Kyle Gross, Indiana University |
 | [Security](https://opensciencegrid.github.io/security/) | Susan Sons, Indiana University |
-| [Software and Release](https://opensciencegrid.github.io/technology/) | Brian Lin<br>Tim Theisen, University of Wisconsin&ndash;Madison |
+| [Software and Release](https://opensciencegrid.github.io/technology/) | Brian Lin and Tim Theisen, University of Wisconsin&ndash;Madison |
 | [Technology Investigations](https://www.github.com/opensciencegrid/technology/) | Brian Bockelman, University of Nebraska&ndash;Lincoln |
 | [User and Campus Support](https://support.opensciencegrid.org/) | Rob Gardner, University of Chicago |
 
