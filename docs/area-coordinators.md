@@ -4,8 +4,7 @@ As part of [the overall OSG management structure](index), the OSG Area Coordinat
 and perform detailed planning and tracking.  The Area Coordinators meet weekly, and one or two Area Coordinators present
 on recent accomplishments, update the group on the status of WBS goals, and discuss current or foreseeable challenges.
 
-
-## Current Area Coordinators
+The current Area Coordinators are:
 
 | OSG Area | Area Coordinator |
 | :------- | :--------------- |
