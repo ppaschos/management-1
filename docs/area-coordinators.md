@@ -115,6 +115,6 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 ### 2016 and earlier
 
-Links to all Area Coordinator meetings from 2008–2016 are on [a separate archive page](ac-meeting-archive).  In late
-2017, these pages will be archived as raw TWiki text, without attachments; once the OSG TWiki is decommissioned, the
-archived pages will no longer be available online.
+Links to Area Coordinator meetings from 2016 are on [a separate archive page](ac-meeting-archive).  In late 2017, when
+the OSG TWiki is decommissioned, the archived meeting pages from late 2017 and eariler will no longer be available
+online.
