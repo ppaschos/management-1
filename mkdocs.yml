@@ -1,7 +1,8 @@
 site_name: OSG Management Area
-site_url: https://opensciencegrid.github.io/management
-repo_url: https://github.com/opensciencegrid/management
-theme: readthedocs
+site_url: https://opensciencegrid.github.io/management/
+repo_url: https://github.com/opensciencegrid/management/
+theme:
+  name: readthedocs
 
 extra_css:
   - css/extra.css
