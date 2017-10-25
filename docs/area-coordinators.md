@@ -1,8 +1,8 @@
 # OSG Area Coordinators
 
-The OSG Area Coordinators are leads of OSG functional areas and perform detailed planning and tracking.  The Area
-Coordinators meet weekly, and one or two Area Coordinators present on recent accomplishments, update the group on the
-status of WBS goals, and discuss current or foreseeable challenges.
+As part of [the overall OSG management structure](index), the OSG Area Coordinators are leads of OSG functional areas
+and perform detailed planning and tracking.  The Area Coordinators meet weekly, and one or two Area Coordinators present
+on recent accomplishments, update the group on the status of WBS goals, and discuss current or foreseeable challenges.
 
 
 ## Current Area Coordinators
@@ -14,7 +14,7 @@ status of WBS goals, and discuss current or foreseeable challenges.
 | [Outreach](https://www.opensciencegrid.org/) | Kyle Gross, Indiana University |
 | [Security](https://opensciencegrid.github.io/security/) | Susan Sons, Indiana University |
 | [Software and Release](https://opensciencegrid.github.io/technology/) | Brian Lin and Tim Theisen, University of Wisconsin&ndash;Madison |
-| [Technology Investigations](https://www.github.com/opensciencegrid/technology/) | Brian Bockelman, University of Nebraska&ndash;Lincoln |
+| [Technology Investigations](https://opensciencegrid.github.io/technology/) | Brian Bockelman, University of Nebraska&ndash;Lincoln |
 | [User and Campus Support](https://support.opensciencegrid.org/) | Rob Gardner, University of Chicago |
 
 
