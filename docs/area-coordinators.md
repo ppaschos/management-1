@@ -44,7 +44,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2017-10-25 - [Production Support](https://drive.google.com/open?id=0BzjiUtV-7HOrZ2ZTTUN4eXFnS0E) (Ken Herner)
 - 2017-11-01 - Outreach and Operations (Kyle Gross and Rob Quick)
 - 2017-11-08 - Networking (Shawn McKee)
 - 2017-11-15 - Software and Release (Brian Lin and Tim Theisen)
@@ -61,6 +60,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2017
 
+- 2017-10-25 - [Production Support](https://drive.google.com/open?id=0BzjiUtV-7HOrZ2ZTTUN4eXFnS0E) (Ken Herner)
 - 2017-10-18 - [User and Campus Support](https://docs.google.com/presentation/d/197X_9zF4iKyhyIwD2YVgc-PIm8oKVb74wo7nbJnlY8o/view?usp=sharing) (Benedikt Riedel)
 - 2017-10-11 - [Networking](https://drive.google.com/file/d/0B63jqzjmiVgcV1dBQy1GdzlIazg/view?usp=sharing) (Shawn McKee)
 - 2017-10-04 - Canceled due to [OSG Council meeting](https://indico.fnal.gov/conferenceDisplay.py?confId=14824)
