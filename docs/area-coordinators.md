@@ -44,7 +44,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2017-11-01 - Outreach and Operations (Kyle Gross and Rob Quick)
+- 2017-11-01 - [Outreach and Operations](https://github.com/opensciencegrid/operations/blob/master/docs/acops.md) (Kyle Gross and Rob Quick)
 - 2017-11-08 - Networking (Shawn McKee)
 - 2017-11-15 - Software and Release (Brian Lin and Tim Theisen)
 - 2017-11-22 - Canceled due to Thanksgiving
