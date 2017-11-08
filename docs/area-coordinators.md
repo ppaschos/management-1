@@ -44,7 +44,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2017-11-08 - Networking (Shawn McKee)
+- 2017-11-08 - [Networking](https://drive.google.com/open?id=1joJSmTvoJL0GuMBvDB5KLlc-WEyH3VXp) (Shawn McKee)
 - 2017-11-15 - Software and Release (Brian Lin and Tim Theisen)
 - 2017-11-22 - Canceled due to Thanksgiving
 - 2017-11-29 - Technology (Brian Bockelman)
