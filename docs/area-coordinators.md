@@ -44,7 +44,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2017-11-15 - Software and Release (Brian Lin and Tim Theisen)
+- 2017-11-15 - [Software and Release](https://docs.google.com/document/d/1RicLGqMfOzBvds6VbKaIPFzFsk45w2U8zKjISJ4q_EE/edit?usp=sharing) (Brian Lin, Mat Selmeci, and Tim Theisen)
 - 2017-11-22 - Canceled due to Thanksgiving
 - 2017-11-29 - Technology (Brian Bockelman)
 - 2017-12-06 - Production Support (Ken Herner)
