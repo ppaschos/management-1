@@ -44,7 +44,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2017-11-15 - [Software and Release](https://docs.google.com/document/d/1RicLGqMfOzBvds6VbKaIPFzFsk45w2U8zKjISJ4q_EE/edit?usp=sharing) (Brian Lin, Mat Selmeci, and Tim Theisen)
 - 2017-11-22 - Canceled due to Thanksgiving
 - 2017-11-29 - Technology (Brian Bockelman)
 - 2017-12-06 - Production Support (Ken Herner)
@@ -58,6 +57,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2017
 
+- 2017-11-15 - [Software and Release](https://docs.google.com/document/d/1RicLGqMfOzBvds6VbKaIPFzFsk45w2U8zKjISJ4q_EE/edit?usp=sharing) (Brian Lin, Mat Selmeci, and Tim Theisen)
 - 2017-11-08 - [Networking](https://drive.google.com/open?id=1joJSmTvoJL0GuMBvDB5KLlc-WEyH3VXp) (Shawn McKee)
 - 2017-11-01 - [Outreach and Operations](https://github.com/opensciencegrid/operations/blob/master/docs/acops.md) (Kyle Gross and Rob Quick)
 
