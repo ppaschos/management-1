@@ -44,7 +44,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2017-12-06 - Technology (Brian Bockelman)
+- 2017-12-06 - Technology Investigations (Brian Bockelman)
 - 2017-12-13 - Security (Susan Sons)
 - 2017-12-20 - User and Campus Support (Rob Gardner)
 
