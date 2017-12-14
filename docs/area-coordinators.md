@@ -44,7 +44,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2017-12-13 - [Security](http://slides.com/hedgemage/osg-ac-13dec2017) (Susan Sons)
 - 2017-12-20 - User and Campus Support (Rob Gardner)
 
 
@@ -54,6 +53,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2017
 
+- 2017-12-13 - [Security](http://slides.com/hedgemage/osg-ac-13dec2017) (Susan Sons)
 - 2017-12-06 - [Technology Investigations](https://drive.google.com/file/d/1-PgmJ8XwghMtE730ucJn9NVFTST6ioF3/view?usp=sharing) (Brian Bockelman)
 - 2017-11-29 - [Production Support](https://drive.google.com/open?id=1D7bE2xZOTRKW61j2rc-itx7M9vpoWhY7) (Ken Herner)
 - 2017-11-22 - Canceled due to Thanksgiving
