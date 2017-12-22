@@ -45,6 +45,16 @@ The current Area Coordinators are:
 ### Upcoming Meetings
 
 - 2017-12-20 - User and Campus Support (Rob Gardner)
+- 2017-12-27 - Canceled due to Christmas
+- 2018-01-03 - Canceled due to getting back from holidays
+- 2018-01-10 - Outreach and Operations (Kyle Gross and Rob Quick)
+- 2018-01-17 - Networking (Shawn McKee)
+- 2018-01-24 - Software and Release (Brian Lin and Tim Theisen)
+- 2018-01-31 - Production Support (Ken Herner)
+- 2018-02-07 - Technology Investigations (Brian Bockelman)
+- 2018-02-14 - Security (Susan Sons)
+- 2018-02-21 - User and Campus Support (Rob Gardner)
+- 2018-02-28 - S2I2 Updates (Frank Würthwein)
 
 
 ### Past Meetings
