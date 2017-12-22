@@ -44,7 +44,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2017-12-20 - User and Campus Support (Rob Gardner)
+- 2017-12-20 - [User and Campus Support](https://docs.google.com/presentation/d/1SgSDXxDu93WGEgHba9L3NQ0J_3fiWpsncU0r988jyYc/view) (Rob Gardner)
 - 2017-12-27 - Canceled due to Christmas
 - 2018-01-03 - Canceled due to getting back from holidays
 - 2018-01-10 - Outreach and Operations (Kyle Gross and Rob Quick)
