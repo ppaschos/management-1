@@ -10,7 +10,7 @@ The current Area Coordinators are:
 | :------- | :--------------- |
 | [Networking](https://opensciencegrid.github.io/networking/) | Shawn McKee, University of Michigan |
 | [Operations](https://opensciencegrid.github.io/operations/) | Rob Quick, Indiana University |
-| [Outreach](https://www.opensciencegrid.org/) | Kyle Gross, Indiana University |
+| [Outreach](https://opensciencegrid.github.io/outreach/) | Kyle Gross, Indiana University |
 | Production Support | Ken Herner, Fermi National Accelerator Lab |
 | [Security](https://opensciencegrid.github.io/security/) | Susan Sons, Indiana University |
 | [Software and Release](https://opensciencegrid.github.io/technology/) | Brian Lin and Tim Theisen, University of Wisconsin&ndash;Madison |
