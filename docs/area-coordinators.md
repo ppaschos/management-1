@@ -44,8 +44,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2017-12-27 - Canceled due to Christmas
-- 2018-01-03 - Canceled due to getting back from holidays
 - 2018-01-10 - Outreach and Operations (Kyle Gross and Rob Quick)
 - 2018-01-17 - Networking (Shawn McKee)
 - 2018-01-24 - Software and Release (Brian Lin and Tim Theisen)
@@ -62,8 +60,11 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2017
 
+- 2018-01-03 - Canceled due to getting back from holidays
+
 <!-- -->
 
+- 2017-12-27 - Canceled due to Christmas
 - 2017-12-20 - [User and Campus Support](https://docs.google.com/presentation/d/1SgSDXxDu93WGEgHba9L3NQ0J_3fiWpsncU0r988jyYc/view) (Rob Gardner)
 - 2017-12-13 - [Security](http://slides.com/hedgemage/osg-ac-13dec2017) (Susan Sons)
 - 2017-12-06 - [Technology Investigations](https://drive.google.com/file/d/1-PgmJ8XwghMtE730ucJn9NVFTST6ioF3/view?usp=sharing) (Brian Bockelman)
