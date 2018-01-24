@@ -3,6 +3,7 @@ site_url: https://opensciencegrid.github.io/management/
 repo_url: null
 theme:
   name: material
+  favicon: img/favicon.ico
 
 pages:
   - Home: 'index.md'
