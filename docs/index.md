@@ -3,10 +3,6 @@
 This is the Open Science Grid (OSG) Management website, providing information about the management structure and activities of the OSG
 Consortium.
 
-A much older and now out-of-date version of the OSG Management website is still available
-[on the OSG TWiki](https://twiki.opensciencegrid.org/bin/view/Management/WebHome?rev=153),
-but it will be removed at the end of 2017.
-
 
 ## Management Overview
 
