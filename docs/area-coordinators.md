@@ -44,7 +44,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-01-24 - Software and Release (Brian Lin and Tim Theisen)
+- 2018-01-24 - [Software and Release](https://docs.google.com/document/d/1-9aGA1a8Ygu-jR5ojj556ntLwP7n6ufjI_H3Cw-krv8/edit?usp=sharing) (Brian Lin and Tim Theisen)
 - 2018-01-31 - Production Support (Ken Herner)
 - 2018-02-07 - Technology Investigations (Brian Bockelman)
 - 2018-02-14 - Security (Susan Sons)
