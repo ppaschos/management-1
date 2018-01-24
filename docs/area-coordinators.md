@@ -87,7 +87,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 - 2017-09-06 - Outreach and Operations (Kyle Gross and Rob Quick)
 
 
-#### 2016 and earlier
+#### Earlier Meetings
 
-Information about earlier Area Coordinator meetings are on [a separate archive page](ac-meeting-archive).  Meetings
-notes prior to 20 September 2017 were contained in the old OSG TWiki and are no longer available online.
+Information about earlier Area Coordinator meetings are on [a separate archive page](ac-meeting-archive).  Meeting notes
+prior to 20 September 2017 were contained in the old OSG TWiki and are no longer available online.
