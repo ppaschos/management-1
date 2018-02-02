@@ -44,7 +44,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-01-31 - Production Support (Ken Herner)
+- 2018-01-31 - [Production Support](https://drive.google.com/open?id=12vTI4aP2tMctlKUk6YatduqOMWmzNSm5) (Ken Herner)
 - 2018-02-07 - Technology Investigations (Brian Bockelman)
 - 2018-02-14 - Security (Susan Sons)
 - 2018-02-21 - User and Campus Support (Rob Gardner)
