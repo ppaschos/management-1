@@ -44,7 +44,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-01-31 - [Production Support](https://drive.google.com/open?id=12vTI4aP2tMctlKUk6YatduqOMWmzNSm5) (Ken Herner)
 - 2018-02-07 - Technology Investigations (Brian Bockelman)
 - 2018-02-14 - Security (Susan Sons)
 - 2018-02-21 - User and Campus Support (Rob Gardner)
@@ -57,6 +56,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2017
 
+- 2018-01-31 - [Production Support](https://drive.google.com/open?id=12vTI4aP2tMctlKUk6YatduqOMWmzNSm5) (Ken Herner)
 - 2018-01-24 - [Software and Release](https://docs.google.com/document/d/1-9aGA1a8Ygu-jR5ojj556ntLwP7n6ufjI_H3Cw-krv8/edit?usp=sharing) (Brian Lin and Tim Theisen)
 - 2018-01-17 - [Networking](https://drive.google.com/open?id=1Vz99vppmMCRKVj9xupWRNVOxdlBAjRU7) (Shawn McKee)
 - 2018-01-10 - [Outreach and Operations](https://github.com/opensciencegrid/operations/blob/master/docs/acops-10-Jan-2018.md) (Kyle Gross and Rob Quick)
