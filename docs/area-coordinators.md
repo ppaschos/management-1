@@ -44,7 +44,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-02-07 - Technology Investigations (Brian Bockelman)
+- 2018-02-07 - [Technology Investigations](https://drive.google.com/open?id=17jk7qv7HBDzQQr0EFZ63irH4vNaenBu9) (Brian Bockelman)
 - 2018-02-14 - Security (Susan Sons)
 - 2018-02-21 - User and Campus Support (Rob Gardner)
 - 2018-02-28 - S2I2 Updates (Frank Würthwein)
