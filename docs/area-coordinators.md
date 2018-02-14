@@ -44,7 +44,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-02-14 - Security (Susan Sons)
+- 2018-02-14 - [Security](https://slides.com/hedgemage/osg-ac-14feb2018) (Susan Sons)
 - 2018-02-21 - User and Campus Support (Rob Gardner)
 - 2018-02-28 - S2I2 Updates (Frank Würthwein)
 
