@@ -44,7 +44,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-02-14 - [Security](https://slides.com/hedgemage/osg-ac-14feb2018) (Susan Sons)
 - 2018-02-21 - User and Campus Support (Rob Gardner)
 - 2018-02-28 - S2I2 Updates (Frank Würthwein)
 
@@ -55,6 +54,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2017
 
+- 2018-02-14 - [Security](https://slides.com/hedgemage/osg-ac-14feb2018) (Susan Sons)
 - 2018-02-07 - [Technology Investigations](https://drive.google.com/open?id=17jk7qv7HBDzQQr0EFZ63irH4vNaenBu9) (Brian Bockelman)
 - 2018-01-31 - [Production Support](https://drive.google.com/open?id=12vTI4aP2tMctlKUk6YatduqOMWmzNSm5) (Ken Herner)
 - 2018-01-24 - [Software and Release](https://docs.google.com/document/d/1-9aGA1a8Ygu-jR5ojj556ntLwP7n6ufjI_H3Cw-krv8/edit?usp=sharing) (Brian Lin and Tim Theisen)
