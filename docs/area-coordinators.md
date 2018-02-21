@@ -44,7 +44,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-02-21 - User and Campus Support (Rob Gardner)
+- 2018-02-21 - [User and Campus Support](https://docs.google.com/presentation/d/1xMoqFaoRMPzWsQ4X9PaGEEU_OeuYDhlMxv9NoVcgm8s/edit) (Rob Gardner)
 - 2018-02-28 - S2I2 Updates (Frank Würthwein)
 
 
