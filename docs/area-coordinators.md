@@ -44,7 +44,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-02-28 - S2I2 Updates (Frank Würthwein)
+- 2018-02-28 - Outreach and Operations (Kyle Gross and Scott Teige)
 
 
 ### Past Meetings
