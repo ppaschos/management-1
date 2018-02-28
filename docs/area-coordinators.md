@@ -44,7 +44,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-02-28 - Outreach and Operations (Kyle Gross and Scott Teige)
+- 2018-02-28 - [Outreach and Operations](https://github.com/opensciencegrid/operations/blob/master/docs/ac-27-2-2018.md) (Kyle Gross and Scott Teige)
 
 
 ### Past Meetings
