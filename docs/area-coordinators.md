@@ -44,14 +44,18 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-02-28 - [Outreach and Operations](https://github.com/opensciencegrid/operations/blob/master/docs/ac-27-2-2018.md) (Kyle Gross and Scott Teige)
-
+- 2018-03-14 - Frank Würthwein on the S2I2
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.  Blank lines separate cycles of area coordinator presentations.
 
 #### 2018
+
+- 2018-03-07 - Canceled
+- 2018-02-28 - [Outreach and Operations](https://github.com/opensciencegrid/operations/blob/master/docs/ac-27-2-2018.md) (Kyle Gross and Scott Teige)
+
+<!-- -->
 
 - 2018-02-21 - [User and Campus Support](https://docs.google.com/presentation/d/1xMoqFaoRMPzWsQ4X9PaGEEU_OeuYDhlMxv9NoVcgm8s/edit) (Rob Gardner)
 - 2018-02-14 - [Security](https://slides.com/hedgemage/osg-ac-14feb2018) (Susan Sons)
