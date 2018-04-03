@@ -44,8 +44,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-03-21 - Canceled due to AHM
-- 2018-03-28 - Canceled due to Spring Break, etc.
 - 2018-04-04 - Software and Release (Brian Lin and Tim Theisen)
 - 2018-04-11 - Networking (Shawn McKee)
 - 2018-04-18 - Technology Investigations (Brian Bockelman)
@@ -59,6 +57,8 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2018
 
+- 2018-03-28 - Canceled due to Spring Break, etc.
+- 2018-03-21 - Canceled due to AHM
 - 2018-03-14 - Future of OSG (Frank Würthwein)
 - 2018-03-07 - Canceled
 - 2018-02-28 - [Outreach and Operations](https://github.com/opensciencegrid/operations/blob/master/docs/ac-27-2-2018.md) (Kyle Gross and Scott Teige)
