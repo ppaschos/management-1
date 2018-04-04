@@ -44,7 +44,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-04-04 - Software and Release (Brian Lin and Tim Theisen)
 - 2018-04-11 - Networking (Shawn McKee)
 - 2018-04-18 - Technology Investigations (Brian Bockelman)
 - 2018-04-25 - Security (Susan Sons)
@@ -57,6 +56,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2018
 
+- 2018-04-04 - [Software and Release](https://docs.google.com/document/d/16ENmHa2IUwCxXOZ7tddPF3D4nxJjcCgkRA7pv7Z2SvU/edit?usp=sharing) (Brian Lin and Tim Theisen)
 - 2018-03-28 - Canceled due to Spring Break, etc.
 - 2018-03-21 - Canceled due to AHM
 - 2018-03-14 - Future of OSG (Frank Würthwein)
