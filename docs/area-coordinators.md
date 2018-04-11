@@ -44,7 +44,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-04-11 - Networking (Shawn McKee)
+- 2018-04-11 - [Networking](https://drive.google.com/file/d/1nFGASJubvOVkGmfjVoryRImQTXjcnHtn/view) (Shawn McKee)
 - 2018-04-18 - Technology Investigations (Brian Bockelman)
 - 2018-04-25 - Security (Susan Sons)
 - 2018-05-02 - Production Support (Ken Herner)
