@@ -8,13 +8,13 @@ The current Area Coordinators are:
 
 | OSG Area | Area Coordinator |
 | :------- | :--------------- |
-| [Networking](https://opensciencegrid.github.io/networking/) | Shawn McKee, University of Michigan |
-| [Operations](https://opensciencegrid.github.io/operations/) | Rob Quick, Indiana University |
-| [Outreach](https://opensciencegrid.github.io/outreach/) | Kyle Gross, Indiana University |
+| [Networking](https://opensciencegrid.org/networking/) | Shawn McKee, University of Michigan |
+| [Operations](https://opensciencegrid.org/operations/) | Rob Quick, Indiana University |
+| [Outreach](https://opensciencegrid.org/outreach/) | Kyle Gross, Indiana University |
 | Production Support | Ken Herner, Fermi National Accelerator Lab |
-| [Security](https://opensciencegrid.github.io/security/) | Susan Sons, Indiana University |
-| [Software and Release](https://opensciencegrid.github.io/technology/) | Brian Lin and Tim Theisen, University of Wisconsin&ndash;Madison |
-| [Technology Investigations](https://opensciencegrid.github.io/technology/) | Brian Bockelman, University of Nebraska&ndash;Lincoln |
+| [Security](https://opensciencegrid.org/security/) | Susan Sons, Indiana University |
+| [Software and Release](https://opensciencegrid.org/technology/) | Brian Lin and Tim Theisen, University of Wisconsin&ndash;Madison |
+| [Technology Investigations](https://opensciencegrid.org/technology/) | Brian Bockelman, University of Nebraska&ndash;Lincoln |
 | [User and Campus Support](https://support.opensciencegrid.org/) | Rob Gardner, University of Chicago |
 
 
