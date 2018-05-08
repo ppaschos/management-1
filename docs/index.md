@@ -9,7 +9,7 @@ Consortium.
 The OSG is managed by three key groups, with substantial overlaps in personnel between the groups:
 
 * The **OSG Council** is a group of key stakeholders and the governing body of the OSG Consortium&nbsp;&mdash; for more
-  information, [visit the OSG Council website](https://opensciencegrid.github.io/council/)
+  information, [visit the OSG Council website](https://opensciencegrid.org/council/)
 
 * The **OSG Executive Team** manages the program of work and priorities of the OSG Project&nbsp;&mdash;
   [see below](#executive-team)
