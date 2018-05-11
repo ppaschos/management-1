@@ -50,7 +50,6 @@ The current Area Coordinators are:
 - 2018-04-18 - Technology Investigations (Brian Bockelman)
 - 2018-04-25 - Security (Susan Sons)
 - 2018-05-02 - Production Support (Ken Herner)
-- 2018-05-09 - User and Campus Support (Rob Gardner)
 
 ### Past Meetings
 
@@ -58,6 +57,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2018
 
+- 2018-05-09 - [User and Campus Support](https://docs.google.com/presentation/d/1WJ0cu3a-Ni0jiWnjTDnUC7T90URzNuCy-saORd93NmI/edit?usp=sharing) (Rob Gardner)
 - 2018-04-04 - [Software and Release](https://docs.google.com/document/d/16ENmHa2IUwCxXOZ7tddPF3D4nxJjcCgkRA7pv7Z2SvU/edit?usp=sharing) (Brian Lin and Tim Theisen)
 - 2018-03-28 - Canceled due to Spring Break, etc.
 - 2018-03-21 - Canceled due to AHM
