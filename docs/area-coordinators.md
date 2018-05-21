@@ -48,8 +48,20 @@ The current Area Coordinators are:
 
 - 2018-04-25 - Security (Susan Sons)
 - 2018-05-02 - [Production Support](https://drive.google.com/file/d/1vwacMzpxI6U1LEt6yJgdY6X04to9fnPo/view) (Ken Herner)
-- 2018-05-16 - Canceled due to HEPiX
-- 2018-05-23 - Canceled due to HTCondor Week
+
+<div style="height: 0.5ex"></div>
+
+- 2018-05-16 - <span style="color: silver;">Canceled due to HEPiX</span>
+- 2018-05-23 - <span style="color: silver;">Canceled due to HTCondor Week</span>
+- 2018-05-30 - Operations Wrap-Up and Sign-Off (Rob Quick)
+- 2018-06-06 - Software and Release (Brian Lin and Tim Theisen)
+- 2018-06-13 - Networking (Shawn McKee)
+- 2018-06-20 - Technology Investigations (Brian Bockelman)
+- 2018-06-27 - Security (Susan Sons)
+- 2018-07-04 - <span style="color: silver;">Canceled due to Independence Day</span>
+- 2018-07-11 - <span style="color: silver;">Canceled due to OSG User School</span>
+- 2018-07-18 - Production Support (Ken Herner)
+- 2018-07-25 - User and Campus Support (Rob Gardner)
 
 ### Past Meetings
 
