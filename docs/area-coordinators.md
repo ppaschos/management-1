@@ -54,7 +54,7 @@ The current Area Coordinators are:
 - 2018-05-16 - <span style="color: silver;">Canceled due to HEPiX</span>
 - 2018-05-23 - <span style="color: silver;">Canceled due to HTCondor Week</span>
 - 2018-05-30 - Operations Wrap-Up and Sign-Off (Rob Quick)
-- 2018-06-06 - Software and Release (Brian Lin and Tim Theisen)
+- 2018-06-06 - [Software and Release](https://docs.google.com/document/d/1flgOBN2IJ4j8FzftE4Za6tGD5JSp-XpErdrYj8OEYLk/edit?usp=sharing) (Brian Lin and Tim Theisen)
 - 2018-06-13 - Networking (Shawn McKee)
 - 2018-06-20 - Technology Investigations (Brian Bockelman)
 - 2018-06-27 - Security (Susan Sons)
