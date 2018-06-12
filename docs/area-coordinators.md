@@ -9,7 +9,7 @@ The current Area Coordinators are:
 | OSG Area | Area Coordinator |
 | :------- | :--------------- |
 | [Networking](https://opensciencegrid.org/networking/) | Shawn McKee, University of Michigan |
-| [Operations](https://opensciencegrid.org/operations/) | Rob Quick, Indiana University |
+| [Operations](https://opensciencegrid.org/operations/) | Jeff Dost, University of California San Diego |
 | [Outreach](https://opensciencegrid.org/outreach/) | Tim Cartwright (acting), University of Wisconsin&ndash;Madison |
 | Production Support | Ken Herner, Fermi National Accelerator Lab |
 | [Security](https://opensciencegrid.org/security/) | Susan Sons, Indiana University |
