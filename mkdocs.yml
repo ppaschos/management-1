@@ -9,6 +9,7 @@ pages:
   - Home: 'index.md'
   - Area Coordinators: 'area-coordinators.md'
   - AC Meeting Archive: 'ac-meeting-archive.md'
+  - Policies: 'policies.md'
 
 markdown_extensions:
   - admonition
