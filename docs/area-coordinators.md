@@ -46,15 +46,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-04-25 - Security (Susan Sons)
-- 2018-05-02 - [Production Support](https://drive.google.com/file/d/1vwacMzpxI6U1LEt6yJgdY6X04to9fnPo/view) (Ken Herner)
-
-<div style="height: 0.5ex"></div>
-
-- 2018-05-16 - <span style="color: silver;">Canceled due to HEPiX</span>
-- 2018-05-23 - <span style="color: silver;">Canceled due to HTCondor Week</span>
-- 2018-05-30 - Operations Wrap-Up and Sign-Off (Rob Quick)
-- 2018-06-06 - [Software and Release](https://docs.google.com/document/d/1flgOBN2IJ4j8FzftE4Za6tGD5JSp-XpErdrYj8OEYLk/edit?usp=sharing) (Brian Lin and Tim Theisen)
 - 2018-06-13 - Networking (Shawn McKee)
 - 2018-06-20 - Technology Investigations (Brian Bockelman)
 - 2018-06-27 - Security (Susan Sons)
@@ -69,7 +60,16 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2018
 
+- 2018-06-06 - [Software and Release](https://docs.google.com/document/d/1flgOBN2IJ4j8FzftE4Za6tGD5JSp-XpErdrYj8OEYLk/edit?usp=sharing) (Brian Lin and Tim Theisen)
+- 2018-05-30 - Operations Wrap-Up and Sign-Off (Rob Quick)
+- 2018-05-23 - <span style="color: silver;">Canceled due to HTCondor Week</span>
+- 2018-05-16 - <span style="color: silver;">Canceled due to HEPiX</span>
+
+<div style="height: 0.5ex"></div>
+
 - 2018-05-09 - [User and Campus Support](https://docs.google.com/presentation/d/1WJ0cu3a-Ni0jiWnjTDnUC7T90URzNuCy-saORd93NmI/edit?usp=sharing) (Rob Gardner)
+- 2018-05-02 - [Production Support](https://drive.google.com/file/d/1vwacMzpxI6U1LEt6yJgdY6X04to9fnPo/view) (Ken Herner)
+- 2018-04-25 - Security (Susan Sons)
 - 2018-04-18 - Technology Investigations (Brian Bockelman)
 - 2018-04-11 - [Networking](https://drive.google.com/file/d/1nFGASJubvOVkGmfjVoryRImQTXjcnHtn/view) (Shawn McKee)
 - 2018-04-04 - [Software and Release](https://docs.google.com/document/d/16ENmHa2IUwCxXOZ7tddPF3D4nxJjcCgkRA7pv7Z2SvU/edit?usp=sharing) (Brian Lin and Tim Theisen)
