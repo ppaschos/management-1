@@ -46,9 +46,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-06-13 - Networking (Shawn McKee) - notes pending
-- 2018-06-20 - <span style="color: silver;">Canceled</span>
-- 2018-06-27 - <span style="color: silver;">Canceled</span>
 - 2018-07-04 - <span style="color: silver;">Canceled due to Independence Day</span>
 - 2018-07-11 - <span style="color: silver;">Canceled due to OSG User School</span>
 - 2018-07-18 - Production Support (Ken Herner)
@@ -62,6 +59,9 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2018
 
+- 2018-06-27 - Canceled
+- 2018-06-20 - Canceled
+- 2018-06-13 - [Networking](https://drive.google.com/open?id=1Ut9I4XIW-OlNC3gRsv2wj2ne_HIr9vOA) (Shawn McKee)
 - 2018-06-06 - [Software and Release](https://docs.google.com/document/d/1flgOBN2IJ4j8FzftE4Za6tGD5JSp-XpErdrYj8OEYLk/edit?usp=sharing) (Brian Lin and Tim Theisen)
 - 2018-05-30 - Operations Wrap-Up and Sign-Off (Rob Quick)
 - 2018-05-23 - <span style="color: silver;">Canceled due to HTCondor Week</span>
