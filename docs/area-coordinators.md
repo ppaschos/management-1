@@ -50,8 +50,8 @@ The current Area Coordinators are:
 - 2018-07-11 - <span style="color: silver;">Canceled due to OSG User School</span>
 - 2018-07-18 - Production Support (Ken Herner)
 - 2018-07-25 - User and Campus Support (Rob Gardner)
-- 2018-08-01 - Technology Investigations ??? (Brian Bockelman)
-- 2018-08-08 - Security ??? (Susan Sons)
+- 2018-08-01 - Technology Investigations (Brian Bockelman)
+- 2018-08-08 - Security (Susan Sons)
 
 ### Past Meetings
 
