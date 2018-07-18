@@ -10,7 +10,7 @@ The current Area Coordinators are:
 | :------- | :--------------- |
 | [Networking](https://opensciencegrid.org/networking/) | Shawn McKee, University of Michigan |
 | [Operations](https://opensciencegrid.org/operations/) | Jeff Dost, University of California San Diego |
-| [Outreach](https://opensciencegrid.org/outreach/) | Tim Cartwright (acting), University of Wisconsin&ndash;Madison |
+| [Outreach](https://opensciencegrid.org/outreach/) | Tim Cartwright, University of Wisconsin&ndash;Madison |
 | Production Support | Ken Herner, Fermi National Accelerator Lab |
 | [Security](https://opensciencegrid.org/security/) | Susan Sons, Indiana University |
 | [Software and Release](https://opensciencegrid.org/technology/) | Brian Lin and Tim Theisen, University of Wisconsin&ndash;Madison |
@@ -46,8 +46,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-07-04 - <span style="color: silver;">Canceled due to Independence Day</span>
-- 2018-07-11 - <span style="color: silver;">Canceled due to OSG User School</span>
 - 2018-07-18 - Production Support (Ken Herner)
 - 2018-07-25 - User and Campus Support (Rob Gardner)
 - 2018-08-01 - Technology Investigations (Brian Bockelman)
@@ -59,6 +57,8 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2018
 
+- 2018-07-11 - Canceled due to OSG User School
+- 2018-07-04 - Canceled due to Independence Day
 - 2018-06-27 - Canceled
 - 2018-06-20 - Canceled
 - 2018-06-13 - [Networking](https://drive.google.com/open?id=1Ut9I4XIW-OlNC3gRsv2wj2ne_HIr9vOA) (Shawn McKee)
@@ -91,31 +91,6 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 - 2018-01-17 - [Networking](https://drive.google.com/open?id=1Vz99vppmMCRKVj9xupWRNVOxdlBAjRU7) (Shawn McKee)
 - 2018-01-10 - [Outreach and Operations](https://github.com/opensciencegrid/operations/blob/master/docs/acops-10-Jan-2018.md) (Kyle Gross and Rob Quick)
 - 2018-01-03 - Canceled due to getting back from holidays
-
-#### 2017
-
-- 2017-12-27 - Canceled due to Christmas
-- 2017-12-20 - [User and Campus Support](https://docs.google.com/presentation/d/1SgSDXxDu93WGEgHba9L3NQ0J_3fiWpsncU0r988jyYc/view) (Rob Gardner)
-- 2017-12-13 - [Security](http://slides.com/hedgemage/osg-ac-13dec2017) (Susan Sons)
-- 2017-12-06 - [Technology Investigations](https://drive.google.com/file/d/1-PgmJ8XwghMtE730ucJn9NVFTST6ioF3/view?usp=sharing) (Brian Bockelman)
-- 2017-11-29 - [Production Support](https://drive.google.com/open?id=1D7bE2xZOTRKW61j2rc-itx7M9vpoWhY7) (Ken Herner)
-- 2017-11-22 - Canceled due to Thanksgiving
-- 2017-11-15 - [Software and Release](https://docs.google.com/document/d/1RicLGqMfOzBvds6VbKaIPFzFsk45w2U8zKjISJ4q_EE/edit?usp=sharing) (Brian Lin, Mat Selmeci, and Tim Theisen)
-- 2017-11-08 - [Networking](https://drive.google.com/open?id=1joJSmTvoJL0GuMBvDB5KLlc-WEyH3VXp) (Shawn McKee)
-- 2017-11-01 - [Outreach and Operations](https://github.com/opensciencegrid/operations/blob/master/docs/acops.md) (Kyle Gross and Rob Quick)
-
-<!-- -->
-
-- 2017-10-25 - [Production Support](https://drive.google.com/open?id=0BzjiUtV-7HOrZ2ZTTUN4eXFnS0E) (Ken Herner)
-- 2017-10-18 - [User and Campus Support](https://docs.google.com/presentation/d/197X_9zF4iKyhyIwD2YVgc-PIm8oKVb74wo7nbJnlY8o/view?usp=sharing) (Benedikt Riedel)
-- 2017-10-11 - [Networking](https://drive.google.com/file/d/0B63jqzjmiVgcV1dBQy1GdzlIazg/view?usp=sharing) (Shawn McKee)
-- 2017-10-04 - Canceled due to [OSG Council meeting](https://indico.fnal.gov/conferenceDisplay.py?confId=14824)
-- 2017-09-27 - [Software and Release](https://docs.google.com/document/d/1NmIpykDswfYoQ72wumwO60RXLBIeAEbIZH8nq8zSXGA/edit?usp=sharing)
-  (Brian Lin and Tim Theisen)
-- 2017-09-20 - [Technology](https://drive.google.com/open?id=0B-VLYsFOFY5ROHZwLWU3eFJvMWM) (Brian Bockelman)
-- 2017-09-13 - Security (Susan Sons)
-- 2017-09-06 - Outreach and Operations (Kyle Gross and Rob Quick)
-
 
 #### Earlier Meetings
 
