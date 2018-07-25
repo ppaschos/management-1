@@ -46,7 +46,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-07-18 - Production Support (Ken Herner)
 - 2018-07-25 - User and Campus Support (Rob Gardner)
 - 2018-08-01 - Technology Investigations (Brian Bockelman)
 - 2018-08-08 - Security (Susan Sons)
@@ -57,6 +56,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2018
 
+- 2018-07-18 - [Production Support](https://drive.google.com/file/d/1Ehh_1uWpjxxVhvEU3feMr9aTzFgsWoWJ/view) (Ken Herner)
 - 2018-07-11 - Canceled due to OSG User School
 - 2018-07-04 - Canceled due to Independence Day
 - 2018-06-27 - Canceled
