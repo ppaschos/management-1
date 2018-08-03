@@ -46,7 +46,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-08-01 - [Technology Investigations](https://drive.google.com/open?id=0B-VLYsFOFY5ROHZwLWU3eFJvMWM) (Brian Bockelman)
+- 2018-08-01 - [Technology Investigations](https://drive.google.com/open?id=1L6ZWEbnE_gzi8upraXG7-HBsZ3mV6Ksm) (Brian Bockelman)
 - 2018-08-08 - Security (Susan Sons)
 
 ### Past Meetings
