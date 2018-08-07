@@ -33,7 +33,6 @@ Current Executive Team members:
 * Eric Lançon, Brookhaven National Laboratory, BNL/ATLAS representative
 * Mark Neubauer, University of Illinois at Urbana-Champaign, OSG Resource Manager
 * Rob Gardner, University of Chicago, OSG User and Campus Support lead
-* Rob Quick, Indiana University, OSG Operations lead
 * Tim Cartwright, University of Wisconsin&ndash;Madison, OSG Chief of Staff
 
 
