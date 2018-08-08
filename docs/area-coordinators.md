@@ -46,7 +46,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-08-08 - Security (Susan Sons)
+- 2018-08-08 - [Security](https://drive.google.com/file/d/16jJstzegvnQqh-4zoJI-GsnBT6jguToT/view?usp=sharing) (Susan Sons)
 
 ### Past Meetings
 
