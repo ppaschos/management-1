@@ -46,7 +46,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-08-15 - [Software and Release](https://docs.google.com/document/d/1WtFgyym3s_APX3P7xzNnwZ8RrfDvuD7QGbaXiqVvUyk/edit?usp=sharing) (Brian Lin and Tim Theisen)
 - 2018-08-22 - Networking (Shawn McKee)
 - 2018-08-29 - Canceled
 - 2018-09-05 - User and Campus Support (Rob Gardner)
@@ -60,6 +59,10 @@ The current Area Coordinators are:
 Past meetings are listed newest to oldest.  Blank lines separate cycles of area coordinator presentations.
 
 #### 2018
+
+- 2018-08-15 - [Software and Release](https://docs.google.com/document/d/1WtFgyym3s_APX3P7xzNnwZ8RrfDvuD7QGbaXiqVvUyk/edit?usp=sharing) (Brian Lin and Tim Theisen)
+
+<div style="height: 0.5ex"></div>
 
 - 2018-08-08 - [Security](https://drive.google.com/file/d/16jJstzegvnQqh-4zoJI-GsnBT6jguToT/view?usp=sharing) (Susan Sons)
 - 2018-08-01 - [Technology Investigations](https://drive.google.com/open?id=1L6ZWEbnE_gzi8upraXG7-HBsZ3mV6Ksm) (Brian Bockelman)
