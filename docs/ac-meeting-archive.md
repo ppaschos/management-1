@@ -3,6 +3,17 @@
 Meeting notes prior to 20 September 2017 were contained in the old OSG TWiki, which is no longer available.  If you need
 earlier meeting notes, please contact [Tim Cartwright](mailto:cat@cs.wisc.edu) and he can look for them in an archive.
 
+## 2018
+
+- 2018-02-21 - [User and Campus Support](https://docs.google.com/presentation/d/1xMoqFaoRMPzWsQ4X9PaGEEU_OeuYDhlMxv9NoVcgm8s/edit) (Rob Gardner)
+- 2018-02-14 - [Security](https://slides.com/hedgemage/osg-ac-14feb2018) (Susan Sons)
+- 2018-02-07 - [Technology Investigations](https://drive.google.com/open?id=17jk7qv7HBDzQQr0EFZ63irH4vNaenBu9) (Brian Bockelman)
+- 2018-01-31 - [Production Support](https://drive.google.com/open?id=12vTI4aP2tMctlKUk6YatduqOMWmzNSm5) (Ken Herner)
+- 2018-01-24 - [Software and Release](https://docs.google.com/document/d/1-9aGA1a8Ygu-jR5ojj556ntLwP7n6ufjI_H3Cw-krv8/edit?usp=sharing) (Brian Lin and Tim Theisen)
+- 2018-01-17 - [Networking](https://drive.google.com/open?id=1Vz99vppmMCRKVj9xupWRNVOxdlBAjRU7) (Shawn McKee)
+- 2018-01-10 - [Outreach and Operations](https://github.com/opensciencegrid/operations/blob/master/docs/acops-10-Jan-2018.md) (Kyle Gross and Rob Quick)
+- 2018-01-03 - Canceled due to getting back from holidays
+
 ## 2017
 
 - 2017-12-27 - Canceled due to Christmas
