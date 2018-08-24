@@ -46,7 +46,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-08-22 - Networking (Shawn McKee)
+- 2018-08-22 - [Networking](https://drive.google.com/open?id=1dBrnZPxGxQCjvsPZldfr9CYXvQKlXqa6) (Shawn McKee)
 - 2018-08-29 - Canceled
 - 2018-09-05 - User and Campus Support (Rob Gardner)
 - 2018-09-12 - Operations (Jeff Dost)
