@@ -46,7 +46,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-08-29 - Canceled
 - 2018-09-05 - User and Campus Support (Rob Gardner)
 - 2018-09-12 - Operations (Jeff Dost)
 - 2018-09-19 - Technology Investigations (Brian Bockelman)
@@ -59,6 +58,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2018
 
+- 2018-08-29 - Canceled
 - 2018-08-22 - [Networking](https://drive.google.com/open?id=1dBrnZPxGxQCjvsPZldfr9CYXvQKlXqa6) (Shawn McKee)
 - 2018-08-15 - [Software and Release](https://docs.google.com/document/d/1WtFgyym3s_APX3P7xzNnwZ8RrfDvuD7QGbaXiqVvUyk/edit?usp=sharing) (Brian Lin and Tim Theisen)
 
