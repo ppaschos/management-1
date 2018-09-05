@@ -46,7 +46,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-09-05 - User and Campus Support (Suchandra Thapa)
+- 2018-09-05 - [User and Campus Support](https://docs.google.com/presentation/d/1kuXXu5vx3T89gpBovBWqGOdUIftDetS_81Cc9WpQTnc/edit?usp=sharing) (Suchandra Thapa)
 - 2018-09-12 - Operations (Jeff Dost)
 - 2018-09-19 - Technology Investigations (Brian Bockelman)
 - 2018-09-26 - Security (Susan Sons)
