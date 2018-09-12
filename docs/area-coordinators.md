@@ -46,7 +46,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-09-12 - Operations (Jeff Dost)
+- 2018-09-12 - [Operations](https://docs.google.com/presentation/d/1TRm_wYuwjYy4v4Jord8UJ05FkkVuuXL7k5KZYdBmLHo/edit?usp=sharing) (Jeff Dost)
 - 2018-09-19 - Technology Investigations (Brian Bockelman)
 - 2018-09-26 - Security (Susan Sons)
 - 2018-10-03 - Production Support (Ken Herner)
