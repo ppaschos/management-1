@@ -37,16 +37,16 @@ The current Area Coordinators are:
   </tr>
 </table>
 
+### Standing Agenda
 
-### Reference Information
-
-- [OSG calendar](https://indico.fnal.gov/categoryDisplay.py?categId=86)
-- [OSG workplan for N5Y Year 5](https://osg-docdb.opensciencegrid.org:440/cgi-bin/ShowDocument?docid=1232)
+1. Review [OSG calendar](https://indico.fnal.gov/categoryDisplay.py?categId=86) for updates
+1. Area Coordinator presentation and discussion
+1. Any other business
+1. Check on next presenter
 
 
 ### Upcoming Meetings
 
-- 2018-09-19 - [Technology Investigations](https://drive.google.com/open?id=1ve9NvQxX26Kv7uVOjcK_Q0yOX6wIpvgQ) (Brian Bockelman)
 - 2018-09-26 - Security (Susan Sons)
 - 2018-10-03 - Production Support (Ken Herner)
 
@@ -56,6 +56,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2018
 
+- 2018-09-19 - [Technology Investigations](https://drive.google.com/open?id=1ve9NvQxX26Kv7uVOjcK_Q0yOX6wIpvgQ) (Brian Bockelman)
 - 2018-09-12 - [Operations](https://docs.google.com/presentation/d/1TRm_wYuwjYy4v4Jord8UJ05FkkVuuXL7k5KZYdBmLHo/edit?usp=sharing) (Jeff Dost)
 - 2018-09-05 - [User and Campus Support](https://docs.google.com/presentation/d/1kuXXu5vx3T89gpBovBWqGOdUIftDetS_81Cc9WpQTnc/view) (Suchandra Thapa)
 - 2018-08-29 - Canceled
