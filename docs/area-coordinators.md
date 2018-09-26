@@ -47,7 +47,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-09-26 - Security (Susan Sons)
+- 2018-09-26 - [Security](https://drive.google.com/open?id=19HzdJXpaZe6ERQlVTyaVt4PaBUxPIoCH) (Susan Sons)
 - 2018-10-03 - Production Support (Ken Herner)
 
 ### Past Meetings
