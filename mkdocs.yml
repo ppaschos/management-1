@@ -14,4 +14,5 @@ pages:
 
 markdown_extensions:
   - admonition
-  - toc(permalink=true)
+  - toc
+      permalink: True
