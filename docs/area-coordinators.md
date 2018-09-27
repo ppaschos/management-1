@@ -47,7 +47,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-09-26 - [Security](https://drive.google.com/open?id=19HzdJXpaZe6ERQlVTyaVt4PaBUxPIoCH) (Susan Sons)
 - 2018-10-03 - Production Support (Ken Herner)
 
 ### Past Meetings
@@ -56,6 +55,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2018
 
+- 2018-09-26 - [Security](https://drive.google.com/open?id=19HzdJXpaZe6ERQlVTyaVt4PaBUxPIoCH) (Susan Sons)
 - 2018-09-19 - [Technology Investigations](https://drive.google.com/open?id=1ve9NvQxX26Kv7uVOjcK_Q0yOX6wIpvgQ) (Brian Bockelman)
 - 2018-09-12 - [Operations](https://docs.google.com/presentation/d/1TRm_wYuwjYy4v4Jord8UJ05FkkVuuXL7k5KZYdBmLHo/edit?usp=sharing) (Jeff Dost)
 - 2018-09-05 - [User and Campus Support](https://docs.google.com/presentation/d/1kuXXu5vx3T89gpBovBWqGOdUIftDetS_81Cc9WpQTnc/view) (Suchandra Thapa)
