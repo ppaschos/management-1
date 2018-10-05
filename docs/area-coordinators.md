@@ -47,6 +47,18 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
+- 2018-10-10 - Software and Release (Mat Selmeci and Tim Theisen)
+- 2018-10-17 - CANCELED (everyone is gone)
+- 2018-10-24 - Networking (Shawn McKee)
+- 2018-10-31 - CANCELED - IRIS-HEP Kickoff Meeting
+- 2018-11-07 - CANCELED - OSG Planning Retreat
+- 2018-11-14 - User and Campus Support (Rob Gardner)
+- 2018-11-21 - CANCELED - Thanksgiving
+- 2018-11-28 - Operations (Jeff Dost)
+- 2018-12-05 - Technology Investigations (Brian Bockelman)
+- 2018-12-12 - Security (Susan Sons)
+- 2018-12-19 - Production Support (Ken Herner)
+
 ### Past Meetings
 
 Past meetings are listed newest to oldest.  Blank lines separate cycles of area coordinator presentations.
