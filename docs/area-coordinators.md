@@ -47,14 +47,13 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-10-03 - [Production Support](https://drive.google.com/open?id=15HeGdM6SuxxjRwALWyhMCIZsw0N1hO63) (Ken Herner)
-
 ### Past Meetings
 
 Past meetings are listed newest to oldest.  Blank lines separate cycles of area coordinator presentations.
 
 #### 2018
 
+- 2018-10-03 - [Production Support](https://drive.google.com/open?id=15HeGdM6SuxxjRwALWyhMCIZsw0N1hO63) (Ken Herner)
 - 2018-09-26 - [Security](https://drive.google.com/open?id=19HzdJXpaZe6ERQlVTyaVt4PaBUxPIoCH) (Susan Sons)
 - 2018-09-19 - [Technology Investigations](https://drive.google.com/open?id=1ve9NvQxX26Kv7uVOjcK_Q0yOX6wIpvgQ) (Brian Bockelman)
 - 2018-09-12 - [Operations](https://docs.google.com/presentation/d/1TRm_wYuwjYy4v4Jord8UJ05FkkVuuXL7k5KZYdBmLHo/edit?usp=sharing) (Jeff Dost)
