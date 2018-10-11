@@ -47,7 +47,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-10-10 - [Software and Release](https://drive.google.com/open?id=1nT7Got0Kx4v0WsF7KL354PrFiiXnijmB8XerAORrHdI) (Mat Selmeci and Tim Theisen)
 - 2018-10-17 - CANCELED (everyone is gone)
 - 2018-10-24 - Networking (Shawn McKee)
 - 2018-10-31 - CANCELED - IRIS-HEP Kickoff Meeting
@@ -65,6 +64,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2018
 
+- 2018-10-10 - [Software and Release](https://drive.google.com/open?id=1nT7Got0Kx4v0WsF7KL354PrFiiXnijmB8XerAORrHdI) (Mat Selmeci and Tim Theisen)
 - 2018-10-03 - [Production Support](https://drive.google.com/open?id=15HeGdM6SuxxjRwALWyhMCIZsw0N1hO63) (Ken Herner)
 - 2018-09-26 - [Security](https://drive.google.com/open?id=19HzdJXpaZe6ERQlVTyaVt4PaBUxPIoCH) (Susan Sons)
 - 2018-09-19 - [Technology Investigations](https://drive.google.com/open?id=1ve9NvQxX26Kv7uVOjcK_Q0yOX6wIpvgQ) (Brian Bockelman)
