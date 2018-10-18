@@ -31,6 +31,7 @@ Current Executive Team members:
 * Burt Holzman, Fermi National Accelerator Laboratory, Fermilab/CMS representative
 * David Swanson, University of Nebraska–Lincoln, OSG Council chair
 * Eric Lançon, Brookhaven National Laboratory, BNL/ATLAS representative
+* Jérôme Lauret, Brookhaven National Laboratory, Nuclear Physics representative
 * Mark Neubauer, University of Illinois at Urbana-Champaign, OSG Resource Manager
 * Rob Gardner, University of Chicago, OSG User and Campus Support lead
 * Tim Cartwright, University of Wisconsin&ndash;Madison, OSG Chief of Staff
