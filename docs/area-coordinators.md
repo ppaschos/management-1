@@ -8,7 +8,7 @@ The current Area Coordinators are:
 
 | OSG Area | Area Coordinator |
 | :------- | :--------------- |
-| [Networking](https://opensciencegrid.org/networking/) | Shawn McKee, University of Michigan |
+| [Network Monitoring](https://opensciencegrid.org/networking/) | Shawn McKee, University of Michigan |
 | [Operations](https://opensciencegrid.org/operations/) | Jeff Dost, University of California San Diego |
 | [Outreach](https://opensciencegrid.org/outreach/) | Tim Cartwright, University of Wisconsin&ndash;Madison |
 | Production Support | Ken Herner, Fermi National Accelerator Lab |
@@ -47,7 +47,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-10-24 - Networking (Shawn McKee)
+- 2018-10-24 - Network Monitoring (Shawn McKee)
 - 2018-10-31 - CANCELED - IRIS-HEP Kickoff Meeting
 - 2018-11-07 - CANCELED - OSG Planning Retreat
 - 2018-11-14 - User and Campus Support (Rob Gardner)
@@ -74,7 +74,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 - 2018-09-12 - [Operations](https://docs.google.com/presentation/d/1TRm_wYuwjYy4v4Jord8UJ05FkkVuuXL7k5KZYdBmLHo/edit?usp=sharing) (Jeff Dost)
 - 2018-09-05 - [User and Campus Support](https://docs.google.com/presentation/d/1kuXXu5vx3T89gpBovBWqGOdUIftDetS_81Cc9WpQTnc/view) (Suchandra Thapa)
 - 2018-08-29 - Canceled
-- 2018-08-22 - [Networking](https://drive.google.com/open?id=1dBrnZPxGxQCjvsPZldfr9CYXvQKlXqa6) (Shawn McKee)
+- 2018-08-22 - [Network Monitoring](https://drive.google.com/open?id=1dBrnZPxGxQCjvsPZldfr9CYXvQKlXqa6) (Shawn McKee)
 - 2018-08-15 - [Software and Release](https://docs.google.com/document/d/1WtFgyym3s_APX3P7xzNnwZ8RrfDvuD7QGbaXiqVvUyk/edit?usp=sharing) (Brian Lin and Tim Theisen)
 
 <div style="height: 0.5ex"></div>
@@ -87,7 +87,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 - 2018-07-04 - Canceled due to Independence Day
 - 2018-06-27 - Canceled
 - 2018-06-20 - Canceled
-- 2018-06-13 - [Networking](https://drive.google.com/open?id=1Ut9I4XIW-OlNC3gRsv2wj2ne_HIr9vOA) (Shawn McKee)
+- 2018-06-13 - [Network Monitoring](https://drive.google.com/open?id=1Ut9I4XIW-OlNC3gRsv2wj2ne_HIr9vOA) (Shawn McKee)
 - 2018-06-06 - [Software and Release](https://docs.google.com/document/d/1flgOBN2IJ4j8FzftE4Za6tGD5JSp-XpErdrYj8OEYLk/edit?usp=sharing) (Brian Lin and Tim Theisen)
 - 2018-05-30 - Operations Wrap-Up and Sign-Off (Rob Quick)
 - 2018-05-23 - <span style="color: silver;">Canceled due to HTCondor Week</span>
@@ -99,7 +99,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 - 2018-05-02 - [Production Support](https://drive.google.com/file/d/1vwacMzpxI6U1LEt6yJgdY6X04to9fnPo/view) (Ken Herner)
 - 2018-04-25 - Security (Susan Sons)
 - 2018-04-18 - Technology Investigations (Brian Bockelman)
-- 2018-04-11 - [Networking](https://drive.google.com/file/d/1nFGASJubvOVkGmfjVoryRImQTXjcnHtn/view) (Shawn McKee)
+- 2018-04-11 - [Network Monitoring](https://drive.google.com/file/d/1nFGASJubvOVkGmfjVoryRImQTXjcnHtn/view) (Shawn McKee)
 - 2018-04-04 - [Software and Release](https://docs.google.com/document/d/16ENmHa2IUwCxXOZ7tddPF3D4nxJjcCgkRA7pv7Z2SvU/edit?usp=sharing) (Brian Lin and Tim Theisen)
 - 2018-03-28 - Canceled due to Spring Break, etc.
 - 2018-03-21 - Canceled due to AHM
