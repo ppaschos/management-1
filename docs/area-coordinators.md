@@ -47,7 +47,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-10-24 - Network Monitoring (Shawn McKee)
+- 2018-10-24 - [Network Monitoring](https://drive.google.com/file/d/1wiTMthjYJTKWqr7TmsLUrQ6JikSVaQFU/view) (Shawn McKee)
 - 2018-10-31 - CANCELED - IRIS-HEP Kickoff Meeting
 - 2018-11-07 - CANCELED - OSG Planning Retreat
 - 2018-11-14 - User and Campus Support (Rob Gardner)
