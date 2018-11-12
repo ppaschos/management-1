@@ -47,7 +47,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-11-07 - CANCELED - OSG Planning Retreat
 - 2018-11-14 - CANCELED
 - 2018-11-21 - CANCELED - Thanksgiving
 - 2018-11-28 - Operations (Jeff Dost)
@@ -61,6 +60,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2018
 
+- 2018-11-07 - CANCELED - OSG Planning Retreat
 - 2018-10-31 - Canceled due to IRIS-HEP Kickoff meeting
 - 2018-10-24 - [Network Monitoring](https://drive.google.com/file/d/1wiTMthjYJTKWqr7TmsLUrQ6JikSVaQFU/view) (Shawn McKee)
 - 2018-10-17 - Canceled
