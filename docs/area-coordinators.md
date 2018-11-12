@@ -48,7 +48,7 @@ The current Area Coordinators are:
 ### Upcoming Meetings
 
 - 2018-11-07 - CANCELED - OSG Planning Retreat
-- 2018-11-14 - User and Campus Support (Rob Gardner)
+- 2018-11-14 - CANCELED
 - 2018-11-21 - CANCELED - Thanksgiving
 - 2018-11-28 - Operations (Jeff Dost)
 - 2018-12-05 - Technology Investigations (Brian Bockelman)
