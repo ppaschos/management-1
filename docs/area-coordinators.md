@@ -53,6 +53,8 @@ The current Area Coordinators are:
 - 2018-12-05 - Technology Investigations (Brian Bockelman)
 - 2018-12-12 - Security (Susan Sons)
 - 2018-12-19 - Production Support (Ken Herner)
+- 2018-12-26 - CANCELED - Holidays
+- 2019-01-02 - CANCELED - Holidays (recovery from?)
 
 ### Past Meetings
 
