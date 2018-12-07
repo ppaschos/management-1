@@ -47,7 +47,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-12-05 - Production Support (Ken Herner)
 - 2018-12-12 - Security (Susan Sons)
 - 2018-12-19 - Technology Investigations (Brian Bockelman)
 - 2018-12-26 - CANCELED - Holidays
@@ -59,6 +58,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2018
 
+- 2018-12-05 - Production Support (Ken Herner)
 - 2018-11-28 - [Operations](https://docs.google.com/presentation/d/1EpseXAfn4tgxFLNlwR3bWKIML2Z54TUCOxrkV0rlsy0/edit?usp=sharing) (Jeff Dost)
 - 2018-11-21 - Canceled due to Thanksgiving
 - 2018-11-14 - Canceled
