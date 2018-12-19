@@ -74,7 +74,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 - 2018-09-26 - [Security](https://drive.google.com/open?id=19HzdJXpaZe6ERQlVTyaVt4PaBUxPIoCH) (Susan Sons)
 - 2018-09-19 - [Technology Investigations](https://drive.google.com/open?id=1ve9NvQxX26Kv7uVOjcK_Q0yOX6wIpvgQ) (Brian Bockelman)
 - 2018-09-12 - [Operations](https://docs.google.com/presentation/d/1TRm_wYuwjYy4v4Jord8UJ05FkkVuuXL7k5KZYdBmLHo/edit?usp=sharing) (Jeff Dost)
-- 2018-09-05 - [User and Campus Support](https://docs.google.com/presentation/d/1kuXXu5vx3T89gpBovBWqGOdUIftDetS_81Cc9WpQTnc/view) (Suchandra Thapa)
+- 2018-09-05 - User and Campus Support (Suchandra Thapa)
 - 2018-08-29 - Canceled
 - 2018-08-22 - [Network Monitoring](https://drive.google.com/open?id=1dBrnZPxGxQCjvsPZldfr9CYXvQKlXqa6) (Shawn McKee)
 - 2018-08-15 - [Software and Release](https://docs.google.com/document/d/1WtFgyym3s_APX3P7xzNnwZ8RrfDvuD7QGbaXiqVvUyk/edit?usp=sharing) (Brian Lin and Tim Theisen)
@@ -83,7 +83,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 - 2018-08-08 - [Security](https://drive.google.com/file/d/16jJstzegvnQqh-4zoJI-GsnBT6jguToT/view?usp=sharing) (Susan Sons)
 - 2018-08-01 - [Technology Investigations](https://drive.google.com/open?id=1L6ZWEbnE_gzi8upraXG7-HBsZ3mV6Ksm) (Brian Bockelman)
-- 2018-07-25 - [User and Campus Support](https://docs.google.com/presentation/d/1eDq8b5T_v9YVHJ_y6y5zXOgOjI_mlMUPDAFUN-WpWgs/view) (Suchandra Thapa)
+- 2018-07-25 - User and Campus Support (Suchandra Thapa)
 - 2018-07-18 - [Production Support](https://drive.google.com/file/d/1Ehh_1uWpjxxVhvEU3feMr9aTzFgsWoWJ/view) (Ken Herner)
 - 2018-07-11 - Canceled due to OSG User School
 - 2018-07-04 - Canceled due to Independence Day
