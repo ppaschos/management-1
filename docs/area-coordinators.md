@@ -1,6 +1,6 @@
 # OSG Area Coordinators
 
-As part of [the overall OSG management structure](/index), the OSG Area Coordinators are leads of OSG functional areas
+As part of [the overall OSG management structure](/), the OSG Area Coordinators are leads of OSG functional areas
 and perform detailed planning and tracking.  The Area Coordinators meet weekly, and one or two Area Coordinators present
 on recent accomplishments, update the group on the status of WBS goals, and discuss current or foreseeable challenges.
 
