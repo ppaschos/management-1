@@ -54,6 +54,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2019
 
+- 2019-01-09 - Canceled
 - 2019-01-02 - Canceled
 
 #### 2018
