@@ -47,15 +47,18 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2018-12-26 - CANCELED - Holidays
-- 2019-01-02 - CANCELED - Holidays (recovery from?)
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.  Blank lines separate cycles of area coordinator presentations.
 
+#### 2019
+
+- 2019-01-02 - Canceled
+
 #### 2018
 
+- 2018-12-26 - Canceled
 - 2018-12-19 - [Technology Investigations](https://drive.google.com/file/d/1M8STaL58uUSQgkMIQFtcENBgeMFS0rKU/) (Brian Bockelman)
 - 2018-12-12 - [Security](https://docs.google.com/document/d/1EZbyytpsBefyg_VObPaSy64ulmsJmZZOvnz1niQYQkM/) (Susan Sons)
 - 2018-12-05 - [Production Support](https://drive.google.com/file/d/1WIhtOvYgdadXTssv-droZRWhvaPjXGud/view) (Ken Herner)
