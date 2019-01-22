@@ -47,12 +47,16 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
+- 2019-01-23 - Special Topic: Ticketing systems in OSG
+- 2019-01-30 - Special Topic: OSG Management methods
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.  Blank lines separate cycles of area coordinator presentations.
 
 #### 2019
+
+- 2019-01-16 - Special Topic: Ways to deal with groups of people (researcher users)
 
 - 2019-01-09 - Canceled
 - 2019-01-02 - Canceled
