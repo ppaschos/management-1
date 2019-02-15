@@ -47,8 +47,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-01-23 - Special Topic: Ticketing systems in OSG
-- 2019-01-30 - Special Topic: OSG Management methods
+- 2019-02-20 - Software and Release (Brian Lin and Tim Theisen)
 
 ### Past Meetings
 
@@ -56,6 +55,10 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2019
 
+- 2019-02-13 - Canceled
+- 2019-02-06 - Special Topic: OSG All-Hands Meeting content
+- 2019-01-30 - Special Topic: OSG Management methods
+- 2019-01-23 - Special Topic: Ticketing systems in OSG
 - 2019-01-16 - Special Topic: Ways to deal with groups of people (researcher users)
 
 - 2019-01-09 - Canceled
