@@ -48,6 +48,13 @@ The current Area Coordinators are:
 ### Upcoming Meetings
 
 - 2019-02-20 - [Software and Release](https://docs.google.com/document/d/1dDvjhCOERBvlzCP2KkV0HI4iJR_iVrFtZ5A7ZPyRJ4w/edit?usp=sharing) (Brian Lin and Tim Theisen)
+- 2019-02-27 - Networking (Shawn McKee)
+- 2019-03-06 - Operations (Jeff Dost)
+- 2019-03-13 - Production Support (Ken Herner)
+- <span style="color: gray;">2019-03-20 - Canceled due to the OSG All-Hands Meeting</span>
+- 2019-03-27 - Researcher Support (Pascal Paschos and Lauren Michael)
+- 2019-04-03 - Security (Susan Sons)
+- 2019-04-10 - Technology Investigations (Brian Bockelman)
 
 ### Past Meetings
 
