@@ -47,7 +47,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-02-20 - Software and Release (Brian Lin and Tim Theisen)
+- 2019-02-20 - [Software and Release](https://docs.google.com/document/d/1dDvjhCOERBvlzCP2KkV0HI4iJR_iVrFtZ5A7ZPyRJ4w/edit?usp=sharing) (Brian Lin and Tim Theisen)
 
 ### Past Meetings
 
