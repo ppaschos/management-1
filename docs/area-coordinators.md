@@ -8,6 +8,8 @@ The current Area Coordinators are:
 
 | OSG Area | Area Coordinator |
 | :------- | :--------------- |
+| Campus Researcher Support | Lauren Michael, University of Wisconsin&ndash;Madison |
+| Collaboration Support | Pascal Paschos, University of Chicago |
 | [Network Monitoring](https://opensciencegrid.org/networking/) | Shawn McKee, University of Michigan |
 | [Operations](https://opensciencegrid.org/operations/) | Jeff Dost, University of California San Diego |
 | [Outreach](https://opensciencegrid.org/outreach/) | Tim Cartwright, University of Wisconsin&ndash;Madison |
@@ -15,7 +17,6 @@ The current Area Coordinators are:
 | [Security](https://opensciencegrid.org/security/) | Susan Sons, Indiana University |
 | [Software and Release](https://opensciencegrid.org/technology/) | Brian Lin and Tim Theisen, University of Wisconsin&ndash;Madison |
 | [Technology Investigations](https://opensciencegrid.org/technology/) | Brian Bockelman, University of Nebraska&ndash;Lincoln |
-| [User and Campus Support](https://support.opensciencegrid.org/) | Rob Gardner, University of Chicago |
 
 
 ## Weekly Meeting
