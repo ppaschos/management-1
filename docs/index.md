@@ -34,7 +34,8 @@ Current Executive Team members:
 * Jérôme Lauret, Brookhaven National Laboratory, Nuclear Physics representative
 * Mark Neubauer, University of Illinois at Urbana-Champaign, OSG Resource Manager
 * Rob Gardner, University of Chicago, OSG User and Campus Support lead
-* Tim Cartwright, University of Wisconsin&ndash;Madison, OSG Chief of Staff
+* Susan Sons, Indiana University, OSG Chief Security Officer
+* Tim Cartwright, University of Wisconsin&ndash;Madison, OSG Deputy Executive Director
 
 
 ## Management Activities
