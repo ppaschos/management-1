@@ -53,9 +53,9 @@ The current Area Coordinators are:
 - 2019-03-13 - Production Support (Ken Herner)
 - <span style="color: silver;">2019-03-20 - Canceled due to the OSG All-Hands Meeting</span>
 - 2019-03-27 - Researcher Support (Pascal Paschos and Lauren Michael)
-- 2019-04-03 - Security (Susan Sons) and Release (Tim Theisen)
+- 2019-04-03 - Security (Susan Sons)
 - 2019-04-10 - Technology Investigations (Brian Bockelman)
-- 2019-04-17 - Networking (Shawn McKee)
+- 2019-04-17 - Networking (Shawn McKee) and Release (Tim Theisen)
 
 ### Past Meetings
 
