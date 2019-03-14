@@ -48,7 +48,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-02-27 - Canceled
 - 2019-03-06 - [Operations](https://docs.google.com/presentation/d/1wcsWTunBXIzHA2rcBnoorEXvADEhk5shDd01q1tcmDE/) (Jeff Dost)
 - 2019-03-13 - Production Support (Ken Herner)
 - <span style="color: silver;">2019-03-20 - Canceled due to the OSG All-Hands Meeting</span>
@@ -63,6 +62,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2019
 
+- 2019-02-27 - Canceled
 - 2019-02-20 - [Software](https://docs.google.com/document/d/1dDvjhCOERBvlzCP2KkV0HI4iJR_iVrFtZ5A7ZPyRJ4w/) (Brian Lin)
 - 2019-02-13 - Canceled
 - 2019-02-06 - Special Topic: OSG All-Hands Meeting content
