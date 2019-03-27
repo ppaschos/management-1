@@ -8,7 +8,7 @@ The current Area Coordinators are:
 
 | OSG Area | Area Coordinator |
 | :------- | :--------------- |
-| Campus Researcher Support | Lauren Michael, University of Wisconsin&ndash;Madison |
+| Research Facilitation | Lauren Michael, University of Wisconsin&ndash;Madison |
 | Collaboration Support | Pascal Paschos, University of Chicago |
 | [Network Monitoring](https://opensciencegrid.org/networking/) | Shawn McKee, University of Michigan |
 | [Operations](https://opensciencegrid.org/operations/) | Jeff Dost, University of California San Diego |
@@ -51,7 +51,9 @@ The current Area Coordinators are:
 - 2019-03-06 - [Operations](https://docs.google.com/presentation/d/1wcsWTunBXIzHA2rcBnoorEXvADEhk5shDd01q1tcmDE/) (Jeff Dost)
 - 2019-03-13 - [Production Support](https://drive.google.com/file/d/12vTI4aP2tMctlKUk6YatduqOMWmzNSm5/) (Ken Herner) and Allocable Services (Frank Würthwein)
 - <span style="color: silver;">2019-03-20 - Canceled due to the OSG All-Hands Meeting</span>
-- 2019-03-27 - Researcher Support (Pascal Paschos and Lauren Michael)
+- 2019-03-27 - Research Facilitation ([slides](https://indico.cern.ch/event/759388/contributions/3353298/attachments/1814353/2964748/osgahm19-20190319-am13-michael-a.pdf),
+  [slides](https://indico.cern.ch/event/759388/contributions/3353315/attachments/1815552/2967121/osgahm19-20190320-pm21-michael-a.pdf)) (Lauren Michael) and
+  [Collaboration Support](https://drive.google.com/file/d/1oxAmpY6AqAN6pQsBWzuSMuTWT3lQtYPF/view?usp=sharing) (Pascal Paschos)
 - 2019-04-03 - Security (Susan Sons)
 - 2019-04-10 - Technology Investigations (Brian Bockelman)
 - 2019-04-17 - Networking (Shawn McKee) and Release (Tim Theisen)
