@@ -48,7 +48,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-03-06 - [Operations](https://docs.google.com/presentation/d/1wcsWTunBXIzHA2rcBnoorEXvADEhk5shDd01q1tcmDE/) (Jeff Dost)
 - 2019-03-13 - [Production Support](https://drive.google.com/file/d/12vTI4aP2tMctlKUk6YatduqOMWmzNSm5/) (Ken Herner) and Allocable Services (Frank Würthwein)
 - <span style="color: silver;">2019-03-20 - Canceled due to the OSG All-Hands Meeting</span>
 - 2019-03-27 - Research Facilitation ([slides](https://indico.cern.ch/event/759388/contributions/3353298/attachments/1814353/2964748/osgahm19-20190319-am13-michael-a.pdf),
@@ -64,6 +63,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2019
 
+- 2019-03-06 - [Operations](https://docs.google.com/presentation/d/1wcsWTunBXIzHA2rcBnoorEXvADEhk5shDd01q1tcmDE/) (Jeff Dost)
 - 2019-02-27 - Canceled
 - 2019-02-20 - [Software](https://docs.google.com/document/d/1dDvjhCOERBvlzCP2KkV0HI4iJR_iVrFtZ5A7ZPyRJ4w/) (Brian Lin)
 - 2019-02-13 - Canceled
