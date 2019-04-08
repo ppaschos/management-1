@@ -48,8 +48,9 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-04-10 - Technology Investigations (Brian Bockelman)
+- 2019-04-10 - Canceled
 - 2019-04-17 - Networking (Shawn McKee) and Release (Tim Theisen)
+- 2019-04-24 - Technology Investigations (Brian Bockelman)
 
 ### Past Meetings
 
