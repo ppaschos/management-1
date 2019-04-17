@@ -48,7 +48,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-04-17 - Release (Tim Theisen) and [Network Monitoring](https://docs.google.com/presentation/d/1K9y_xkQCvq5PHjOMhgWAnl2GJQyb4kKhXBxqYff1yHE/) (Shawn McKee)
+- 2019-04-17 - [Release](https://docs.google.com/document/d/1cXzboQl6U0Fu0QJmvpSxskJaRxph3AIC97aTVgUC0fA/) (Tim Theisen) and [Network Monitoring](https://docs.google.com/presentation/d/1K9y_xkQCvq5PHjOMhgWAnl2GJQyb4kKhXBxqYff1yHE/) (Shawn McKee)
 - 2019-04-24 - Technology Investigations (Brian Bockelman)
 
 ### Past Meetings
