@@ -48,7 +48,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-04-17 - [Release](https://docs.google.com/document/d/1cXzboQl6U0Fu0QJmvpSxskJaRxph3AIC97aTVgUC0fA/) (Tim Theisen) and [Network Monitoring](https://docs.google.com/presentation/d/1K9y_xkQCvq5PHjOMhgWAnl2GJQyb4kKhXBxqYff1yHE/) (Shawn McKee)
 - 2019-04-24 - Technology Investigations (Brian Bockelman)
 
 ### Past Meetings
@@ -57,6 +56,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2019
 
+- 2019-04-17 - [Release](https://docs.google.com/document/d/1cXzboQl6U0Fu0QJmvpSxskJaRxph3AIC97aTVgUC0fA/) (Tim Theisen) and [Network Monitoring](https://docs.google.com/presentation/d/1K9y_xkQCvq5PHjOMhgWAnl2GJQyb4kKhXBxqYff1yHE/) (Shawn McKee)
 - 2019-04-10 - Canceled
 - 2019-04-03 - Security (Zalak Shah)
 - 2019-03-27 - Research Facilitation ([slides](https://indico.cern.ch/event/759388/contributions/3353298/attachments/1814353/2964748/osgahm19-20190319-am13-michael-a.pdf),
