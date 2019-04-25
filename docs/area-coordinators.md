@@ -48,7 +48,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-04-24 - Technology Investigations (Brian Bockelman)
+- 2019-04-24 - [Technology Investigations](https://drive.google.com/open?id=1Y5OT90IbBKe3r7NThmG5HPksnGJYWdpx) (Brian Bockelman)
 
 ### Past Meetings
 
