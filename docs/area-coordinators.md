@@ -48,7 +48,15 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-Schedule for next cycle coming very soon!
+- 2019-05-01 - Production Support (Ken Herner)
+- 2019-05-08 - Software (Brian Lin)
+- 2019-05-15 - Operations (Jeff Dost)
+- 2019-05-22 - Canceled due to HTCondor Week
+- 2019-05-29 - Technology Investigations (Brian Bockelman)
+- 2019-06-05 - Security and Release (Susan Sons and Tim Theisen)
+- 2019-06-12 - Researcher Support (Pascal Paschos and Lauren Michael)
+- 2019-06-19 - Networking (Shawn McKee)
+
 
 ### Past Meetings
 
