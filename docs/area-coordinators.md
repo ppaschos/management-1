@@ -48,7 +48,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-05-01 - Production Support (Ken Herner)
+- 2019-05-01 - [Production Support](https://drive.google.com/open?id=133V5e47FeNkWUk7tt3lrc5kyWrTWM-my) (Ken Herner)
 - 2019-05-08 - Software (Brian Lin)
 - 2019-05-15 - Operations (Jeff Dost)
 - 2019-05-22 - Canceled due to HTCondor Week
