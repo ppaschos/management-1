@@ -48,7 +48,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-05-15 - Operations (Jeff Dost)
+- 2019-05-15 - [Operations](https://docs.google.com/presentation/d/1hyZz9YKQF3bf6gSS3iRkDzsyQI77JbZPvVNQ4p4bhjo/edit?usp=sharing) (Jeff Dost)
 - 2019-05-22 - Canceled due to HTCondor Week
 - 2019-05-29 - Technology Investigations (Brian Bockelman)
 - 2019-06-05 - Security and Release (Susan Sons and Tim Theisen)
