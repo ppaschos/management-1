@@ -48,7 +48,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-05-15 - [Operations](https://docs.google.com/presentation/d/1hyZz9YKQF3bf6gSS3iRkDzsyQI77JbZPvVNQ4p4bhjo/edit?usp=sharing) (Jeff Dost)
 - 2019-05-22 - Canceled due to HTCondor Week
 - 2019-05-29 - Technology Investigations (Brian Bockelman)
 - 2019-06-05 - Security and Release (Susan Sons and Tim Theisen)
@@ -63,6 +62,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2019
 
+- 2019-05-15 - [Operations](https://docs.google.com/presentation/d/1hyZz9YKQF3bf6gSS3iRkDzsyQI77JbZPvVNQ4p4bhjo/) (Jeff Dost)
 - 2019-05-08 - [Software](https://docs.google.com/document/d/1wO9aNLzepIrU_rFfbc7W5DHFVtq3BKY8bxHsxmiBo_w/) (Brian Lin)
 - 2019-05-01 - [Production Support](https://drive.google.com/open?id=133V5e47FeNkWUk7tt3lrc5kyWrTWM-my) (Ken Herner)
 
