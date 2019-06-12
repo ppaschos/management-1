@@ -51,9 +51,10 @@ The current Area Coordinators are:
 - 2019-05-22 - Canceled due to HTCondor Week
 - 2019-05-29 - Technology Investigations (Brian Bockelman)
 - 2019-06-05 - Security and Release (Susan Sons and Tim Theisen)
-- 2019-06-12 - Collaboration Support (Pascal Paschos)
+- 2019-06-12 - Special Topic: OSG Accounting (Frank W&uuml;rthwein)
 - 2019-06-19 - Networking (Shawn McKee)
 - 2019-06-26 - Research Facilitation (Lauren Michael)
+- pending - Collaboration Support (Pascal Paschos)
 
 
 ### Past Meetings
