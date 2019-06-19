@@ -52,7 +52,7 @@ The current Area Coordinators are:
 - 2019-05-29 - Technology Investigations (Brian Bockelman)
 - 2019-06-05 - Security and Release (Susan Sons and Tim Theisen)
 - 2019-06-12 - Special Topic: OSG Accounting (Frank W&uuml;rthwein)
-- 2019-06-19 - Networking (Shawn McKee)
+- 2019-06-19 - [Networking](https://drive.google.com/open?id=1pEAkv3-Xdm8mPVKNlAz0LhbW0voO1bBY) (Shawn McKee)
 - 2019-06-26 - Research Facilitation (Lauren Michael)
 - pending - Collaboration Support (Pascal Paschos)
 
