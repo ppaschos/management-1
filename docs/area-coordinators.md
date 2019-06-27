@@ -53,7 +53,7 @@ The current Area Coordinators are:
 - 2019-06-05 - Security and [Release](https://docs.google.com/document/d/1hNj_aSnUegR1W6oVLsLUEymhLAPbBTTH0w-awYcVxN0/) (Susan Sons and Tim Theisen)
 - 2019-06-12 - Special Topic: OSG Accounting (Frank W&uuml;rthwein)
 - 2019-06-19 - [Networking](https://drive.google.com/open?id=1pEAkv3-Xdm8mPVKNlAz0LhbW0voO1bBY) (Shawn McKee)
-- 2019-06-26 - [Research Facilitation](https://docs.google.com/presentation/d/1VtP0wgJOQ1Ac0z1NWtPqPGemAlbzUI-TKimhKkN6Iag/edit?usp=sharing); [Quilt/CC* Training Prep](https://docs.google.com/document/d/1mELrC-NsalI99La5a5c8q8JyZ46A_AYiTZ8DVq9BTd0/edit#heading=h.e4dn72r13803) (Lauren Michael)
+- 2019-06-26 - [Research Facilitation](https://docs.google.com/presentation/d/1VtP0wgJOQ1Ac0z1NWtPqPGemAlbzUI-TKimhKkN6Iag/); [Quilt/CC* Training Prep](https://docs.google.com/document/d/1mELrC-NsalI99La5a5c8q8JyZ46A_AYiTZ8DVq9BTd0/) (Lauren Michael)
 - pending - Collaboration Support (Pascal Paschos)
 
 
