@@ -48,14 +48,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-05-22 - Canceled due to HTCondor Week
-- 2019-05-29 - Technology Investigations (Brian Bockelman)
-- 2019-06-05 - Security and [Release](https://docs.google.com/document/d/1hNj_aSnUegR1W6oVLsLUEymhLAPbBTTH0w-awYcVxN0/) (Susan Sons and Tim Theisen)
-- 2019-06-12 - Special Topic: OSG Accounting (Frank W&uuml;rthwein)
-- 2019-06-19 - [Networking](https://drive.google.com/open?id=1pEAkv3-Xdm8mPVKNlAz0LhbW0voO1bBY) (Shawn McKee)
-- 2019-06-26 - [Research Facilitation](https://docs.google.com/presentation/d/1VtP0wgJOQ1Ac0z1NWtPqPGemAlbzUI-TKimhKkN6Iag/); [Quilt/CC* Training Prep](https://docs.google.com/document/d/1mELrC-NsalI99La5a5c8q8JyZ46A_AYiTZ8DVq9BTd0/) (Lauren Michael)
-- pending - Collaboration Support (Pascal Paschos)
-
+- 2019-07-31 - Special Topics: accounting taskforce and OSG policy documents
 
 ### Past Meetings
 
@@ -63,6 +56,19 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2019
 
+- 2019-07-24 - Special Topic: [Accounting Taskforce](https://docs.google.com/presentation/d/1hcDJHShLxgPyDIKUwEw8VeQcZUuaPIz30WITkJv9188/) (Marian Zvada)
+- 2019-07-17 - Canceled due to the OSG User School
+- 2019-07-10 - Canceled
+
+<div style="height: 0.5ex"></div>
+
+- 2019-07-03 - Collaboration Support (Pascal Paschos)
+- 2019-06-26 - [Research Facilitation](https://docs.google.com/presentation/d/1VtP0wgJOQ1Ac0z1NWtPqPGemAlbzUI-TKimhKkN6Iag/); [Quilt/CC* Training Prep](https://docs.google.com/document/d/1mELrC-NsalI99La5a5c8q8JyZ46A_AYiTZ8DVq9BTd0/) (Lauren Michael)
+- 2019-06-19 - [Networking](https://drive.google.com/open?id=1pEAkv3-Xdm8mPVKNlAz0LhbW0voO1bBY) (Shawn McKee)
+- 2019-06-12 - Special Topic: OSG Accounting (Frank W&uuml;rthwein)
+- 2019-06-05 - Security and [Release](https://docs.google.com/document/d/1hNj_aSnUegR1W6oVLsLUEymhLAPbBTTH0w-awYcVxN0/) (Susan Sons and Tim Theisen)
+- 2019-05-29 - [Technology Investigations](https://drive.google.com/open?id=1ES4O_9REyxiLv37KXRLFzQPnp1jYat8Y) (Brian Bockelman)
+- 2019-05-22 - Canceled
 - 2019-05-15 - [Operations](https://docs.google.com/presentation/d/1hyZz9YKQF3bf6gSS3iRkDzsyQI77JbZPvVNQ4p4bhjo/) (Jeff Dost)
 - 2019-05-08 - [Software](https://docs.google.com/document/d/1wO9aNLzepIrU_rFfbc7W5DHFVtq3BKY8bxHsxmiBo_w/) (Brian Lin)
 - 2019-05-01 - [Production Support](https://drive.google.com/open?id=133V5e47FeNkWUk7tt3lrc5kyWrTWM-my) (Ken Herner)
