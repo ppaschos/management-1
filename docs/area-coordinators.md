@@ -62,7 +62,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 <div style="height: 0.5ex"></div>
 
-- 2019-07-03 - Collaboration Support (Pascal Paschos)
+- 2019-07-03 - [Collaboration Support](https://docs.google.com/presentation/d/1H4U66tWPQNJU-PXaRCezFPZi_MQ5lFXQ3Au3RjFUh6A/) (Pascal Paschos)
 - 2019-06-26 - [Research Facilitation](https://docs.google.com/presentation/d/1VtP0wgJOQ1Ac0z1NWtPqPGemAlbzUI-TKimhKkN6Iag/); [Quilt/CC* Training Prep](https://docs.google.com/document/d/1mELrC-NsalI99La5a5c8q8JyZ46A_AYiTZ8DVq9BTd0/) (Lauren Michael)
 - 2019-06-19 - [Networking](https://drive.google.com/open?id=1pEAkv3-Xdm8mPVKNlAz0LhbW0voO1bBY) (Shawn McKee)
 - 2019-06-12 - Special Topic: OSG Accounting (Frank W&uuml;rthwein)
