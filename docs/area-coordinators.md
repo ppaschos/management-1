@@ -16,7 +16,7 @@ The current Area Coordinators are:
 | Production Support | Ken Herner, Fermi National Accelerator Lab |
 | [Security](https://opensciencegrid.org/security/) | Susan Sons, Indiana University |
 | [Software and Release](https://opensciencegrid.org/technology/) | Brian Lin and Tim Theisen, University of Wisconsin&ndash;Madison |
-| [Technology Investigations](https://opensciencegrid.org/technology/) | Brian Bockelman, University of Nebraska&ndash;Lincoln |
+| [Technology Investigations](https://opensciencegrid.org/technology/) | Brian Bockelman, Morgridge Institute for Research |
 
 
 ## Weekly Meeting
