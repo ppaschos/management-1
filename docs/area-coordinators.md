@@ -48,8 +48,8 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-08-07 - Special Topic: OSG policies
-- 2019-08-14 - (start of next Area Coordinator presentation cycle, details TBD)
+- 2019-08-14 - Canceled
+- 2019-08-21 - (start of next Area Coordinator presentation cycle, details TBD)
 
 ### Past Meetings
 
@@ -57,6 +57,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2019
 
+- 2019-08-07 - Special Topic: OSG policies (no slides)
 - 2019-07-31 - Special Topic: [XCache monitoring](https://drive.google.com/open?id=1Oo4IssLtUqOYoILr0jAbJnnA4Ic5a59Q)
 - 2019-07-24 - Special Topic: [Accounting Taskforce](https://docs.google.com/presentation/d/1hcDJHShLxgPyDIKUwEw8VeQcZUuaPIz30WITkJv9188/) (Marian Zvada)
 - 2019-07-17 - Canceled due to the OSG User School
