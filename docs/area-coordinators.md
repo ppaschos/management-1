@@ -48,8 +48,16 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-08-14 - Canceled
-- 2019-08-21 - (start of next Area Coordinator presentation cycle, details TBD)
+- 2019-08-21 - Production Support (Ken Herner)
+- 2019-08-28 - Software (Brian Lin)
+- 2019-09-04 - Operations (Jeff Dost)
+- 2019-09-11 - Security and Release (Susan Sons and Tim Theisen)
+- 2019-09-18 - Researcher Facilitation (Lauren Michael)
+- 2019-09-25 - Canceled due to numerous conflicting meetings
+- 2019-10-02 - Technology Investigations (Brian Bockelman)
+- 2019-10-09 - Accounting Task Force (Marian Zvada)
+- 2019-10-16 - Collaboration Support (Pascal Paschos)
+- 2019-10-23 - Network Monitoring (Shawn McKee)
 
 ### Past Meetings
 
@@ -57,6 +65,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2019
 
+- 2019-08-14 - Canceled
 - 2019-08-07 - Special Topic: OSG policies (no slides)
 - 2019-07-31 - Special Topic: [XCache monitoring](https://drive.google.com/open?id=1Oo4IssLtUqOYoILr0jAbJnnA4Ic5a59Q)
 - 2019-07-24 - Special Topic: [Accounting Taskforce](https://docs.google.com/presentation/d/1hcDJHShLxgPyDIKUwEw8VeQcZUuaPIz30WITkJv9188/) (Marian Zvada)
