@@ -48,7 +48,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-08-21 - Production Support (Ken Herner)
 - 2019-08-28 - Software (Brian Lin)
 - 2019-09-04 - Operations (Jeff Dost)
 - 2019-09-11 - Security and Release (Susan Sons and Tim Theisen)
@@ -65,6 +64,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2019
 
+- 2019-08-21 - [Production Support](https://drive.google.com/open?id=1Dsqb1GngCZXAjqelqg3PLM_LUy2cAsVP) (Ken Herner)
 - 2019-08-14 - Canceled
 - 2019-08-07 - Special Topic: OSG policies (no slides)
 - 2019-07-31 - Special Topic: [XCache monitoring](https://drive.google.com/open?id=1Oo4IssLtUqOYoILr0jAbJnnA4Ic5a59Q)
