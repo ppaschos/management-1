@@ -48,7 +48,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-08-28 - Software (Brian Lin)
+- 2019-08-28 - [Software](https://docs.google.com/document/d/10QIGXYSVPPKM5b2R3DnLDjZgSNRrQJe_FW594QiWTQk/edit?usp=sharing) (Brian Lin)
 - 2019-09-04 - Operations (Jeff Dost)
 - 2019-09-11 - Security and Release (Susan Sons and Tim Theisen)
 - 2019-09-18 - Researcher Facilitation (Lauren Michael)
