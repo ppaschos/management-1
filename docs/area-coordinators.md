@@ -48,7 +48,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-09-04 - [Operations](https://docs.google.com/presentation/d/12N0ULJkexN7zFJSO7SK1W6pMTzw6b8jh4IrAd8PPI4o/edit?usp=sharing) (Jeff Dost)
 - 2019-09-11 - Security and Release (Susan Sons and Tim Theisen)
 - 2019-09-18 - Researcher Facilitation (Lauren Michael)
 - 2019-09-25 - Canceled due to numerous conflicting meetings
@@ -63,6 +62,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2019
 
+- 2019-09-04 - [Operations](https://docs.google.com/presentation/d/12N0ULJkexN7zFJSO7SK1W6pMTzw6b8jh4IrAd8PPI4o/) (Jeff Dost)
 - 2019-08-28 - [Software](https://docs.google.com/document/d/10QIGXYSVPPKM5b2R3DnLDjZgSNRrQJe_FW594QiWTQk/) (Brian Lin)
 - 2019-08-21 - [Production Support](https://drive.google.com/open?id=1Dsqb1GngCZXAjqelqg3PLM_LUy2cAsVP) (Ken Herner)
 - 2019-08-14 - Canceled
