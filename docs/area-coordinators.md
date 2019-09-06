@@ -48,13 +48,14 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-09-11 - Security and Release (Susan Sons and Tim Theisen)
-- 2019-09-18 - Researcher Facilitation (Lauren Michael)
+- 2019-09-11 - Release and Security (Tim Theisen and Susan Sons)
+- 2019-09-18 - Special Topic: Science projects in OSG
 - 2019-09-25 - Canceled due to numerous conflicting meetings
 - 2019-10-02 - Technology Investigations (Brian Bockelman)
 - 2019-10-09 - Accounting Task Force (Marian Zvada)
 - 2019-10-16 - Collaboration Support (Pascal Paschos)
 - 2019-10-23 - Network Monitoring (Shawn McKee)
+- 2019-10-30 - Researcher Facilitation (Lauren Michael)
 
 ### Past Meetings
 
