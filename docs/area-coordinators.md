@@ -48,7 +48,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-09-11 - Release and Security (Tim Theisen and Susan Sons)
+- 2019-09-11 - [Release](https://docs.google.com/document/d/1TqnRfIj2_Q2xea8Xey1j0cSbgnzfP8CBxtBjEUsW4Y8/) and Security (Tim Theisen and Susan Sons)
 - 2019-09-18 - Special Topic: Science projects in OSG
 - 2019-09-25 - Canceled due to numerous conflicting meetings
 - 2019-10-02 - Technology Investigations (Brian Bockelman)
