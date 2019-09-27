@@ -32,8 +32,9 @@ Current Executive Team members:
 * David Swanson, University of Nebraska–Lincoln, OSG Council chair
 * Eric Lançon, Brookhaven National Laboratory, BNL/ATLAS representative
 * Jérôme Lauret, Brookhaven National Laboratory, Nuclear Physics representative
+* Lauren Michael, University of Wisconsin&ndash;Madison, OSG Researcher Facilitation lead
 * Mark Neubauer, University of Illinois at Urbana-Champaign, OSG Resource Manager
-* Rob Gardner, University of Chicago, OSG User and Campus Support lead
+* Rob Gardner, University of Chicago, OSG Collaboration Support lead
 * Susan Sons, Indiana University, OSG Chief Security Officer
 * Tim Cartwright, University of Wisconsin&ndash;Madison, OSG Deputy Executive Director
 
