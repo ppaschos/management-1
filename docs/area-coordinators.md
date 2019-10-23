@@ -54,7 +54,7 @@ The current Area Coordinators are:
 - 2019-10-02 - Technology Investigations (Brian Bockelman)
 - 2019-10-09 - Accounting Task Force (Marian Zvada)
 - 2019-10-16 - Collaboration Support (Pascal Paschos)
-- 2019-10-23 - Network Monitoring (Shawn McKee)
+- 2019-10-23 - [Network Monitoring](https://drive.google.com/open?id=1_F3GvIAcBzdZtKMJgG2AeTSzDWSB7c3k) (Shawn McKee)
 - 2019-10-30 - Researcher Facilitation (Lauren Michael)
 
 ### Past Meetings
