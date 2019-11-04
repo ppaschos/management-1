@@ -48,14 +48,8 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-09-11 - [Release](https://docs.google.com/document/d/1TqnRfIj2_Q2xea8Xey1j0cSbgnzfP8CBxtBjEUsW4Y8/) and Security (Tim Theisen and Susan Sons)
-- 2019-09-18 - Special Topic: Science projects in OSG
-- 2019-09-25 - Canceled due to numerous conflicting meetings
-- 2019-10-02 - Technology Investigations (Brian Bockelman)
-- 2019-10-09 - Accounting Task Force (Marian Zvada)
-- 2019-10-16 - Collaboration Support (Pascal Paschos)
-- 2019-10-23 - [Network Monitoring](https://drive.google.com/open?id=1_F3GvIAcBzdZtKMJgG2AeTSzDWSB7c3k) (Shawn McKee)
-- 2019-10-30 - Researcher Facilitation (Lauren Michael)
+- 2019-11-04 - Pending: Accounting Task Force (Marian Zvada) and Researcher Facilitation (Lauren Michael)
+- 2019-11-11 - Pending
 
 ### Past Meetings
 
@@ -63,6 +57,14 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2019
 
+- 2019-10-30 - Canceled due to proposal work
+- 2019-10-23 - [Network Monitoring](https://drive.google.com/open?id=1_F3GvIAcBzdZtKMJgG2AeTSzDWSB7c3k) (Shawn McKee)
+- 2019-10-16 - Collaboration Support (Pascal Paschos)
+- 2019-10-09 - Canceled
+- 2019-10-02 - [Technology Investigations](https://drive.google.com/open?id=15YfXt5Cna7exVagptWQuSwEXCEjhmgit) (Brian Bockelman)
+- 2019-09-25 - Canceled due to numerous conflicting meetings
+- 2019-09-18 - Special Topic: Science projects in OSG
+- 2019-09-11 - [Release](https://docs.google.com/document/d/1TqnRfIj2_Q2xea8Xey1j0cSbgnzfP8CBxtBjEUsW4Y8/) and Security (Tim Theisen and Susan Sons)
 - 2019-09-04 - [Operations](https://docs.google.com/presentation/d/12N0ULJkexN7zFJSO7SK1W6pMTzw6b8jh4IrAd8PPI4o/) (Jeff Dost)
 - 2019-08-28 - [Software](https://docs.google.com/document/d/10QIGXYSVPPKM5b2R3DnLDjZgSNRrQJe_FW594QiWTQk/) (Brian Lin)
 - 2019-08-21 - [Production Support](https://drive.google.com/open?id=1Dsqb1GngCZXAjqelqg3PLM_LUy2cAsVP) (Ken Herner)
