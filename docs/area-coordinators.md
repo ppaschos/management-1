@@ -48,10 +48,10 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-11-06 - Pending
+- 2019-11-06 - Canceled
+- 2019-11-13 - Pending
     - Accounting Task Force (Marian Zvada)
     - Researcher Facilitation (Lauren Michael)
-- 2019-11-13 - Pending
 
 ### Past Meetings
 
