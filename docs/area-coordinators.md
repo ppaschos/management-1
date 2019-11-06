@@ -50,6 +50,7 @@ The current Area Coordinators are:
 - 2019-11-06 - Canceled
 - 2019-11-13 - Researcher Facilitation (Lauren Michael)
 - 2019-11-20 - Accounting Task Force (Marian Zvada)
+- 2019-11-27 - Canceled due to Thanksgiving
 
 ### Past Meetings
 
