@@ -47,9 +47,8 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-11-06 - Canceled
-- 2019-11-13 - Researcher Facilitation (Lauren Michael)
-- 2019-11-20 - Accounting Task Force (Marian Zvada)
+- 2019-11-13 - Canceled
+- 2019-11-20 - Researcher Facilitation (Lauren Michael) and Accounting Task Force (Marian Zvada)
 - 2019-11-27 - Canceled due to Thanksgiving
 
 ### Past Meetings
@@ -58,6 +57,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2019
 
+- 2019-11-06 - Canceled
 - 2019-10-30 - Canceled due to proposal work
 - 2019-10-23 - [Network Monitoring](https://drive.google.com/open?id=1_F3GvIAcBzdZtKMJgG2AeTSzDWSB7c3k) (Shawn McKee)
 - 2019-10-16 - Collaboration Support (Pascal Paschos)
