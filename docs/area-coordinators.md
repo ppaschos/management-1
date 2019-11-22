@@ -47,9 +47,18 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-11-13 - Canceled
-- 2019-11-20 - Researcher Facilitation (Lauren Michael) and Accounting Task Force (Marian Zvada)
 - 2019-11-27 - Canceled due to Thanksgiving
+- 2019-12-04 - Production Support (Ken Herner)
+- 2019-12-11 - Software (Brian Lin)
+- 2019-12-18 - Operations (Jeff Dost)
+- 2019-12-25 - Canceled due to holiday
+- 2020-01-01 - Canceled due to holiday
+- 2020-01-08 - Release and Security (Tim Theisen and Susan Sons)
+- 2020-01-15 - Technology Investigations (Brian Bockelman)
+- 2020-01-22 - Collaboration Support (Pascal Paschos)
+- 2020-01-29 - Network Monitoring (Shawn McKee)
+- 2020-02-05 - Researcher Facilitation (Lauren Michael)
+- 2020-02-12 - Accounting Task Force (Marian Zvada)
 
 ### Past Meetings
 
@@ -57,6 +66,8 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2019
 
+- 2019-11-20 - Canceled
+- 2019-11-13 - Canceled
 - 2019-11-06 - Canceled
 - 2019-10-30 - Canceled due to proposal work
 - 2019-10-23 - [Network Monitoring](https://drive.google.com/open?id=1_F3GvIAcBzdZtKMJgG2AeTSzDWSB7c3k) (Shawn McKee)
