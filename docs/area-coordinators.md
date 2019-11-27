@@ -54,8 +54,8 @@ The current Area Coordinators are:
 - 2019-12-25 - Canceled due to holiday
 - 2020-01-01 - Canceled due to holiday
 - 2020-01-08 - Release and Security (Tim Theisen and Susan Sons)
-- 2020-01-15 - Technology Investigations (Brian Bockelman)
-- 2020-01-22 - Collaboration Support (Pascal Paschos)
+- 2020-01-15 - Collaboration Support (Pascal Paschos)
+- 2020-01-22 - Technology Investigations (Brian Bockelman)
 - 2020-01-29 - Network Monitoring (Shawn McKee)
 - 2020-02-05 - Researcher Facilitation (Lauren Michael)
 - 2020-02-12 - Accounting Task Force (Marian Zvada)
