@@ -47,7 +47,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-11-27 - Canceled due to Thanksgiving
 - 2019-12-04 - Production Support (Ken Herner)
 - 2019-12-11 - Software (Brian Lin)
 - 2019-12-18 - Operations (Jeff Dost)
@@ -66,6 +65,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2019
 
+- 2019-11-27 - Canceled due to Thanksgiving
 - 2019-11-20 - Canceled
 - 2019-11-13 - Canceled
 - 2019-11-06 - Canceled
