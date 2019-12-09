@@ -14,7 +14,7 @@ The current Area Coordinators are:
 | [Operations](https://opensciencegrid.org/operations/) | Jeff Dost, University of California San Diego |
 | [Outreach](https://opensciencegrid.org/outreach/) | Tim Cartwright, University of Wisconsin&ndash;Madison |
 | Production Support | Ken Herner, Fermi National Accelerator Lab |
-| [Security](https://opensciencegrid.org/security/) | Susan Sons, Indiana University |
+| [Security](https://opensciencegrid.org/security/) | Mike Stanfield, Indiana University |
 | [Software and Release](https://opensciencegrid.org/technology/) | Brian Lin and Tim Theisen, University of Wisconsin&ndash;Madison |
 | [Technology Investigations](https://opensciencegrid.org/technology/) | Brian Bockelman, Morgridge Institute for Research |
 
