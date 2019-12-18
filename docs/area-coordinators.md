@@ -48,7 +48,7 @@ The current Area Coordinators are:
 ### Upcoming Meetings
 
 - 2019-12-11 - [Software](https://docs.google.com/document/d/125dJS8BPYOJKHAi5Bmn0I0Z4X9nGe2Wjuq09Z9zY0I8/) (Brian Lin)
-- 2019-12-18 - Operations (Jeff Dost)
+- 2019-12-18 - [Operations](https://docs.google.com/presentation/d/1-bFH_r0XYPh48iC4u4Z77pDCdyKxcdhkeVtA96eWBIg/) (Jeff Dost)
 - 2019-12-25 - Canceled due to holiday
 - 2020-01-01 - Canceled due to holiday
 - 2020-01-08 - Release and Security (Tim Theisen and Susan Sons)
