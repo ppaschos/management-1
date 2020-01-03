@@ -47,10 +47,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2019-12-18 - [Operations](https://docs.google.com/presentation/d/1-bFH_r0XYPh48iC4u4Z77pDCdyKxcdhkeVtA96eWBIg/) (Jeff Dost)
-- 2019-12-25 - Canceled due to holiday
-- 2020-01-01 - Canceled due to holiday
-- 2020-01-08 - Release and Security (Tim Theisen and Susan Sons)
+- 2020-01-08 - Release and Security (Tim Theisen and Mike Stanfield)
 - 2020-01-15 - Collaboration Support (Pascal Paschos)
 - 2020-01-22 - Technology Investigations (Brian Bockelman)
 - 2020-01-29 - Network Monitoring (Shawn McKee)
@@ -63,6 +60,9 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2019
 
+- 2020-01-01 - Canceled due to holiday
+- 2019-12-25 - Canceled due to holiday
+- 2019-12-18 - [Operations](https://docs.google.com/presentation/d/1-bFH_r0XYPh48iC4u4Z77pDCdyKxcdhkeVtA96eWBIg/) (Jeff Dost)
 - 2019-12-11 - [Software](https://docs.google.com/document/d/125dJS8BPYOJKHAi5Bmn0I0Z4X9nGe2Wjuq09Z9zY0I8/) (Brian Lin)
 - 2019-12-04 - [Production Support](https://drive.google.com/open?id=1w2LpYWHNl8JW2lYPbRhuld2AUkPP0DCx) (Ken Herner)
 
