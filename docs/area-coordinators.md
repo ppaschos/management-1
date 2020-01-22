@@ -47,7 +47,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-01-15 - [Collaboration Support](https://drive.google.com/open?id=12y3LEDvtOvUY3v3keyAlzyLt4IZVWXWj) (Pascal Paschos)
 - 2020-01-22 - Technology Investigations (Brian Bockelman)
 - 2020-01-29 - Network Monitoring (Shawn McKee)
 - 2020-02-05 - Researcher Facilitation (Lauren Michael)
@@ -59,6 +58,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2020
 
+- 2020-01-15 - [Collaboration Support](https://drive.google.com/open?id=12y3LEDvtOvUY3v3keyAlzyLt4IZVWXWj) (Pascal Paschos)
 - 2020-01-08 - [Release](https://docs.google.com/document/d/1awWoMK9dx1fglhhAwOg1X_-_7UQ8WWsHuSItDm50wwY/) and [Security](https://drive.google.com/file/d/1XaqNi9rbQokQlyVEdsCYs51B_VqiUWxC/) (Tim Theisen and Mike Stanfield)
 - 2020-01-01 - Canceled due to holiday
 
