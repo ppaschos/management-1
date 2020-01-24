@@ -20,22 +20,22 @@ The OSG is managed by three key groups, with substantial overlaps in personnel b
 
 ## Executive Team
 
-The OSG Executive Team manages the program of work and priorities of the OSG Project, as well as contributions from OSG
-Consortium members.
+The OSG Executive Team manages the program of work and priorities of the OSG
+Project, as well as contributions from OSG Consortium members.
 
 Current Executive Team members:
 
 * Frank Würthwein, University of California San Diego, OSG Executive Director
 * Miron Livny, University of Wisconsin&ndash;Madison, OSG Technical Director and PI
-* Brian Bockelman, University of Nebraska–Lincoln, OSG Technology lead
+* Brian Bockelman, Morgridge Institute for Research, OSG Technology lead
 * Burt Holzman, Fermi National Accelerator Laboratory, Fermilab/CMS representative
-* David Swanson, University of Nebraska–Lincoln, OSG Council chair
 * Eric Lançon, Brookhaven National Laboratory, BNL/ATLAS representative
 * Jérôme Lauret, Brookhaven National Laboratory, Nuclear Physics representative
+* Ken Bloom, University of Nebraska–Lincoln, OSG Council chair
 * Lauren Michael, University of Wisconsin&ndash;Madison, OSG Researcher Facilitation lead
 * Mark Neubauer, University of Illinois at Urbana-Champaign, OSG Resource Manager
+* Mike Stanfield, Indiana University, OSG Information Security Officer
 * Rob Gardner, University of Chicago, OSG Collaboration Support lead
-* Susan Sons, Indiana University, OSG Chief Security Officer
 * Tim Cartwright, University of Wisconsin&ndash;Madison, OSG Deputy Executive Director
 
 
