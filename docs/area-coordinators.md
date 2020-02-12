@@ -50,7 +50,7 @@ The current Area Coordinators are:
 - 2020-01-22 - [Technology Investigations](https://drive.google.com/open?id=11iP-1IGr9E1ThuxnXrHwuzXCqS0m8Pc3) (Brian Bockelman)
 - 2020-01-29 - [Network Monitoring](https://drive.google.com/open?id=11cIPmPHTuqwcUYf-JXJgN9yAUo48G7-9) (Shawn McKee)
 - 2020-02-05 - Special Topic: OSG-LHC Metrics
-- 2020-02-12 - Researcher Facilitation (Lauren Michael)
+- 2020-02-12 - [Researcher Facilitation](https://docs.google.com/presentation/d/14seJrv-9wmnTBvnNGAQydQJQ7Rl2WFXXjDh7k-Rlx-0/) (Lauren Michael)
 - 2020-02-19 - Accounting Task Force (Marian Zvada)
 
 ### Past Meetings
