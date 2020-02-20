@@ -28,7 +28,6 @@ Current Executive Team members:
 * Frank Würthwein, University of California San Diego, OSG Executive Director
 * Miron Livny, University of Wisconsin&ndash;Madison, OSG Technical Director and PI
 * Brian Bockelman, Morgridge Institute for Research, OSG Technology lead
-* Burt Holzman, Fermi National Accelerator Laboratory, Fermilab/CMS representative
 * Eric Lançon, Brookhaven National Laboratory, BNL/ATLAS representative
 * Jérôme Lauret, Brookhaven National Laboratory, Nuclear Physics representative
 * Ken Bloom, University of Nebraska–Lincoln, OSG Council chair
@@ -37,6 +36,7 @@ Current Executive Team members:
 * Mike Stanfield, Indiana University, OSG Information Security Officer
 * Rob Gardner, University of Chicago, OSG Collaboration Support lead
 * Tim Cartwright, University of Wisconsin&ndash;Madison, OSG Deputy Executive Director
+* Tony Tiradani, Fermi National Accelerator Laboratory, Fermilab/CMS representative
 
 
 ## Management Activities
