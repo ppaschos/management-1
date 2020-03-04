@@ -53,7 +53,7 @@ The current Area Coordinators are:
 - 2020-02-12 - [Researcher Facilitation](https://docs.google.com/presentation/d/14seJrv-9wmnTBvnNGAQydQJQ7Rl2WFXXjDh7k-Rlx-0/) (Lauren Michael)
 - 2020-02-19 - Canceled
 - 2020-02-26 - Canceled
-- 2020-03-04 - Accounting Task Force (Marian Zvada)
+- 2020-03-04 - [Accounting Task Force](https://docs.google.com/presentation/d/1lJGyjD6-xd2nGJeHDfl1nntW0GurjO74988SbUT4CK4) (Marian Zvada)
 
 ### Past Meetings
 
