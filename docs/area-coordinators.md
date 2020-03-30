@@ -47,7 +47,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-03-25 - [Software](https://docs.google.com/presentation/d/1zFpW5GUSQEZp9Ve9wdpC8lhSQSZv8yiFUTRXtJ5k9gE/edit?usp=sharing) (Brian Lin)
 - 2020-04-01 - Operations (Jeff Dost)
 - 2020-04-08 - Collaboration Support (Pascal Paschos)
 - 2020-04-15 - Release and Security (Tim Theisen and Mike Stanfield)
@@ -62,6 +61,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2020
 
+- 2020-03-25 - [Software](https://docs.google.com/presentation/d/1zFpW5GUSQEZp9Ve9wdpC8lhSQSZv8yiFUTRXtJ5k9gE/) (Brian Lin)
 - 2020-03-18 - [Production Support](https://drive.google.com/open?id=1_FcWl7nnBdGaULCoYlSEUP36fS44gOwH) (Ken Herner)
 
 <div style="height: 0.5ex"></div>
