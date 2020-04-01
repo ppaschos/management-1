@@ -23,17 +23,15 @@ The current Area Coordinators are:
 
 <table>
   <tr> <td><strong>When</strong></td> <td>Wednesdays, 2:00–3:00 p.m. Central Time</td> </tr>
-  <tr> <td><strong>Online</strong></td> <td><a href="https://unl.zoom.us/j/136424859">https://unl.zoom.us/j/136424859</a></td> </tr>
+  <tr>
+    <td><strong>Online</strong></td>
+    <td><a href="https://unl.zoom.us/j/865025296">https://unl.zoom.us/j/865025296</a> (password sent separately)</td>
+  </tr>
   <tr>
     <td><strong>Phone (toll)</strong></td>
     <td>
-      +1 (408) 638-0968
-      <span style="color: #F60; font-variant: small-caps; padding: 0 0.5ex;">or</span>
-      +1 (646) 876-9923
-      <span style="color: #F60; font-variant: small-caps; padding: 0 0.5ex;">or</span>
-      +1 (669) 900-6833
-      <span style="padding: 0 1ex;">&rarr;</span>
-      PIN 136-424-859
+      See <a href="https://unl.zoom.us/zoomconference">the Zoom website</a> for phone numbers<br>
+      Meeting ID: 865 025 296 (password sent separately)
     </td>
   </tr>
 </table>
