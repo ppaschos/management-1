@@ -45,7 +45,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-04-01 - Operations (Jeff Dost)
+- 2020-04-01 - [Operations](https://docs.google.com/presentation/d/1JRm6ekkqoWkrcU-XCjh9jq62KoI5MCBKKK3l3BiK4e4/) (Jeff Dost)
 - 2020-04-08 - Collaboration Support (Pascal Paschos)
 - 2020-04-15 - Release and Security (Tim Theisen and Mike Stanfield)
 - 2020-04-22 - Technology Investigations (Brian Bockelman)
