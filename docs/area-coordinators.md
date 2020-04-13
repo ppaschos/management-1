@@ -45,7 +45,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-04-08 - Collaboration Support (Pascal Paschos)
 - 2020-04-15 - Release and Security (Tim Theisen and Mike Stanfield)
 - 2020-04-22 - Technology Investigations (Brian Bockelman)
 - 2020-04-29 - Network Monitoring (Shawn McKee)
@@ -58,6 +57,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2020
 
+- 2020-04-08 - [Collaboration Support](https://drive.google.com/open?id=1ScNC7xCKQnZmf5YIL2plGKfsgACt3RLb) (Pascal Paschos)
 - 2020-04-01 - [Operations](https://docs.google.com/presentation/d/1JRm6ekkqoWkrcU-XCjh9jq62KoI5MCBKKK3l3BiK4e4/) (Jeff Dost)
 - 2020-03-25 - [Software](https://docs.google.com/presentation/d/1zFpW5GUSQEZp9Ve9wdpC8lhSQSZv8yiFUTRXtJ5k9gE/) (Brian Lin)
 - 2020-03-18 - [Production Support](https://drive.google.com/open?id=1_FcWl7nnBdGaULCoYlSEUP36fS44gOwH) (Ken Herner)
