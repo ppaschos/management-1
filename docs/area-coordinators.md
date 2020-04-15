@@ -45,7 +45,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-04-15 - [Release](https://docs.google.com/document/d/1qH_tDi1m-vvBsSYUSRrCEdjczmKZKhTNp_LPt6xFIhI) and Security (Tim Theisen and Mike Stanfield)
+- 2020-04-15 - [Release](https://docs.google.com/document/d/1qH_tDi1m-vvBsSYUSRrCEdjczmKZKhTNp_LPt6xFIhI) and [Security](https://drive.google.com/file/d/1QrO91B6tG4MS8nbsGLs3RVT3_qqBVhSE) (Tim Theisen and Mike Stanfield)
 - 2020-04-22 - Technology Investigations (Brian Bockelman)
 - 2020-04-29 - Network Monitoring (Shawn McKee)
 - 2020-05-06 - Researcher Facilitation (Lauren Michael)
