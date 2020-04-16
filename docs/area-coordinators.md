@@ -45,7 +45,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-04-15 - [Release](https://docs.google.com/document/d/1qH_tDi1m-vvBsSYUSRrCEdjczmKZKhTNp_LPt6xFIhI) and [Security](https://drive.google.com/file/d/1QrO91B6tG4MS8nbsGLs3RVT3_qqBVhSE) (Tim Theisen and Mike Stanfield)
 - 2020-04-22 - Technology Investigations (Brian Bockelman)
 - 2020-04-29 - Network Monitoring (Shawn McKee)
 - 2020-05-06 - Researcher Facilitation (Lauren Michael)
@@ -57,6 +56,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2020
 
+- 2020-04-15 - [Release](https://docs.google.com/document/d/1qH_tDi1m-vvBsSYUSRrCEdjczmKZKhTNp_LPt6xFIhI) (Tim Theisen) and [Security](https://drive.google.com/file/d/1QrO91B6tG4MS8nbsGLs3RVT3_qqBVhSE) (Mike Stanfield)
 - 2020-04-08 - [Collaboration Support](https://drive.google.com/open?id=1ScNC7xCKQnZmf5YIL2plGKfsgACt3RLb) (Pascal Paschos)
 - 2020-04-01 - [Operations](https://docs.google.com/presentation/d/1JRm6ekkqoWkrcU-XCjh9jq62KoI5MCBKKK3l3BiK4e4/) (Jeff Dost)
 - 2020-03-25 - [Software](https://docs.google.com/presentation/d/1zFpW5GUSQEZp9Ve9wdpC8lhSQSZv8yiFUTRXtJ5k9gE/) (Brian Lin)
