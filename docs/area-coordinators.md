@@ -8,7 +8,7 @@ The current Area Coordinators are:
 
 | OSG Area | Area Coordinator |
 | :------- | :--------------- |
-| Research Facilitation | Lauren Michael, University of Wisconsin&ndash;Madison |
+| [Research Facilitation](https://opensciencegrid.org/research-facilitation) | Lauren Michael, University of Wisconsin&ndash;Madison |
 | Collaboration Support | Pascal Paschos, University of Chicago |
 | [Network Monitoring](https://opensciencegrid.org/networking/) | Shawn McKee, University of Michigan |
 | [Operations](https://opensciencegrid.org/operations/) | Jeff Dost, University of California San Diego |
