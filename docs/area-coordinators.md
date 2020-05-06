@@ -45,7 +45,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-05-06 - Researcher Facilitation (Lauren Michael)
+- 2020-05-06 - [Researcher Facilitation](https://docs.google.com/presentation/d/1HyA3TdhXpU7vdNLwNQsfWTR69CGUBXjhq0LyR0mPp2U/edit#slide=id.g7748f03cb8_0_158) (Lauren Michael)
 - 2020-05-13 - Accounting Task Force (Marian Zvada)
 
 ### Past Meetings
