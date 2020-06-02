@@ -45,7 +45,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-05-13 - Accounting Task Force (Marian Zvada)
+- 2020-06-03 - Accounting Task Force (Marian Zvada)
 
 ### Past Meetings
 
@@ -53,6 +53,9 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2020
 
+- 2020-05-27 - Canceled due to IRIS-HEP Retreat
+- 2020-05-20 - Canceled due to HTCondor Week
+- 2020-05-13 - Canceled
 - 2020-05-06 - [Researcher Facilitation](https://docs.google.com/presentation/d/1HyA3TdhXpU7vdNLwNQsfWTR69CGUBXjhq0LyR0mPp2U/) (Lauren Michael)
 - 2020-04-29 - [Network Monitoring](https://drive.google.com/open?id=1WOpryWHicHaFy8MTqtNiT6siZ8jaRtUmvCa4P5dJdhw) (Shawn McKee)
 - 2020-04-22 - [Technology Investigations](https://drive.google.com/open?id=11Mz1ogYT0MO7lwqXu6FHi2aQ3LCmNbEQ) (Brian Bockelman)
