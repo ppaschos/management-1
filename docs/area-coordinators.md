@@ -45,7 +45,8 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-06-17 - Accounting Task Force (Marian Zvada)
+- 2020-06-17 - Production Support (Ken Herner)
+- (remainder of next cycle coming soon)
 
 ### Past Meetings
 
