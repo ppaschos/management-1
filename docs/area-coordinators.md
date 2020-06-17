@@ -45,7 +45,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-06-17 - [Production Support](https://drive.google.com/file/d/1jtCYd7Kh4omqZwHpFJB5cFQhhwgq1uOG/view?usp=sharing) (Ken Herner)
+- 2020-06-17 - [Production Support](https://drive.google.com/file/d/1jtCYd7Kh4omqZwHpFJB5cFQhhwgq1uOG/) (Ken Herner)
 - (remainder of next cycle coming soon)
 
 ### Past Meetings
