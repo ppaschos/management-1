@@ -46,7 +46,14 @@ The current Area Coordinators are:
 ### Upcoming Meetings
 
 - 2020-06-17 - [Production Support](https://drive.google.com/file/d/1jtCYd7Kh4omqZwHpFJB5cFQhhwgq1uOG/) (Ken Herner)
-- (remainder of next cycle coming soon)
+- 2020-06-24 - Software (Brian Lin)
+- 2020-07-01 - Collaboration Support (Pascal Paschos)
+- 2020-07-08 - Operations (Jeff Dost)
+- 2020-07-15 - Canceled
+- 2020-07-22 - Release and Security (Tim Theisen and Mike Stanfield)
+- 2020-07-29 - Technology Investigations (Brian Bockelman)
+- 2020-08-05 - Network Monitoring (Shawn McKee)
+- 2020-08-12 - Researcher Facilitation (Lauren Michael)
 
 ### Past Meetings
 
