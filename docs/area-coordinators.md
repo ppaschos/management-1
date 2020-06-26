@@ -46,7 +46,7 @@ The current Area Coordinators are:
 ### Upcoming Meetings
 
 - 2020-06-17 - [Production Support](https://drive.google.com/file/d/1jtCYd7Kh4omqZwHpFJB5cFQhhwgq1uOG/) (Ken Herner)
-- 2020-06-24 - Software (Brian Lin)
+- 2020-06-24 - [Software](https://docs.google.com/presentation/d/1mEz1G9VofLViPlqIHzy15ey6EHck_b2pampDSUNV-wI/edit?usp=sharing) (Brian Lin)
 - 2020-07-01 - Collaboration Support (Pascal Paschos)
 - 2020-07-08 - Operations (Jeff Dost)
 - 2020-07-15 - Canceled
