@@ -47,7 +47,7 @@ The current Area Coordinators are:
 
 - 2020-07-08 - [Operations](https://docs.google.com/presentation/d/1J9IWf0UYRqZ6TVPEusNuwPlT9TlwvNkHUKcmmhEWnuU/) (Jeff Dost)
 - 2020-07-15 - Canceled
-- 2020-07-22 - Release and [Security](https://drive.google.com/file/d/1wsRXKIzB88P1Z5CeYTu1NU9exszAfMbn/view?usp=sharing) (Tim Theisen and Mike Stanfield)
+- 2020-07-22 - Release and [Security](https://drive.google.com/file/d/1wsRXKIzB88P1Z5CeYTu1NU9exszAfMbn/) (Tim Theisen and Mike Stanfield)
 - 2020-07-29 - Technology Investigations (Brian Bockelman)
 - 2020-08-05 - Network Monitoring (Shawn McKee)
 - 2020-08-12 - Researcher Facilitation (Lauren Michael)
