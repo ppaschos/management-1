@@ -8,7 +8,7 @@ The current Area Coordinators are:
 
 | OSG Area | Area Coordinator |
 | :------- | :--------------- |
-| Research Facilitation | Lauren Michael, University of Wisconsin&ndash;Madison |
+| [Research Facilitation](https://opensciencegrid.org/research-facilitation) | Lauren Michael, University of Wisconsin&ndash;Madison |
 | Collaboration Support | Pascal Paschos, University of Chicago |
 | [Network Monitoring](https://opensciencegrid.org/networking/) | Shawn McKee, University of Michigan |
 | [Operations](https://opensciencegrid.org/operations/) | Jeff Dost, University of California San Diego |
@@ -45,11 +45,12 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-04-15 - [Release](https://docs.google.com/document/d/1qH_tDi1m-vvBsSYUSRrCEdjczmKZKhTNp_LPt6xFIhI) and [Security](https://drive.google.com/file/d/1QrO91B6tG4MS8nbsGLs3RVT3_qqBVhSE) (Tim Theisen and Mike Stanfield)
-- 2020-04-22 - Technology Investigations (Brian Bockelman)
-- 2020-04-29 - Network Monitoring (Shawn McKee)
-- 2020-05-06 - Researcher Facilitation (Lauren Michael)
-- 2020-05-13 - Accounting Task Force (Marian Zvada)
+- 2020-07-08 - [Operations](https://docs.google.com/presentation/d/1J9IWf0UYRqZ6TVPEusNuwPlT9TlwvNkHUKcmmhEWnuU/) (Jeff Dost)
+- 2020-07-15 - Canceled
+- 2020-07-22 - Release and Security (Tim Theisen and Mike Stanfield)
+- 2020-07-29 - Technology Investigations (Brian Bockelman)
+- 2020-08-05 - Network Monitoring (Shawn McKee)
+- 2020-08-12 - Researcher Facilitation (Lauren Michael)
 
 ### Past Meetings
 
@@ -57,6 +58,21 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2020
 
+- 2020-07-01 - [Collaboration Support](https://drive.google.com/file/d/1MMzNrBYxjLfeJQ2yvaHEg4L-g-6s_7NP/) (Pascal Paschos)
+- 2020-06-24 - [Software](https://docs.google.com/presentation/d/1mEz1G9VofLViPlqIHzy15ey6EHck_b2pampDSUNV-wI/) (Brian Lin)
+- 2020-06-17 - [Production Support](https://drive.google.com/file/d/1jtCYd7Kh4omqZwHpFJB5cFQhhwgq1uOG/) (Ken Herner)
+
+<div style="height: 0.5ex"></div>
+
+- 2020-06-10 - Canceled
+- 2020-06-03 - Canceled
+- 2020-05-27 - Canceled due to IRIS-HEP Retreat
+- 2020-05-20 - Canceled due to HTCondor Week
+- 2020-05-13 - Canceled
+- 2020-05-06 - [Researcher Facilitation](https://docs.google.com/presentation/d/1HyA3TdhXpU7vdNLwNQsfWTR69CGUBXjhq0LyR0mPp2U/) (Lauren Michael)
+- 2020-04-29 - [Network Monitoring](https://drive.google.com/open?id=1WOpryWHicHaFy8MTqtNiT6siZ8jaRtUmvCa4P5dJdhw) (Shawn McKee)
+- 2020-04-22 - [Technology Investigations](https://drive.google.com/open?id=11Mz1ogYT0MO7lwqXu6FHi2aQ3LCmNbEQ) (Brian Bockelman)
+- 2020-04-15 - [Release](https://docs.google.com/document/d/1qH_tDi1m-vvBsSYUSRrCEdjczmKZKhTNp_LPt6xFIhI) (Tim Theisen) and [Security](https://drive.google.com/file/d/1QrO91B6tG4MS8nbsGLs3RVT3_qqBVhSE) (Mike Stanfield)
 - 2020-04-08 - [Collaboration Support](https://drive.google.com/open?id=1ScNC7xCKQnZmf5YIL2plGKfsgACt3RLb) (Pascal Paschos)
 - 2020-04-01 - [Operations](https://docs.google.com/presentation/d/1JRm6ekkqoWkrcU-XCjh9jq62KoI5MCBKKK3l3BiK4e4/) (Jeff Dost)
 - 2020-03-25 - [Software](https://docs.google.com/presentation/d/1zFpW5GUSQEZp9Ve9wdpC8lhSQSZv8yiFUTRXtJ5k9gE/) (Brian Lin)
@@ -82,43 +98,6 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 - 2019-12-18 - [Operations](https://docs.google.com/presentation/d/1-bFH_r0XYPh48iC4u4Z77pDCdyKxcdhkeVtA96eWBIg/) (Jeff Dost)
 - 2019-12-11 - [Software](https://docs.google.com/document/d/125dJS8BPYOJKHAi5Bmn0I0Z4X9nGe2Wjuq09Z9zY0I8/) (Brian Lin)
 - 2019-12-04 - [Production Support](https://drive.google.com/open?id=1w2LpYWHNl8JW2lYPbRhuld2AUkPP0DCx) (Ken Herner)
-
-<div style="height: 0.5ex"></div>
-
-- 2019-11-27 - Canceled due to Thanksgiving
-- 2019-11-20 - Canceled
-- 2019-11-13 - Canceled
-- 2019-11-06 - Canceled
-- 2019-10-30 - Canceled due to proposal work
-- 2019-10-23 - [Network Monitoring](https://drive.google.com/open?id=1_F3GvIAcBzdZtKMJgG2AeTSzDWSB7c3k) (Shawn McKee)
-- 2019-10-16 - Collaboration Support (Pascal Paschos)
-- 2019-10-09 - Canceled
-- 2019-10-02 - [Technology Investigations](https://drive.google.com/open?id=15YfXt5Cna7exVagptWQuSwEXCEjhmgit) (Brian Bockelman)
-- 2019-09-25 - Canceled due to numerous conflicting meetings
-- 2019-09-18 - Special Topic: Science projects in OSG
-- 2019-09-11 - [Release](https://docs.google.com/document/d/1TqnRfIj2_Q2xea8Xey1j0cSbgnzfP8CBxtBjEUsW4Y8/) and Security (Tim Theisen and Susan Sons)
-- 2019-09-04 - [Operations](https://docs.google.com/presentation/d/12N0ULJkexN7zFJSO7SK1W6pMTzw6b8jh4IrAd8PPI4o/) (Jeff Dost)
-- 2019-08-28 - [Software](https://docs.google.com/document/d/10QIGXYSVPPKM5b2R3DnLDjZgSNRrQJe_FW594QiWTQk/) (Brian Lin)
-- 2019-08-21 - [Production Support](https://drive.google.com/open?id=1Dsqb1GngCZXAjqelqg3PLM_LUy2cAsVP) (Ken Herner)
-- 2019-08-14 - Canceled
-- 2019-08-07 - Special Topic: OSG policies (no slides)
-- 2019-07-31 - Special Topic: [XCache monitoring](https://drive.google.com/open?id=1Oo4IssLtUqOYoILr0jAbJnnA4Ic5a59Q)
-- 2019-07-24 - Special Topic: [Accounting Taskforce](https://docs.google.com/presentation/d/1hcDJHShLxgPyDIKUwEw8VeQcZUuaPIz30WITkJv9188/) (Marian Zvada)
-- 2019-07-17 - Canceled due to the OSG User School
-- 2019-07-10 - Canceled
-
-<div style="height: 0.5ex"></div>
-
-- 2019-07-03 - [Collaboration Support](https://docs.google.com/presentation/d/1H4U66tWPQNJU-PXaRCezFPZi_MQ5lFXQ3Au3RjFUh6A/) (Pascal Paschos)
-- 2019-06-26 - [Research Facilitation](https://docs.google.com/presentation/d/1VtP0wgJOQ1Ac0z1NWtPqPGemAlbzUI-TKimhKkN6Iag/); [Quilt/CC* Training Prep](https://docs.google.com/document/d/1mELrC-NsalI99La5a5c8q8JyZ46A_AYiTZ8DVq9BTd0/) (Lauren Michael)
-- 2019-06-19 - [Networking](https://drive.google.com/open?id=1pEAkv3-Xdm8mPVKNlAz0LhbW0voO1bBY) (Shawn McKee)
-- 2019-06-12 - Special Topic: OSG Accounting (Frank W&uuml;rthwein)
-- 2019-06-05 - Security and [Release](https://docs.google.com/document/d/1hNj_aSnUegR1W6oVLsLUEymhLAPbBTTH0w-awYcVxN0/) (Susan Sons and Tim Theisen)
-- 2019-05-29 - [Technology Investigations](https://drive.google.com/open?id=1ES4O_9REyxiLv37KXRLFzQPnp1jYat8Y) (Brian Bockelman)
-- 2019-05-22 - Canceled
-- 2019-05-15 - [Operations](https://docs.google.com/presentation/d/1hyZz9YKQF3bf6gSS3iRkDzsyQI77JbZPvVNQ4p4bhjo/) (Jeff Dost)
-- 2019-05-08 - [Software](https://docs.google.com/document/d/1wO9aNLzepIrU_rFfbc7W5DHFVtq3BKY8bxHsxmiBo_w/) (Brian Lin)
-- 2019-05-01 - [Production Support](https://drive.google.com/open?id=133V5e47FeNkWUk7tt3lrc5kyWrTWM-my) (Ken Herner)
 
 #### Earlier Meetings
 
