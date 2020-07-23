@@ -1,6 +1,6 @@
 site_name: OSG Management Area
 site_url: https://opensciencegrid.github.io/management/
-repo_url: null
+repo_url: https://github.com/opensciencegrid/management/
 theme:
   name: material
   custom_dir: osgthedocs
