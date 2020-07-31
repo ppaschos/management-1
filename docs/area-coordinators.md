@@ -45,7 +45,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-07-29 - Technology Investigations (Brian Bockelman)
 - 2020-08-05 - Network Monitoring (Shawn McKee)
 - 2020-08-12 - Researcher Facilitation (Lauren Michael)
 
@@ -55,6 +54,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2020
 
+- 2020-07-29 - [Technology Investigations](https://drive.google.com/file/d/1O9UBzS7OIwtDseTIIoSM_d4yHZd7LG-x/) (Brian Bockelman)
 - 2020-07-22 - [Release](https://docs.google.com/document/d/1O9XjZJHEEAadtbt_FILfqFFLUYiVWQsp4FJCXfMPpZA) (Tim Theisen) and [Security](https://drive.google.com/file/d/1wsRXKIzB88P1Z5CeYTu1NU9exszAfMbn/) (Mike Stanfield)
 - 2020-07-15 - Canceled
 - 2020-07-08 - [Operations](https://docs.google.com/presentation/d/1J9IWf0UYRqZ6TVPEusNuwPlT9TlwvNkHUKcmmhEWnuU/) (Jeff Dost)
