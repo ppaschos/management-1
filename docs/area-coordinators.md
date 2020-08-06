@@ -45,7 +45,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-08-05 - Network Monitoring (Shawn McKee)
+- 2020-08-05 - [Network Monitoring](https://drive.google.com/file/d/1yO2_KZGzBGbZrb03KM3SYCb9cJRMx6Ly/) (Shawn McKee)
 - 2020-08-12 - Researcher Facilitation (Lauren Michael)
 
 ### Past Meetings
