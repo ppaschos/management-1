@@ -45,7 +45,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-08-12 - [Researcher Facilitation](https://docs.google.com/presentation/d/19u9sbbt3d-cPlGPh_OtNXQFjnPivxGMnaisvgJ3V53U/edit?usp=sharing) (Lauren Michael)
+- 2020-08-12 - [Researcher Facilitation](https://docs.google.com/presentation/d/19u9sbbt3d-cPlGPh_OtNXQFjnPivxGMnaisvgJ3V53U/) (Lauren Michael)
 
 ### Past Meetings
 
