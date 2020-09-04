@@ -45,7 +45,16 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-08-12 - [Researcher Facilitation](https://docs.google.com/presentation/d/19u9sbbt3d-cPlGPh_OtNXQFjnPivxGMnaisvgJ3V53U/) (Lauren Michael)
+- 2020-09-09 - Canceled
+- 2020-09-16 - Production Support (Ken Herner)
+- 2020-09-23 - Canceled due to [HTCondor Workshop Autumn 2020](https://indico.cern.ch/event/936993/)
+- 2020-09-30 - Software (Brian Lin)
+- 2020-10-07 - Collaboration Support (Pascal Paschos)
+- 2020-10-14 - Operations (Jeff Dost)
+- 2020-10-21 - Network Monitoring (Shawn McKee)
+- 2020-10-28 - Release and Security (Tim Theisen and Mike Stanfield)
+- 2020-11-04 - Researcher Facilitation (Lauren Michael)
+- 2020-11-11 - Technology Investigations (Brian Bockelman)
 
 ### Past Meetings
 
@@ -53,6 +62,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2020
 
+- 2020-08-12 - [Researcher Facilitation](https://docs.google.com/presentation/d/19u9sbbt3d-cPlGPh_OtNXQFjnPivxGMnaisvgJ3V53U/) (Lauren Michael)
 - 2020-08-05 - [Network Monitoring](https://drive.google.com/file/d/1yO2_KZGzBGbZrb03KM3SYCb9cJRMx6Ly/) (Shawn McKee)
 - 2020-07-29 - [Technology Investigations](https://drive.google.com/file/d/1O9UBzS7OIwtDseTIIoSM_d4yHZd7LG-x/) (Brian Bockelman)
 - 2020-07-22 - [Release](https://docs.google.com/document/d/1O9XjZJHEEAadtbt_FILfqFFLUYiVWQsp4FJCXfMPpZA) (Tim Theisen) and [Security](https://drive.google.com/file/d/1wsRXKIzB88P1Z5CeYTu1NU9exszAfMbn/) (Mike Stanfield)
