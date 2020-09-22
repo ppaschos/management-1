@@ -45,7 +45,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-09-16 - [Production Support](https://drive.google.com/file/d/1xAMSSyDiftGZPIvDdQu4w4kybG-RGR00/) (Ken Herner)
 - 2020-09-23 - Canceled due to [HTCondor Workshop Autumn 2020](https://indico.cern.ch/event/936993/)
 - 2020-09-30 - Software (Brian Lin)
 - 2020-10-07 - Collaboration Support (Pascal Paschos)
@@ -61,6 +60,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2020
 
+- 2020-09-16 - [Production Support](https://drive.google.com/file/d/1xAMSSyDiftGZPIvDdQu4w4kybG-RGR00/) (Ken Herner)
 - 2020-09-09 - Canceled
 - 2020-09-02 - Canceled due to OSG All-Hands Meeting
 - 2020-08-26 - Canceled
