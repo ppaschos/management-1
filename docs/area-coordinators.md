@@ -45,7 +45,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-09-30 - [Software](https://docs.google.com/presentation/d/1dhsx4nP0spzOFrVM_Q7RsG1b0vOqm486iSGHi-ZhzXg/) (Brian Lin)
 - 2020-10-07 - Collaboration Support (Pascal Paschos)
 - 2020-10-14 - Operations (Jeff Dost)
 - 2020-10-21 - Network Monitoring (Shawn McKee)
@@ -59,6 +58,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2020
 
+- 2020-09-30 - [Software](https://docs.google.com/presentation/d/1dhsx4nP0spzOFrVM_Q7RsG1b0vOqm486iSGHi-ZhzXg/) (Brian Lin)
 - 2020-09-23 - Canceled due to [HTCondor Workshop Autumn 2020](https://indico.cern.ch/event/936993/)
 - 2020-09-16 - [Production Support](https://drive.google.com/file/d/1xAMSSyDiftGZPIvDdQu4w4kybG-RGR00/) (Ken Herner)
 - 2020-09-09 - Canceled
