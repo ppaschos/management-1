@@ -45,12 +45,13 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-10-14 - Special Topic: Freshdesk in OSG and PATh
-- 2020-10-21 - Network Monitoring (Shawn McKee)
+- 2020-10-21 - Special Topic: Freshdesk in OSG and PATh
 - 2020-10-28 - Release and Security (Tim Theisen and Mike Stanfield)
 - 2020-11-04 - Researcher Facilitation (Lauren Michael)
 - 2020-11-11 - Technology Investigations (Brian Bockelman)
 - 2020-11-18 - Operations (Jeff Dost)
+- 2020-11-25 - Canceled due to Thanskgiving
+- 2020-12-02 - Network Monitoring (Shawn McKee)
 
 ### Past Meetings
 
@@ -58,6 +59,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2020
 
+- 2020-10-14 - Special Topic: Freshdesk in OSG and PATh
 - 2020-10-07 - [Collaboration Support](https://drive.google.com/file/d/1wzwunqiV3elXu2zME3x3PhEZ71EMH6rw/) (Pascal Paschos)
 - 2020-09-30 - [Software](https://docs.google.com/presentation/d/1dhsx4nP0spzOFrVM_Q7RsG1b0vOqm486iSGHi-ZhzXg/) (Brian Lin)
 - 2020-09-23 - Canceled due to [HTCondor Workshop Autumn 2020](https://indico.cern.ch/event/936993/)
