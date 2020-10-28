@@ -9,7 +9,7 @@ The current Area Coordinators are:
 | OSG Area | Area Coordinator |
 | :------- | :--------------- |
 | [Research Facilitation](https://opensciencegrid.org/research-facilitation) | Lauren Michael, University of Wisconsin&ndash;Madison |
-| Collaboration Support | Pascal Paschos, University of Chicago |
+| [Collaboration Support](https://opensciencegrid.org/collaboration-support/) | Pascal Paschos, University of Chicago |
 | [Network Monitoring](https://opensciencegrid.org/networking/) | Shawn McKee, University of Michigan |
 | [Operations](https://opensciencegrid.org/operations/) | Jeff Dost, University of California San Diego |
 | [Outreach](https://opensciencegrid.org/outreach/) | Tim Cartwright, University of Wisconsin&ndash;Madison |
@@ -45,12 +45,12 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-07-08 - [Operations](https://docs.google.com/presentation/d/1J9IWf0UYRqZ6TVPEusNuwPlT9TlwvNkHUKcmmhEWnuU/) (Jeff Dost)
-- 2020-07-15 - Canceled
-- 2020-07-22 - Release and [Security](https://drive.google.com/file/d/1wsRXKIzB88P1Z5CeYTu1NU9exszAfMbn/) (Tim Theisen and Mike Stanfield)
-- 2020-07-29 - Technology Investigations (Brian Bockelman)
-- 2020-08-05 - Network Monitoring (Shawn McKee)
-- 2020-08-12 - Researcher Facilitation (Lauren Michael)
+- 2020-10-28 - [Release](https://docs.google.com/document/d/1jEaEUgohCwe4_7Hy-erZG7K3DgWfkWaIs3mgORFQ1SE) and Security (Tim Theisen and Mike Stanfield)
+- 2020-11-04 - Researcher Facilitation (Lauren Michael)
+- 2020-11-11 - Technology Investigations (Brian Bockelman)
+- 2020-11-18 - Operations (Jeff Dost)
+- 2020-11-25 - Canceled due to Thanskgiving
+- 2020-12-02 - Network Monitoring (Shawn McKee)
 
 ### Past Meetings
 
@@ -58,6 +58,25 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2020
 
+- 2020-10-21 - Special Topic: Freshdesk in OSG and PATh
+- 2020-10-14 - Special Topic: Freshdesk in OSG and PATh
+- 2020-10-07 - [Collaboration Support](https://drive.google.com/file/d/1wzwunqiV3elXu2zME3x3PhEZ71EMH6rw/) (Pascal Paschos)
+- 2020-09-30 - [Software](https://docs.google.com/presentation/d/1dhsx4nP0spzOFrVM_Q7RsG1b0vOqm486iSGHi-ZhzXg/) (Brian Lin)
+- 2020-09-23 - Canceled due to [HTCondor Workshop Autumn 2020](https://indico.cern.ch/event/936993/)
+- 2020-09-16 - [Production Support](https://drive.google.com/file/d/1xAMSSyDiftGZPIvDdQu4w4kybG-RGR00/) (Ken Herner)
+- 2020-09-09 - Canceled
+- 2020-09-02 - Canceled due to OSG All-Hands Meeting
+- 2020-08-26 - Canceled
+- 2020-08-19 - Canceled
+
+<div style="height: 0.5ex"></div>
+
+- 2020-08-12 - [Researcher Facilitation](https://docs.google.com/presentation/d/19u9sbbt3d-cPlGPh_OtNXQFjnPivxGMnaisvgJ3V53U/) (Lauren Michael)
+- 2020-08-05 - [Network Monitoring](https://drive.google.com/file/d/1yO2_KZGzBGbZrb03KM3SYCb9cJRMx6Ly/) (Shawn McKee)
+- 2020-07-29 - [Technology Investigations](https://drive.google.com/file/d/1O9UBzS7OIwtDseTIIoSM_d4yHZd7LG-x/) (Brian Bockelman)
+- 2020-07-22 - [Release](https://docs.google.com/document/d/1O9XjZJHEEAadtbt_FILfqFFLUYiVWQsp4FJCXfMPpZA) (Tim Theisen) and [Security](https://drive.google.com/file/d/1wsRXKIzB88P1Z5CeYTu1NU9exszAfMbn/) (Mike Stanfield)
+- 2020-07-15 - Canceled
+- 2020-07-08 - [Operations](https://docs.google.com/presentation/d/1J9IWf0UYRqZ6TVPEusNuwPlT9TlwvNkHUKcmmhEWnuU/) (Jeff Dost)
 - 2020-07-01 - [Collaboration Support](https://drive.google.com/file/d/1MMzNrBYxjLfeJQ2yvaHEg4L-g-6s_7NP/) (Pascal Paschos)
 - 2020-06-24 - [Software](https://docs.google.com/presentation/d/1mEz1G9VofLViPlqIHzy15ey6EHck_b2pampDSUNV-wI/) (Brian Lin)
 - 2020-06-17 - [Production Support](https://drive.google.com/file/d/1jtCYd7Kh4omqZwHpFJB5cFQhhwgq1uOG/) (Ken Herner)
