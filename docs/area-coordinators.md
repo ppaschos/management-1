@@ -45,7 +45,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-11-04 - [Technology Investigations](https://drive.google.com/file/d/1gv0kucFJoVisZDeS6VMmzJ9g5fq1RM-r/) (Brian Bockelman)
 - 2020-11-11 - Researcher Facilitation (Lauren Michael)
 - 2020-11-18 - Operations (Jeff Dost)
 - 2020-11-25 - Canceled due to Thanskgiving
@@ -57,6 +56,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2020
 
+- 2020-11-04 - [Technology Investigations](https://drive.google.com/file/d/1gv0kucFJoVisZDeS6VMmzJ9g5fq1RM-r/) (Brian Bockelman)
 - 2020-10-28 - [Security](https://drive.google.com/file/d/1-5EU59il1zQjixY0H7tEBxamgl0Bk_D9) (Mike Stanfield) and [Release](https://docs.google.com/document/d/1jEaEUgohCwe4_7Hy-erZG7K3DgWfkWaIs3mgORFQ1SE) (Tim Theisen)
 - 2020-10-21 - Special Topic: Freshdesk in OSG and PATh
 - 2020-10-14 - Special Topic: Freshdesk in OSG and PATh
