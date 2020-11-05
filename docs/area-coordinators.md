@@ -45,7 +45,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-11-04 - Technology Investigations (Brian Bockelman)
+- 2020-11-04 - [Technology Investigations](https://drive.google.com/file/d/1gv0kucFJoVisZDeS6VMmzJ9g5fq1RM-r/) (Brian Bockelman)
 - 2020-11-11 - Researcher Facilitation (Lauren Michael)
 - 2020-11-18 - Operations (Jeff Dost)
 - 2020-11-25 - Canceled due to Thanskgiving
