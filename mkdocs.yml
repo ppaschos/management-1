@@ -6,7 +6,7 @@ theme:
   custom_dir: osgthedocs
   favicon: img/favicon.ico
 
-pages:
+nav:
   - Home: 'index.md'
   - Area Coordinators: 'area-coordinators.md'
   - AC Meeting Archive: 'ac-meeting-archive.md'
