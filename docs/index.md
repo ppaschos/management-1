@@ -15,7 +15,7 @@ The OSG is managed by three key groups, with substantial overlaps in personnel b
   [see below](#executive-team)
 
 * The **OSG Area Coordinators** are leads of OSG functional areas and perform detailed planning and
-  tracking&nbsp;&mdash; for more information, [visit the OSG Area Coordinators page](/area-coordinators)
+  tracking&nbsp;&mdash; for more information, [visit the OSG Area Coordinators page](area-coordinators.md)
 
 
 ## Executive Team
