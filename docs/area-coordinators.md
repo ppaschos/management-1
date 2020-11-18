@@ -46,7 +46,7 @@ The current Area Coordinators are:
 ### Upcoming Meetings
 
 - 2020-11-11 - Researcher Facilitation (Lauren Michael)
-- 2020-11-18 - Operations (Jeff Dost)
+- 2020-11-18 - [Operations](https://docs.google.com/presentation/d/1uD6bjIC3mEv_KVOKB5Oo7MOSKhXIJ5j4xUj3HnZtOdw/) (Jeff Dost)
 - 2020-11-25 - Canceled due to Thanskgiving
 - 2020-12-02 - Network Monitoring (Shawn McKee)
 
