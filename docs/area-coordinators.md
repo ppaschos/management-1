@@ -45,7 +45,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-12-09 - Researcher Facilitation (Lauren Michael)
+- 2020-12-09 - [Research Facilitation](https://docs.google.com/presentation/d/1_hDoRGRvs4Ja4M_mM1uAvtjxMeCNZPF3QKmBxPR4mFA) (Lauren Michael)
 - 2020-12-16 - Special topic(s), TBD
 
 ### Past Meetings
