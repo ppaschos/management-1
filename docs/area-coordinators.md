@@ -45,8 +45,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-12-09 - [Research Facilitation](https://docs.google.com/presentation/d/1_hDoRGRvs4Ja4M_mM1uAvtjxMeCNZPF3QKmBxPR4mFA) (Lauren Michael)
-- 2020-12-16 - Special topic(s), TBD
+- 2020-12-16 - Special topic(s): Jira demo/mini-tutorial + Q&amp;A; SLATE federated operations security policy
 
 ### Past Meetings
 
@@ -54,6 +53,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2020
 
+- 2020-12-09 - [Research Facilitation](https://docs.google.com/presentation/d/1_hDoRGRvs4Ja4M_mM1uAvtjxMeCNZPF3QKmBxPR4mFA) (Lauren Michael)
 - 2020-12-02 - [Network Monitoring](https://drive.google.com/file/d/1TfDQBeQKXcHwyxi714GKB611g3t8U0uH/) (Shawn McKee)
 - 2020-11-25 - Canceled due to Thanskgiving
 - 2020-11-18 - [Operations](https://docs.google.com/presentation/d/1uD6bjIC3mEv_KVOKB5Oo7MOSKhXIJ5j4xUj3HnZtOdw/) (Jeff Dost)
@@ -73,7 +73,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 <div style="height: 0.5ex"></div>
 
-- 2020-08-12 - [Researcher Facilitation](https://docs.google.com/presentation/d/19u9sbbt3d-cPlGPh_OtNXQFjnPivxGMnaisvgJ3V53U/) (Lauren Michael)
+- 2020-08-12 - [Research Facilitation](https://docs.google.com/presentation/d/19u9sbbt3d-cPlGPh_OtNXQFjnPivxGMnaisvgJ3V53U/) (Lauren Michael)
 - 2020-08-05 - [Network Monitoring](https://drive.google.com/file/d/1yO2_KZGzBGbZrb03KM3SYCb9cJRMx6Ly/) (Shawn McKee)
 - 2020-07-29 - [Technology Investigations](https://drive.google.com/file/d/1O9UBzS7OIwtDseTIIoSM_d4yHZd7LG-x/) (Brian Bockelman)
 - 2020-07-22 - [Release](https://docs.google.com/document/d/1O9XjZJHEEAadtbt_FILfqFFLUYiVWQsp4FJCXfMPpZA) (Tim Theisen) and [Security](https://drive.google.com/file/d/1wsRXKIzB88P1Z5CeYTu1NU9exszAfMbn/) (Mike Stanfield)
@@ -90,7 +90,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 - 2020-05-27 - Canceled due to IRIS-HEP Retreat
 - 2020-05-20 - Canceled due to HTCondor Week
 - 2020-05-13 - Canceled
-- 2020-05-06 - [Researcher Facilitation](https://docs.google.com/presentation/d/1HyA3TdhXpU7vdNLwNQsfWTR69CGUBXjhq0LyR0mPp2U/) (Lauren Michael)
+- 2020-05-06 - [Research Facilitation](https://docs.google.com/presentation/d/1HyA3TdhXpU7vdNLwNQsfWTR69CGUBXjhq0LyR0mPp2U/) (Lauren Michael)
 - 2020-04-29 - [Network Monitoring](https://drive.google.com/open?id=1WOpryWHicHaFy8MTqtNiT6siZ8jaRtUmvCa4P5dJdhw) (Shawn McKee)
 - 2020-04-22 - [Technology Investigations](https://drive.google.com/open?id=11Mz1ogYT0MO7lwqXu6FHi2aQ3LCmNbEQ) (Brian Bockelman)
 - 2020-04-15 - [Release](https://docs.google.com/document/d/1qH_tDi1m-vvBsSYUSRrCEdjczmKZKhTNp_LPt6xFIhI) (Tim Theisen) and [Security](https://drive.google.com/file/d/1QrO91B6tG4MS8nbsGLs3RVT3_qqBVhSE) (Mike Stanfield)
@@ -105,7 +105,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 - 2020-03-04 - [Accounting Task Force](https://docs.google.com/presentation/d/1lJGyjD6-xd2nGJeHDfl1nntW0GurjO74988SbUT4CK4) (Marian Zvada)
 - 2020-02-26 - Canceled
 - 2020-02-19 - Canceled
-- 2020-02-12 - [Researcher Facilitation](https://docs.google.com/presentation/d/14seJrv-9wmnTBvnNGAQydQJQ7Rl2WFXXjDh7k-Rlx-0/) (Lauren Michael)
+- 2020-02-12 - [Research Facilitation](https://docs.google.com/presentation/d/14seJrv-9wmnTBvnNGAQydQJQ7Rl2WFXXjDh7k-Rlx-0/) (Lauren Michael)
 - 2020-02-05 - Special Topic: OSG-LHC Metrics
 - 2020-01-29 - [Network Monitoring](https://drive.google.com/open?id=11cIPmPHTuqwcUYf-JXJgN9yAUo48G7-9) (Shawn McKee)
 - 2020-01-22 - [Technology Investigations](https://drive.google.com/open?id=11iP-1IGr9E1ThuxnXrHwuzXCqS0m8Pc3) (Brian Bockelman)
