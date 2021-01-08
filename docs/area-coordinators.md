@@ -47,7 +47,7 @@ The current Area Coordinators are:
 
 - 2021-01-13 - Software (Brian Lin)
 - 2021-01-20 - Production Support (Ken Herner)
-- 2021-01-27 - GIL (Frank Wuerthwein)
+- 2021-01-27 - GIL (Frank Würthwein)
 - 2021-02-03 - Release and Security (Tim Theisen and Mike Stanfield)
 - 2021-02-10 - Collaboration Support (Pascal Paschos)
 - 2021-02-17 - Technology Investigations (Brian Bockelman)
