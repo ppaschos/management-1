@@ -62,7 +62,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2020
 
-- 2020-01-06 - Special topic: SLATE federated operations security policy
+- 2020-01-06 - Special topic: [SLATE federated operations security policy](https://docs.google.com/presentation/d/1FG_UJLpmhKfTcrIBZSdfwWWI2mKbl6VGgZNRg7Yu3-0/)
 - 2020-12-30 - Canceled due to holidays
 - 2020-12-23 - Canceled due to holidays
 - 2020-12-16 - Special topic: Jira demo/mini-tutorial + Q&amp;A
