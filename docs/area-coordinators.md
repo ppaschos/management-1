@@ -45,7 +45,16 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2020-12-16 - Special topic(s): Jira demo/mini-tutorial + Q&amp;A; SLATE federated operations security policy
+- 2021-01-13 - Software (Brian Lin)
+- 2021-01-20 - Production Support (Ken Herner)
+- 2021-01-27 - GIL (Frank Wuerthwein)
+- 2021-02-03 - Release and Security (Tim Theisen and Mike Stanfield)
+- 2021-02-10 - Collaboration Support (Pascal Paschos)
+- 2021-02-17 - Technology Investigations (Brian Bockelman)
+- 2021-02-24 - Operations (Jeff Dost)
+- 2021-03-03 - Canceled due to [OSG All-Hands Meeting 2021](https://opensciencegrid.org/all-hands/2021/)
+- 2021-03-10 - Researcher Facilitation (Lauren Michael)
+- 2021-03-17 - Network Monitoring (Shawn McKee)
 
 ### Past Meetings
 
@@ -53,6 +62,10 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2020
 
+- 2020-01-06 - Special topic: SLATE federated operations security policy
+- 2020-12-30 - Canceled due to holidays
+- 2020-12-23 - Canceled due to holidays
+- 2020-12-16 - Special topic: Jira demo/mini-tutorial + Q&amp;A
 - 2020-12-09 - [Research Facilitation](https://docs.google.com/presentation/d/1_hDoRGRvs4Ja4M_mM1uAvtjxMeCNZPF3QKmBxPR4mFA) (Lauren Michael)
 - 2020-12-02 - [Network Monitoring](https://drive.google.com/file/d/1TfDQBeQKXcHwyxi714GKB611g3t8U0uH/) (Shawn McKee)
 - 2020-11-25 - Canceled due to Thanskgiving
