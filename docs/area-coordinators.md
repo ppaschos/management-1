@@ -45,7 +45,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2021-01-13 - [Software](https://docs.google.com/presentation/d/15Sbe7LgwCxPVG9gzKFJAyT8OQqrOInhPwiaiEzIzHUU/) (Brian Lin)
 - 2021-01-20 - Production Support (Ken Herner)
 - 2021-01-27 - GIL (Frank Würthwein)
 - 2021-02-03 - Release and Security (Tim Theisen and Mike Stanfield)
@@ -59,6 +58,10 @@ The current Area Coordinators are:
 ### Past Meetings
 
 Past meetings are listed newest to oldest.  Blank lines separate cycles of area coordinator presentations.
+
+#### 2021
+
+- 2021-01-13 - [Software](https://docs.google.com/presentation/d/15Sbe7LgwCxPVG9gzKFJAyT8OQqrOInhPwiaiEzIzHUU/) (Brian Lin)
 
 #### 2020
 
