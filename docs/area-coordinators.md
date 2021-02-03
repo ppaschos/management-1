@@ -45,7 +45,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2021-02-03 - [Release](https://docs.google.com/document/d/1dh6cAqPL5s_ppcGAZ7KuyobK26yUBLy2y9lGQ4EH_nU/) and Security (Tim Theisen and Mike Stanfield)
+- 2021-02-03 - [Release](https://docs.google.com/document/d/1dh6cAqPL5s_ppcGAZ7KuyobK26yUBLy2y9lGQ4EH_nU/) and [Security](https://drive.google.com/file/d/1tcSMbat-jJVTMOkUCVkGMVKFUngw9kXm/view?usp=sharing) (Tim Theisen and Mike Stanfield)
 - 2021-02-10 - Collaboration Support (Pascal Paschos)
 - 2021-02-17 - Technology Investigations (Brian Bockelman)
 - 2021-02-24 - Operations (Jeff Dost)
