@@ -45,7 +45,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2021-02-03 - [Release](https://docs.google.com/document/d/1dh6cAqPL5s_ppcGAZ7KuyobK26yUBLy2y9lGQ4EH_nU/) and [Security](https://drive.google.com/file/d/1tcSMbat-jJVTMOkUCVkGMVKFUngw9kXm/) (Tim Theisen and Mike Stanfield)
 - 2021-02-10 - Collaboration Support (Pascal Paschos)
 - 2021-02-17 - Technology Investigations (Brian Bockelman)
 - 2021-02-24 - Operations (Jeff Dost)
@@ -59,6 +58,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2021
 
+- 2021-02-03 - [Release](https://docs.google.com/document/d/1dh6cAqPL5s_ppcGAZ7KuyobK26yUBLy2y9lGQ4EH_nU/) and [Security](https://drive.google.com/file/d/1tcSMbat-jJVTMOkUCVkGMVKFUngw9kXm/) (Tim Theisen and Mike Stanfield)
 - 2021-01-27 - [Global Infrastructure Lab](https://drive.google.com/file/d/1hHrDY6LdB-oU8aimIeyJwPaF6uDmUEVl/) (Frank Würthwein)
 - 2021-01-20 - [Production Support](https://drive.google.com/file/d/1-QCXvcUc-cshTdM92a_rzaUg_NYEtGuk/) (Ken Herner)
 - 2021-01-13 - [Software](https://docs.google.com/presentation/d/15Sbe7LgwCxPVG9gzKFJAyT8OQqrOInhPwiaiEzIzHUU/) (Brian Lin)
