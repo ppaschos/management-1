@@ -30,13 +30,13 @@ Current Executive Team members:
 * Brian Bockelman, Morgridge Institute for Research, OSG Technology lead
 * Eric Lançon, Brookhaven National Laboratory, BNL/ATLAS representative
 * Jérôme Lauret, Brookhaven National Laboratory, Nuclear Physics representative
-* Ken Bloom, University of Nebraska–Lincoln, OSG Council chair
+* Ken Bloom, University of Nebraska–Lincoln, Past OSG Council Chair and resource provider
 * Lauren Michael, University of Wisconsin&ndash;Madison, OSG Researcher Facilitation lead
+* Lisa Goodenough, Fermi National Accelerator Laboratory, Fermilab representative
 * Mark Neubauer, University of Illinois at Urbana-Champaign, OSG Resource Manager
 * Mike Stanfield, Indiana University, OSG Information Security Officer
-* Rob Gardner, University of Chicago, OSG Collaboration Support lead
+* Rob Gardner, University of Chicago, OSG Collaboration Support lead and OSG Council chair
 * Tim Cartwright, University of Wisconsin&ndash;Madison, OSG Deputy Executive Director
-* Tony Tiradani, Fermi National Accelerator Laboratory, Fermilab/CMS representative
 
 
 ## Management Activities
