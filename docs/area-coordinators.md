@@ -45,14 +45,31 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2021-03-24 - Special topic: AHM debrief
-- 2021-03-31 - Special topic (probably): Communication tools
+- 2021-04-14 - Production Support (Ken Herner)
+- 2021-04-21 - Software (Brian Lin)
+- 2021-04-28 - Canceled due to IRIS-HEP meetings
+- 2021-05-05 - Special topic(s) &mdash; TBD
+- 2021-05-12 - Grid Infrastructure Lab (Igor Sfiligoi)
+- 2021-05-19 - Release and Security (Tim Theisen and Mike Stanfield)
+- 2021-05-26 - Canceled due to [HTCondor Week](https://agenda.hep.wisc.edu/event/1579/)
+- 2021-06-02 - Technology Investigations (Brian Bockelman)
+- 2021-06-09 - Special topic(s) &mdash; TBD
+- 2021-06-16 - Collaboration Support (Pascal Paschos)
+- 2021-06-23 - Operations (Jeff Dost)
+- 2021-06-30 - Network Monitoring (Shawn McKee)
+- 2021-07-07 - Special topic(s) &mdash; TBD
+- 2021-07-14 - Researcher Facilitation (Lauren Michael)
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.  Blank lines separate cycles of area coordinator presentations.
 
 #### 2021
+
+<div style="height: 0.5ex"></div>
+
+- 2021-03-31 - Special topic: OSG Slack workspace
+- 2021-03-24 - Special topic: AHM debrief
 - 2021-03-17 - [Network Monitoring](https://docs.google.com/presentation/d/13YUTx3w2U2c4kouNbGLvZRChMjlXJHahfTAqV4Sg9jg/) (Shawn McKee)
 - 2021-03-10 - [Researcher Facilitation](https://docs.google.com/presentation/d/1E1pGoYIYbb1BnXx501i3fvAHW0q9PC163uDXFh5SNZo/) (Lauren Michael)
 - 2021-03-03 - Canceled due to [OSG All-Hands Meeting 2021](https://opensciencegrid.org/all-hands/2021/)
