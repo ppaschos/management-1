@@ -46,7 +46,7 @@ The current Area Coordinators are:
 ### Upcoming Meetings
 
 - 2021-04-14 - [Production Support](https://drive.google.com/file/d/1B5tCfNHgd3FhQ6mwhwW7GcQl42F17gJq/) (Ken Herner)
-- 2021-04-21 - Software (Brian Lin)
+- 2021-04-21 - [Software](https://docs.google.com/presentation/d/1dNjZbaQ4bER782Pa4aJHil-NPQKxfx9BW1bylGh0GbU) (Brian Lin)
 - 2021-04-28 - Canceled due to IRIS-HEP meetings
 - 2021-05-05 - Special topic(s) &mdash; TBD
 - 2021-05-12 - Grid Infrastructure Lab (Igor Sfiligoi)
