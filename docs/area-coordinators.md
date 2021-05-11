@@ -45,9 +45,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2021-04-21 - [Software](https://docs.google.com/presentation/d/1dNjZbaQ4bER782Pa4aJHil-NPQKxfx9BW1bylGh0GbU) (Brian Lin)
-- 2021-04-28 - Canceled due to IRIS-HEP meetings
-- 2021-05-05 - Special topic(s) &mdash; TBD
 - 2021-05-12 - Grid Infrastructure Lab (Igor Sfiligoi)
 - 2021-05-19 - Release and Security (Tim Theisen and Mike Stanfield)
 - 2021-05-26 - Canceled due to [HTCondor Week](https://agenda.hep.wisc.edu/event/1579/)
@@ -65,6 +62,9 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2021
 
+- 2021-05-05 - Canceled
+- 2021-04-28 - Canceled due to IRIS-HEP meetings
+- 2021-04-21 - [Software](https://docs.google.com/presentation/d/1dNjZbaQ4bER782Pa4aJHil-NPQKxfx9BW1bylGh0GbU) (Brian Lin)
 - 2021-04-14 - [Production Support](https://drive.google.com/file/d/1B5tCfNHgd3FhQ6mwhwW7GcQl42F17gJq/) (Ken Herner)
 
 <div style="height: 0.5ex"></div>
