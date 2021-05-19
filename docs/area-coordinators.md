@@ -45,7 +45,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2021-05-19 - Release and Security (Tim Theisen and Mike Stanfield)
+- 2021-05-19 - [Release](https://docs.google.com/document/d/1i_uWrf3XzYYOogvFpWCCcf4zeYuvbRz9OIEDoPCmRoQ/) and Security (Tim Theisen and Mike Stanfield)
 - 2021-05-26 - Canceled due to [HTCondor Week](https://agenda.hep.wisc.edu/event/1579/)
 - 2021-06-02 - Technology Investigations (Brian Bockelman)
 - 2021-06-09 - Special topic(s) &mdash; TBD
