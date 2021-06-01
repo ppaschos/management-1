@@ -45,7 +45,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2021-05-26 - Canceled due to [HTCondor Week](https://agenda.hep.wisc.edu/event/1579/)
 - 2021-06-02 - Technology Investigations (Brian Bockelman)
 - 2021-06-09 - Special topic(s) &mdash; TBD
 - 2021-06-16 - Collaboration Support (Pascal Paschos)
@@ -60,6 +59,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2021
 
+- 2021-05-26 - Canceled due to [HTCondor Week](https://agenda.hep.wisc.edu/event/1579/)
 - 2021-05-19 - [Release](https://docs.google.com/document/d/1i_uWrf3XzYYOogvFpWCCcf4zeYuvbRz9OIEDoPCmRoQ/) and [Security](https://drive.google.com/file/d/1rPUMHETvp837SvAXPqXDsBTBls-3k_bb/) (Tim Theisen and Mike Stanfield)
 - 2021-05-12 - [Global Infrastructure Lab](https://drive.google.com/file/d/1XXswaN3LQ_U-MNVaNvStsZ4MHXRl8doe/) (Igor Sfiligoi)
 - 2021-05-05 - Canceled
