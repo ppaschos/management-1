@@ -45,7 +45,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2021-06-16 - Collaboration Support (Pascal Paschos)
+- 2021-06-16 - [Collaboration Support](https://docs.google.com/presentation/d/1q1VxDxXeIbC0vjOxnomh9KUu7F8B3KwF-0InmrTHOks) (Pascal Paschos)
 - 2021-06-23 - Operations (Jeff Dost)
 - 2021-06-30 - Network Monitoring (Shawn McKee)
 - 2021-07-07 - Special topic(s) &mdash; TBD
