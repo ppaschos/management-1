@@ -45,8 +45,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2021-06-16 - [Collaboration Support](https://docs.google.com/presentation/d/1q1VxDxXeIbC0vjOxnomh9KUu7F8B3KwF-0InmrTHOks) (Pascal Paschos)
-- 2021-06-23 - [Operations](https://docs.google.com/presentation/d/1cPhXM_izM6ZkrdX9y4TKjavcFoeh-aTVDVeugmJW6OE/) (Jeff Dost)
 - 2021-06-30 - Network Monitoring (Shawn McKee)
 - 2021-07-07 - Special topic(s) &mdash; TBD
 - 2021-07-14 - Researcher Facilitation (Lauren Michael)
@@ -57,6 +55,8 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2021
 
+- 2021-06-23 - [Operations](https://docs.google.com/presentation/d/1cPhXM_izM6ZkrdX9y4TKjavcFoeh-aTVDVeugmJW6OE/) (Jeff Dost)
+- 2021-06-16 - [Collaboration Support](https://docs.google.com/presentation/d/1q1VxDxXeIbC0vjOxnomh9KUu7F8B3KwF-0InmrTHOks/) (Pascal Paschos)
 - 2021-06-09 - Canceled
 - 2021-06-02 - Technology Investigations (Brian Bockelman)
 - 2021-05-26 - Canceled due to [HTCondor Week](https://agenda.hep.wisc.edu/event/1579/)
