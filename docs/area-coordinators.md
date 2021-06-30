@@ -25,13 +25,13 @@ The current Area Coordinators are:
   <tr> <td><strong>When</strong></td> <td>Wednesdays, 2:00–3:00 p.m. Central Time</td> </tr>
   <tr>
     <td><strong>Online</strong></td>
-    <td><a href="https://unl.zoom.us/j/865025296">https://unl.zoom.us/j/865025296</a> (password sent separately)</td>
+    <td><a href="https://uwmadison.zoom.us/j/91646738583">https://uwmadison.zoom.us/j/91646738583</a> (password sent separately)</td>
   </tr>
   <tr>
     <td><strong>Phone (toll)</strong></td>
     <td>
-      See <a href="https://unl.zoom.us/zoomconference">the Zoom website</a> for phone numbers<br>
-      Meeting ID: 865 025 296 (password sent separately)
+      See <a href="https://uwmadison.zoom.us/u/abQyBkAVbS">the Zoom website</a> for phone numbers<br>
+      Meeting ID: 916 4673 8583 (password sent separately)
     </td>
   </tr>
 </table>
@@ -45,7 +45,6 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2021-06-30 - [Network Monitoring](https://docs.google.com/presentation/d/1axVUpJLkeG6auEkoTfdEsllYMhEFKqfGW561EufEr_k/edit#slide=id.p1) (Shawn McKee)
 - 2021-07-07 - Special topic(s) &mdash; TBD
 - 2021-07-14 - Researcher Facilitation (Lauren Michael)
 
@@ -55,6 +54,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2021
 
+- 2021-06-30 - [Network Monitoring](https://docs.google.com/presentation/d/1axVUpJLkeG6auEkoTfdEsllYMhEFKqfGW561EufEr_k/edit#slide=id.p1) (Shawn McKee)
 - 2021-06-23 - [Operations](https://docs.google.com/presentation/d/1cPhXM_izM6ZkrdX9y4TKjavcFoeh-aTVDVeugmJW6OE/) (Jeff Dost)
 - 2021-06-16 - [Collaboration Support](https://docs.google.com/presentation/d/1q1VxDxXeIbC0vjOxnomh9KUu7F8B3KwF-0InmrTHOks/) (Pascal Paschos)
 - 2021-06-09 - Canceled
