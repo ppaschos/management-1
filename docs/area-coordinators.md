@@ -45,7 +45,10 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2021-07-14 - Researcher Facilitation (Lauren Michael)
+- 2021-07-14 - Canceled
+- TBD - Researcher Facilitation (Lauren Michael)
+
+(Remainder of schedule for summer 2021 coming soon!)
 
 ### Past Meetings
 
