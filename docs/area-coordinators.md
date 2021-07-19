@@ -45,10 +45,12 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2021-07-14 - Canceled
-- TBD - Researcher Facilitation (Lauren Michael)
-
-(Remainder of schedule for summer 2021 coming soon!)
+- 2021-07-21 - Canceled (summer + School preparations)
+- 2021-07-28 - Canceled (School preparations)
+- 2021-08-04 - Canceled (OSG Virtual School 2021)
+- 2021-08-11 - Canceled (OSG Virtual School 2021)
+- 2021-08-18 - Research Facilitation (Lauren Michael) or special topics
+- 2021-08-25 - Special topics or Research Facilitation (Lauren Michael)
 
 ### Past Meetings
 
@@ -56,6 +58,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2021
 
+- 2021-07-14 - Canceled
 - 2021-07-07 - Canceled
 - 2021-06-30 - [Network Monitoring](https://docs.google.com/presentation/d/1axVUpJLkeG6auEkoTfdEsllYMhEFKqfGW561EufEr_k/edit#slide=id.p1) (Shawn McKee)
 - 2021-06-23 - [Operations](https://docs.google.com/presentation/d/1cPhXM_izM6ZkrdX9y4TKjavcFoeh-aTVDVeugmJW6OE/) (Jeff Dost)
