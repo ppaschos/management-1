@@ -45,12 +45,13 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2021-07-21 - Canceled (summer + School preparations)
-- 2021-07-28 - Canceled (School preparations)
+
+- 2021-07-21 - Canceled (PEARC21 + OSG Virtual School prep)
+- 2021-07-28 - Canceled (OSG Virtual School prep)
 - 2021-08-04 - Canceled (OSG Virtual School 2021)
 - 2021-08-11 - Canceled (OSG Virtual School 2021)
-- 2021-08-18 - Research Facilitation (Lauren Michael) or special topics
-- 2021-08-25 - Special topics or Research Facilitation (Lauren Michael)
+- 2021-08-18 - [Research Facilitation](https://docs.google.com/presentation/d/13c_KjeLp0OhZY8-7oRoIUowudWtbU9zMRauMDCMis2A/edit?usp=sharing) (Lauren Michael)
+- 2021-08-25 - Special topics
 
 ### Past Meetings
 
