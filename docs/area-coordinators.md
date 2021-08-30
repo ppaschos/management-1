@@ -45,13 +45,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-
-- 2021-07-21 - Canceled (PEARC21 + OSG Virtual School prep)
-- 2021-07-28 - Canceled (OSG Virtual School prep)
-- 2021-08-04 - Canceled (OSG Virtual School 2021)
-- 2021-08-11 - Canceled (OSG Virtual School 2021)
-- 2021-08-18 - [Research Facilitation](https://docs.google.com/presentation/d/13c_KjeLp0OhZY8-7oRoIUowudWtbU9zMRauMDCMis2A/) (Lauren Michael)
-- 2021-08-25 - Special topics
+- 2021-09-01 - Canceled
 
 ### Past Meetings
 
@@ -59,6 +53,12 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2021
 
+- 2021-08-25 - PATh discussion
+- 2021-08-18 - [Research Facilitation](https://docs.google.com/presentation/d/13c_KjeLp0OhZY8-7oRoIUowudWtbU9zMRauMDCMis2A/) (Lauren Michael)
+- 2021-08-11 - Canceled (OSG Virtual School 2021)
+- 2021-08-04 - Canceled (OSG Virtual School 2021)
+- 2021-07-28 - Canceled (OSG Virtual School prep)
+- 2021-07-21 - Canceled (PEARC21 + OSG Virtual School prep)
 - 2021-07-14 - Canceled
 - 2021-07-07 - Canceled
 - 2021-06-30 - [Network Monitoring](https://docs.google.com/presentation/d/1axVUpJLkeG6auEkoTfdEsllYMhEFKqfGW561EufEr_k/edit#slide=id.p1) (Shawn McKee)
