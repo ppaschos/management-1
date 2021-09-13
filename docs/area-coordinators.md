@@ -45,7 +45,7 @@ The current Area Coordinators are:
 
 ### Upcoming Meetings
 
-- 2021-09-01 - Canceled
+- 2021-09-15 - Production Support (Ken Herner)
 
 ### Past Meetings
 
@@ -53,6 +53,10 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of area 
 
 #### 2021
 
+<div style="height: 0.5ex"></div>
+
+- 2021-09-08 - Canceled
+- 2021-09-01 - Canceled
 - 2021-08-25 - PATh discussion
 - 2021-08-18 - [Research Facilitation](https://docs.google.com/presentation/d/13c_KjeLp0OhZY8-7oRoIUowudWtbU9zMRauMDCMis2A/) (Lauren Michael)
 - 2021-08-11 - Canceled (OSG Virtual School 2021)
