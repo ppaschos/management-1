@@ -36,7 +36,7 @@ There are three kinds of staff meetings:
 ### Regular meetings
 
 Staff should decide for themselves when it is best to attend.
-Team leads (OSG ACs + HTCSS) are asked to attend or send a delegate to ensure broad representation.
+OSG Area Coordinators are asked to attend or send a delegate to ensure broad representation.
 
 1.  (2 min) Review [OSG calendar](https://indico.fnal.gov/categoryDisplay.py?categId=86) for updates
 1.  (3 min) Collect topcis for discussion time
