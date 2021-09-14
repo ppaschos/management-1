@@ -8,6 +8,7 @@ theme:
 
 nav:
   - Home: 'index.md'
+  - Staff Meeting: staff-meeting.md
   - Area Coordinators: 'area-coordinators.md'
   - AC Meeting Archive: 'ac-meeting-archive.md'
   - Policies: 'policies.md'
