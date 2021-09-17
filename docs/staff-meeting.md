@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2021-09-15 - Regular meeting: Production Support (Ken Herner)
 - 2021-09-22 - Regular meeting: TBD (along with the rest of the next cycle)
 - 2021-09-29 - Leadership meeting (**all staff**)
 
@@ -84,6 +83,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of team 
 
 Prior to 15 Sep 2021, the meeting used an older format.
 
+- 2021-09-15 - Regular meeting: [Production Support](https://drive.google.com/file/d/1_3322DTA56kej_7JMPXAKKAT5oegoe40/) (Ken Herner)
 - 2021-09-08 - Canceled
 - 2021-09-01 - Canceled
 - 2021-08-25 - Leadership meeting: PATh discussion
