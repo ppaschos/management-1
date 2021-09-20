@@ -72,8 +72,23 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2021-09-22 - Regular meeting: TBD (along with the rest of the next cycle)
-- 2021-09-29 - Leadership meeting (**all staff**)
+- 2021-09-22 - Canceled - HTCondor Week Europe 2021, etc.
+- 2021-09-29 - Leadership (TBD) – **all staff**
+- 2021-10-06 - Infrastructure Lab (Igor Sfiligoi)
+- 2021-10-13 - Security (Josh Drake)
+- 2021-10-20 - Software (Brian Lin)
+- 2021-10-27 - Leadership (TBD) – **all staff**
+- 2021-11-03 - Release (Tim Theisen)
+- 2021-11-10 - Technology Investigations (Brian Bockelman)
+- 2021-11-17 - Collaboration Support (Pascal Paschos)
+- 2021-11-24 - Canceled - Thanksgiving
+- 2021-12-01 - HTCSS (Todd Tannenbaum)
+- 2021-12-08 - Operations (Jeff Dost)
+- 2021-12-15 - Network Monitoring (Shawn McKee)
+- 2021-12-22 - Leadership (TBD) or cancel (due to holidays)
+- 2021-12-29 - Canceled - Holidays
+- 2022-01-05 - Special Topics (All)
+- 2022-01-12 - Researcher Facilitation (Lauren Michael)
 
 ### Past Meetings
 
