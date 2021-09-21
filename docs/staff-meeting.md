@@ -73,7 +73,7 @@ of a special topic, which will be announced in advance.
 ### Upcoming Meetings
 
 - 2021-09-22 - Canceled - HTCondor Week Europe 2021, etc.
-- 2021-09-29 - Leadership (TBD) – **all staff**
+- 2021-09-29 - Leadership (Miron Livny) – **all staff**
 - 2021-10-06 - Infrastructure Lab (Igor Sfiligoi)
 - 2021-10-13 - Security (Josh Drake)
 - 2021-10-20 - Software (Brian Lin)
