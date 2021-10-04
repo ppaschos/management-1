@@ -58,7 +58,7 @@ Even better, nominate topics by emailing Tim C. in advance.
 
 On the last Wednesday of each month, OSG/PATh leadership (usually Miron or Frank)
 will lead a meeting to discuss topics of their choice.
-All staff are encourage to suggest topics in advance by emailing Tim C. in advance.
+All staff are encouraged to suggest topics in advance by emailing Tim C.
 
 **All OSG and PATh staff are requested to attend monthly leadership meetings,**
 so please note these meetings in your calendar system.
