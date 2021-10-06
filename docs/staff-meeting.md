@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2021-10-06 - Infrastructure Lab (Igor Sfiligoi)
+- 2021-10-06 - [Infrastructure Lab](https://drive.google.com/file/d/1rsjT5giw-6kr1YNI1TcTBw6kpzQVNmp8) (Igor Sfiligoi)
 - 2021-10-13 - Security (Josh Drake)
 - 2021-10-20 - Software (Brian Lin)
 - 2021-10-27 - Leadership (TBD) – **all staff**
