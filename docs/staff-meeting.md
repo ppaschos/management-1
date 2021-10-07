@@ -39,7 +39,7 @@ Staff should decide for themselves when it is best to attend.
 OSG Area Coordinators are asked to attend or send a delegate to ensure broad representation.
 
 1.  (2 min) Review [OSG calendar](https://indico.fnal.gov/categoryDisplay.py?categId=86) for updates
-1.  (3 min) Collect topcis for discussion time
+1.  (3 min) Collect topics for discussion time
 1.  (30 min) Team presentation and discussion
 1.  (25 min) Discussion of interesting challenges
 
