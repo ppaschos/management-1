@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2021-10-06 - [Infrastructure Lab](https://drive.google.com/file/d/1rsjT5giw-6kr1YNI1TcTBw6kpzQVNmp8) (Igor Sfiligoi)
 - 2021-10-13 - Security (Josh Drake)
 - 2021-10-20 - Software (Brian Lin)
 - 2021-10-27 - Leadership (TBD) – **all staff**
@@ -94,6 +93,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of team 
 
 #### 2021
 
+- 2021-10-06 - [Infrastructure Lab](https://drive.google.com/file/d/1rsjT5giw-6kr1YNI1TcTBw6kpzQVNmp8) (Igor Sfiligoi)
 - 2021-09-29 - Leadership (Miron Livny) – **all staff**
 - 2021-09-22 - Canceled - HTCondor Week Europe 2021, etc.
 - 2021-09-15 - Regular meeting: [Production Support](https://drive.google.com/file/d/1_3322DTA56kej_7JMPXAKKAT5oegoe40/) (Ken Herner)
