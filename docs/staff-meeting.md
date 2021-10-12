@@ -72,11 +72,11 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2021-10-13 - Security (Josh Drake) &ndash; discussion: customer service
+- 2021-10-13 - Technology Investigations (Brian Bockelman) &ndash; discussion: customer service
 - 2021-10-20 - Release (Tim Theisen) &ndash; discussion: runtime environment(s)
 - 2021-10-27 - Leadership (TBD) – **all staff**
 - 2021-11-03 - Software (Brian Lin)
-- 2021-11-10 - Technology Investigations (Brian Bockelman)
+- 2021-11-10 - Security (Josh Drake)
 - 2021-11-17 - Collaboration Support (Pascal Paschos)
 - 2021-11-24 - Canceled - Thanksgiving
 - 2021-12-01 - HTCSS (Todd Tannenbaum)
