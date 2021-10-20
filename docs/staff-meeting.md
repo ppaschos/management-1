@@ -30,7 +30,7 @@ and all PATh staff.
 There are three kinds of staff meetings:
 
 *  **Regular meetings** have a team presentation plus discussion of interesting challenges
-*  **Leadership meetings** occur once a month and are led by Miron or Frank
+*  **Town hall meetings** occur on last Wednesdays each month and are led by Miron or Frank
 *  **Special topics meetings** focus on a special discussion topic or two
 
 ### Regular meetings
@@ -54,13 +54,13 @@ although the presenter is welcome to identify ones during their talk.
 and we’ll get through as many as we can each time.
 Even better, nominate topics by emailing Tim C. in advance.
 
-### Leadership meetings
+### Town hall meetings
 
 On the last Wednesday of each month, OSG/PATh leadership (usually Miron or Frank)
 will lead a meeting to discuss topics of their choice.
 All staff are encouraged to suggest topics in advance by emailing Tim C.
 
-**All OSG and PATh staff are requested to attend monthly leadership meetings,**
+**All OSG and PATh staff are requested to attend monthly town hall meetings,**
 so please note these meetings in your calendar system.
 
 ### Special topics meetings
@@ -73,7 +73,7 @@ of a special topic, which will be announced in advance.
 ### Upcoming Meetings
 
 - 2021-10-20 - Release (Tim Theisen) &ndash; discussion: runtime environment(s)
-- 2021-10-27 - Leadership (TBD) – **all staff**
+- 2021-10-27 - Town hall (TBD) – **all staff**
 - 2021-11-03 - Software (Brian Lin)
 - 2021-11-10 - Security (Josh Drake)
 - 2021-11-17 - Collaboration Support (Pascal Paschos)
@@ -81,7 +81,7 @@ of a special topic, which will be announced in advance.
 - 2021-12-01 - HTCSS (Todd Tannenbaum)
 - 2021-12-08 - Operations (Jeff Dost)
 - 2021-12-15 - Network Monitoring (Shawn McKee)
-- 2021-12-22 - Leadership (TBD) or cancel (due to holidays)
+- 2021-12-22 - Town hall (TBD) or cancel (due to holidays)
 - 2021-12-29 - Canceled - Holidays
 - 2022-01-05 - Special Topics (All)
 - 2022-01-12 - Researcher Facilitation (Lauren Michael)
@@ -94,7 +94,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of team 
 
 - 2021-10-13 - Discussion: customer service
 - 2021-10-06 - [Infrastructure Lab](https://drive.google.com/file/d/1rsjT5giw-6kr1YNI1TcTBw6kpzQVNmp8) (Igor Sfiligoi)
-- 2021-09-29 - Leadership (Miron Livny) – **all staff**
+- 2021-09-29 - Town hall (Miron Livny) – **all staff**
 - 2021-09-22 - Canceled - HTCondor Week Europe 2021, etc.
 - 2021-09-15 - Regular meeting: [Production Support](https://drive.google.com/file/d/1_3322DTA56kej_7JMPXAKKAT5oegoe40/) (Ken Herner)
 
@@ -102,7 +102,7 @@ Prior to 15 Sep 2021, the meeting used an older format.
 
 - 2021-09-08 - Canceled
 - 2021-09-01 - Canceled
-- 2021-08-25 - Leadership meeting: PATh discussion
+- 2021-08-25 - Town hall meeting: PATh discussion
 - 2021-08-18 - [Research Facilitation](https://docs.google.com/presentation/d/13c_KjeLp0OhZY8-7oRoIUowudWtbU9zMRauMDCMis2A/) (Lauren Michael)
 - 2021-08-11 - Canceled (OSG Virtual School 2021)
 - 2021-08-04 - Canceled (OSG Virtual School 2021)
