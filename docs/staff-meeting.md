@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2021-10-20 - Release (Tim Theisen) &ndash; discussion: runtime environment(s)
+- 2021-10-20 - [Release](https://docs.google.com/presentation/d/1sqq28b4yvx5-I-RP4guC6ZDGiZLZKBbXHHBqs2KWqSQ/) (Tim Theisen) &ndash; discussion: runtime environment(s)
 - 2021-10-27 - Town hall (TBD) – **all staff**
 - 2021-11-03 - Software (Brian Lin)
 - 2021-11-10 - Security (Josh Drake)
