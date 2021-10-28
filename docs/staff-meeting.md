@@ -72,10 +72,9 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2021-10-27 - Town hall (TBD) – **all staff**
 - 2021-11-03 - Software (Brian Lin)
 - 2021-11-10 - Security (Josh Drake)
-- 2021-11-17 - Collaboration Support (Pascal Paschos)
+- 2021-11-17 - Town Hall (Frank Würthwein): More on guiding principles
 - 2021-11-24 - Canceled - Thanksgiving
 - 2021-12-01 - HTCSS (Todd Tannenbaum)
 - 2021-12-08 - Operations (Jeff Dost)
@@ -91,6 +90,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of team 
 
 #### 2021
 
+- 2021-10-27 - Town hall (TBD) – **all staff**
 - 2021-10-20 - [Release](https://docs.google.com/presentation/d/1sqq28b4yvx5-I-RP4guC6ZDGiZLZKBbXHHBqs2KWqSQ/) (Tim Theisen) &ndash; discussion: runtime environment(s)
 - 2021-10-13 - Discussion: customer service
 - 2021-10-06 - [Infrastructure Lab](https://drive.google.com/file/d/1rsjT5giw-6kr1YNI1TcTBw6kpzQVNmp8) (Igor Sfiligoi)
