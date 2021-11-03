@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2021-11-03 - [Software](https://docs.google.com/presentation/d/1BYjf37QDALy7FM5KFY-Ay1MuUzt1raPO5q0AtwT2pyc/edit?usp=sharing) (Brian Lin)
+- 2021-11-03 - [Software](https://docs.google.com/presentation/d/1BYjf37QDALy7FM5KFY-Ay1MuUzt1raPO5q0AtwT2pyc/) (Brian Lin)
 - 2021-11-10 - Security (Josh Drake)
 - 2021-11-17 - Town Hall (Frank Würthwein): More on guiding principles
 - 2021-11-24 - Canceled - Thanksgiving
