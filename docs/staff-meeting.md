@@ -72,15 +72,18 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2021-11-17 - **Town Hall** (all staff): Frank Würthwein, more on guiding principles
-- 2021-11-24 - Canceled - Thanksgiving
-- 2021-12-01 - HTCSS (Todd Tannenbaum)
-- 2021-12-08 - Operations (Jeff Dost)
-- 2021-12-15 - Network Monitoring (Shawn McKee)
-- 2021-12-22 - Town hall (TBD) or cancel (due to holidays)
-- 2021-12-29 - Canceled - Holidays
-- 2022-01-05 - Special Topics (All)
-- 2022-01-12 - Researcher Facilitation (Lauren Michael)
+- 2021-11-24 - Canceled due to Thanksgiving
+- 2021-12-01 - Operations (Jeff Dost)
+- 2021-12-08 - HTCSS (Todd Tannenbaum)
+- 2021-12-15 - Town Hall (TBD)
+- 2021-12-22 - Special topics
+- 2021-12-29 - Canceled due to holidays
+- 2022-01-05 - Network Monitoring (Shawn McKee)
+- 2022-01-12 - Town Hall (TBD)
+- 2022-01-19 - Collaboration Support (Pascal Paschos)
+- 2022-01-26 - Technology Investigations (Brian Bockelman)
+- 2022-02-02 - Researcher Facilitation (Lauren Michael)
+- 2022-02-09 - Town Hall (TBD)
 
 ### Past Meetings
 
@@ -88,6 +91,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of team 
 
 #### 2021
 
+- 2021-11-17 - Town Hall: Miron Livny on culture
 - 2021-11-10 - [Security](https://docs.google.com/presentation/d/1F9ON0wKbF7C7Ued9JrNlevv4oOQryz9Xev40pM4zAXU/) (Josh Drake)
 - 2021-11-03 - [Software](https://docs.google.com/presentation/d/1BYjf37QDALy7FM5KFY-Ay1MuUzt1raPO5q0AtwT2pyc/) (Brian Lin)
 - 2021-10-27 - Town hall (TBD) – **all staff**
