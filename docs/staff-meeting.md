@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2021-12-01 - Operations (Jeff Dost)
+- 2021-12-01 - Canceled
 - 2021-12-08 - HTCSS (Todd Tannenbaum)
 - 2021-12-15 - Town Hall (TBD)
 - 2021-12-22 - Special topics
@@ -83,6 +83,7 @@ of a special topic, which will be announced in advance.
 - 2022-01-26 - Technology Investigations (Brian Bockelman)
 - 2022-02-02 - Researcher Facilitation (Lauren Michael)
 - 2022-02-09 - Town Hall (TBD)
+- 2022-02-16 - Operations (Jeff Dost)
 
 ### Past Meetings
 
