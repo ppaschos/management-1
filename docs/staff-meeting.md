@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2021-12-01 - Canceled
 - 2021-12-08 - HTCSS (Todd Tannenbaum)
 - 2021-12-15 - Town Hall (TBD)
 - 2021-12-22 - Special topics
@@ -83,7 +82,7 @@ of a special topic, which will be announced in advance.
 - 2022-01-26 - Technology Investigations (Brian Bockelman)
 - 2022-02-02 - Researcher Facilitation (Lauren Michael)
 - 2022-02-09 - Town Hall (TBD)
-- 2022-02-16 - Operations (Jeff Dost)
+- 2022-02-16 - Operations (Jeff Dost) + **ALL STAFF:** Security Incident Training (Josh Drake)
 
 ### Past Meetings
 
@@ -91,6 +90,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of team 
 
 #### 2021
 
+- 2021-12-01 - Canceled
 - 2021-11-24 - Canceled due to Thanksgiving
 - 2021-11-17 - Town Hall: Miron Livny on culture
 - 2021-11-10 - [Security](https://docs.google.com/presentation/d/1F9ON0wKbF7C7Ued9JrNlevv4oOQryz9Xev40pM4zAXU/) (Josh Drake)
