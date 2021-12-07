@@ -73,7 +73,7 @@ of a special topic, which will be announced in advance.
 ### Upcoming Meetings
 
 - 2021-12-08 - HTCSS (Todd Tannenbaum)
-- 2021-12-15 - Town Hall (TBD)
+- 2021-12-15 - **All-Staff Town Hall** (Frank Würthwein, Discussion of classifying unused resources on OSG)
 - 2021-12-22 - Special topics
 - 2021-12-29 - Canceled due to holidays
 - 2022-01-05 - Network Monitoring (Shawn McKee)
@@ -82,7 +82,7 @@ of a special topic, which will be announced in advance.
 - 2022-01-26 - Technology Investigations (Brian Bockelman)
 - 2022-02-02 - Researcher Facilitation (Lauren Michael)
 - 2022-02-09 - Town Hall (TBD)
-- 2022-02-16 - Operations (Jeff Dost) + **ALL STAFF:** Security Incident Training (Josh Drake)
+- 2022-02-16 - Operations (Jeff Dost) + <span style="color: #FF6600; font-weight: bold;">All-Staff:</span> Security Incident Training (Josh Drake)
 
 ### Past Meetings
 
