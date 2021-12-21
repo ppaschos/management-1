@@ -72,9 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2021-12-08 - HTCSS (Todd Tannenbaum)
-- 2021-12-15 - **All-Staff Town Hall** (Frank Würthwein, Discussion of classifying unused resources on OSG)
-- 2021-12-22 - Special topics
+- 2021-12-22 - Canceled due to holidays
 - 2021-12-29 - Canceled due to holidays
 - 2022-01-05 - Network Monitoring (Shawn McKee)
 - 2022-01-12 - Town Hall (TBD)
@@ -90,6 +88,8 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of team 
 
 #### 2021
 
+- 2021-12-15 - **All-Staff Town Hall** (Frank Würthwein, Discussion of classifying unused resources on OSG)
+- 2021-12-08 - HTCSS (Todd Tannenbaum)
 - 2021-12-01 - Canceled
 - 2021-11-24 - Canceled due to Thanksgiving
 - 2021-11-17 - Town Hall: Miron Livny on culture
