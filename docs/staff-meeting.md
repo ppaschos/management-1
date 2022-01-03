@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2021-12-29 - Canceled due to holidays
 - 2022-01-05 - Network Monitoring (Shawn McKee)
 - 2022-01-12 - Town Hall (TBD)
 - 2022-01-19 - Collaboration Support (Pascal Paschos)
@@ -87,11 +86,12 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of team 
 
 #### 2021
 
-- 2021-12-22 - Canceled due to holidays
+- 2021-12-29 - Cancelled due to holidays
+- 2021-12-22 - Cancelled due to holidays
 - 2021-12-15 - **All-Staff Town Hall** (Frank Würthwein, Discussion of classifying unused resources on OSG)
 - 2021-12-08 - HTCSS (Todd Tannenbaum)
-- 2021-12-01 - Canceled
-- 2021-11-24 - Canceled due to Thanksgiving
+- 2021-12-01 - Cancelled
+- 2021-11-24 - Cancelled due to Thanksgiving
 - 2021-11-17 - Town Hall: Miron Livny on culture
 - 2021-11-10 - [Security](https://docs.google.com/presentation/d/1F9ON0wKbF7C7Ued9JrNlevv4oOQryz9Xev40pM4zAXU/) (Josh Drake)
 - 2021-11-03 - [Software](https://docs.google.com/presentation/d/1BYjf37QDALy7FM5KFY-Ay1MuUzt1raPO5q0AtwT2pyc/) (Brian Lin)
@@ -100,31 +100,31 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of team 
 - 2021-10-13 - Discussion: customer service
 - 2021-10-06 - [Infrastructure Lab](https://drive.google.com/file/d/1rsjT5giw-6kr1YNI1TcTBw6kpzQVNmp8) (Igor Sfiligoi)
 - 2021-09-29 - Town hall (Miron Livny) – **all staff**
-- 2021-09-22 - Canceled - HTCondor Week Europe 2021, etc.
+- 2021-09-22 - Cancelled - HTCondor Week Europe 2021, etc.
 - 2021-09-15 - Regular meeting: [Production Support](https://drive.google.com/file/d/1_3322DTA56kej_7JMPXAKKAT5oegoe40/) (Ken Herner)
 
 Prior to 15 Sep 2021, the meeting used an older format.
 
-- 2021-09-08 - Canceled
-- 2021-09-01 - Canceled
+- 2021-09-08 - Cancelled
+- 2021-09-01 - Cancelled
 - 2021-08-25 - Town hall meeting: PATh discussion
 - 2021-08-18 - [Research Facilitation](https://docs.google.com/presentation/d/13c_KjeLp0OhZY8-7oRoIUowudWtbU9zMRauMDCMis2A/) (Lauren Michael)
-- 2021-08-11 - Canceled (OSG Virtual School 2021)
-- 2021-08-04 - Canceled (OSG Virtual School 2021)
-- 2021-07-28 - Canceled (OSG Virtual School prep)
-- 2021-07-21 - Canceled (PEARC21 + OSG Virtual School prep)
-- 2021-07-14 - Canceled
-- 2021-07-07 - Canceled
+- 2021-08-11 - Cancelled (OSG Virtual School 2021)
+- 2021-08-04 - Cancelled (OSG Virtual School 2021)
+- 2021-07-28 - Cancelled (OSG Virtual School prep)
+- 2021-07-21 - Cancelled (PEARC21 + OSG Virtual School prep)
+- 2021-07-14 - Cancelled
+- 2021-07-07 - Cancelled
 - 2021-06-30 - [Network Monitoring](https://docs.google.com/presentation/d/1axVUpJLkeG6auEkoTfdEsllYMhEFKqfGW561EufEr_k/edit#slide=id.p1) (Shawn McKee)
 - 2021-06-23 - [Operations](https://docs.google.com/presentation/d/1cPhXM_izM6ZkrdX9y4TKjavcFoeh-aTVDVeugmJW6OE/) (Jeff Dost)
 - 2021-06-16 - [Collaboration Support](https://docs.google.com/presentation/d/1q1VxDxXeIbC0vjOxnomh9KUu7F8B3KwF-0InmrTHOks/) (Pascal Paschos)
-- 2021-06-09 - Canceled
+- 2021-06-09 - Cancelled
 - 2021-06-02 - Technology Investigations (Brian Bockelman)
-- 2021-05-26 - Canceled due to [HTCondor Week](https://agenda.hep.wisc.edu/event/1579/)
+- 2021-05-26 - Cancelled due to [HTCondor Week](https://agenda.hep.wisc.edu/event/1579/)
 - 2021-05-19 - [Release](https://docs.google.com/document/d/1i_uWrf3XzYYOogvFpWCCcf4zeYuvbRz9OIEDoPCmRoQ/) and [Security](https://drive.google.com/file/d/1rPUMHETvp837SvAXPqXDsBTBls-3k_bb/) (Tim Theisen and Mike Stanfield)
 - 2021-05-12 - [Global Infrastructure Lab](https://drive.google.com/file/d/1XXswaN3LQ_U-MNVaNvStsZ4MHXRl8doe/) (Igor Sfiligoi)
-- 2021-05-05 - Canceled
-- 2021-04-28 - Canceled due to IRIS-HEP meetings
+- 2021-05-05 - Cancelled
+- 2021-04-28 - Cancelled due to IRIS-HEP meetings
 - 2021-04-21 - [Software](https://docs.google.com/presentation/d/1dNjZbaQ4bER782Pa4aJHil-NPQKxfx9BW1bylGh0GbU) (Brian Lin)
 - 2021-04-14 - [Production Support](https://drive.google.com/file/d/1B5tCfNHgd3FhQ6mwhwW7GcQl42F17gJq/) (Ken Herner)
 
@@ -137,7 +137,7 @@ Prior to 15 Sep 2021, the meeting used an older format.
 
 Meetings earlier than 2021-03-10 were the called “OSG Area Coordinators meeting”, although staff were invited.
 
-- 2021-03-03 - Canceled due to [OSG All-Hands Meeting 2021](https://opensciencegrid.org/all-hands/2021/)
+- 2021-03-03 - Cancelled due to [OSG All-Hands Meeting 2021](https://opensciencegrid.org/all-hands/2021/)
 - 2021-02-24 - [Operations](https://docs.google.com/presentation/d/1TG5AOK548F3Z_Uh1ue5DnJJeQ_I3mjYgoktwmtGAyY8/) (Jeff Dost)
 - 2021-02-17 - Technology Investigations (Brian Bockelman)
 - 2021-02-10 - [Collaboration Support](https://docs.google.com/presentation/d/1txOVEiFsCXC9lZXlVsknCfiep9vzMsDIVfknxyyoq_o/) (Pascal Paschos)
