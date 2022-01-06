@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2022-01-05 - Network Monitoring (Shawn McKee)
 - 2022-01-12 - Town Hall (TBD)
 - 2022-01-19 - Collaboration Support (Pascal Paschos)
 - 2022-01-26 - Technology Investigations (Brian Bockelman)
@@ -86,6 +85,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of team 
 
 #### 2021
 
+- 2022-01-05 - [Network Monitoring](https://drive.google.com/file/d/1eJHu2FflMWZqCgKCbVVRXgK0RF8aiUEU/) (Shawn McKee)
 - 2021-12-29 - Cancelled due to holidays
 - 2021-12-22 - Cancelled due to holidays
 - 2021-12-15 - **All-Staff Town Hall** (Frank Würthwein, Discussion of classifying unused resources on OSG)
