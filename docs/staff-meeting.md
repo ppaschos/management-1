@@ -130,23 +130,6 @@ Prior to 15 Sep 2021, the meeting used an older format.
 
 <div style="height: 0.5ex"></div>
 
-- 2021-03-31 - Special topic: OSG Slack workspace
-- 2021-03-24 - Special topic: AHM debrief
-- 2021-03-17 - [Network Monitoring](https://docs.google.com/presentation/d/13YUTx3w2U2c4kouNbGLvZRChMjlXJHahfTAqV4Sg9jg/) (Shawn McKee)
-- 2021-03-10 - [Researcher Facilitation](https://docs.google.com/presentation/d/1E1pGoYIYbb1BnXx501i3fvAHW0q9PC163uDXFh5SNZo/) (Lauren Michael)
-
-Meetings earlier than 2021-03-10 were the called “OSG Area Coordinators meeting”, although staff were invited.
-
-- 2021-03-03 - Cancelled due to [OSG All-Hands Meeting 2021](https://opensciencegrid.org/all-hands/2021/)
-- 2021-02-24 - [Operations](https://docs.google.com/presentation/d/1TG5AOK548F3Z_Uh1ue5DnJJeQ_I3mjYgoktwmtGAyY8/) (Jeff Dost)
-- 2021-02-17 - Technology Investigations (Brian Bockelman)
-- 2021-02-10 - [Collaboration Support](https://docs.google.com/presentation/d/1txOVEiFsCXC9lZXlVsknCfiep9vzMsDIVfknxyyoq_o/) (Pascal Paschos)
-- 2021-02-03 - [Release](https://docs.google.com/document/d/1dh6cAqPL5s_ppcGAZ7KuyobK26yUBLy2y9lGQ4EH_nU/) and [Security](https://drive.google.com/file/d/1tcSMbat-jJVTMOkUCVkGMVKFUngw9kXm/) (Tim Theisen and Mike Stanfield)
-- 2021-01-27 - [Global Infrastructure Lab](https://drive.google.com/file/d/1hHrDY6LdB-oU8aimIeyJwPaF6uDmUEVl/) (Frank Würthwein)
-- 2021-01-20 - [Production Support](https://drive.google.com/file/d/1-QCXvcUc-cshTdM92a_rzaUg_NYEtGuk/) (Ken Herner)
-- 2021-01-13 - [Software](https://docs.google.com/presentation/d/15Sbe7LgwCxPVG9gzKFJAyT8OQqrOInhPwiaiEzIzHUU/) (Brian Lin)
-- 2021-01-06 - Special topic: [SLATE federated operations security policy](https://docs.google.com/presentation/d/1FG_UJLpmhKfTcrIBZSdfwWWI2mKbl6VGgZNRg7Yu3-0/)
-
 #### Earlier Meetings
 
 Information about earlier meetings are on [a separate archive page](ac-meeting-archive.md).  Meeting
