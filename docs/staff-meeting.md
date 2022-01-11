@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2022-01-12 - Town Hall (TBD)
+- 2022-01-12 - **All-Staff Town Hall** (Frank Würthwein, requirements for joining OSCF/OSDF)
 - 2022-01-19 - Collaboration Support (Pascal Paschos)
 - 2022-01-26 - Technology Investigations (Brian Bockelman)
 - 2022-02-02 - Researcher Facilitation (Lauren Michael)
