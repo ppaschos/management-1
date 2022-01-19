@@ -84,6 +84,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of team 
 
 #### 2021
 
+- 2022-01-19 - [Collaboration Support](https://docs.google.com/presentation/d/1ls4mxx5YgHAPAqGPt2sXNjVYPRz-mRgRXxhA06vVND0) (Pascal Paschos)
 - 2022-01-12 - **All-Staff Town Hall** (Frank Würthwein, requirements for joining OSCF/OSDF)
 - 2022-01-05 - [Network Monitoring](https://drive.google.com/file/d/1eJHu2FflMWZqCgKCbVVRXgK0RF8aiUEU/) (Shawn McKee)
 - 2021-12-29 - Cancelled due to holidays
