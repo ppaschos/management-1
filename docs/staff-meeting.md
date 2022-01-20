@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2022-01-19 - Collaboration Support (Pascal Paschos)
 - 2022-01-26 - Technology Investigations (Brian Bockelman)
 - 2022-02-02 - Researcher Facilitation (Lauren Michael)
 - 2022-02-09 - Town Hall (TBD)
