@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2022-01-26 - Technology Investigations (Brian Bockelman)
 - 2022-02-02 - Researcher Facilitation (Lauren Michael)
 - 2022-02-09 - Town Hall (TBD)
 - 2022-02-16 - Operations (Jeff Dost) + <span style="color: #FF6600; font-weight: bold;">All-Staff:</span> Security Incident Training (Josh Drake)
@@ -83,6 +82,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of team 
 
 #### 2021
 
+- 2022-01-26 - Technology Investigations (Brian Bockelman)
 - 2022-01-19 - [Collaboration Support](https://docs.google.com/presentation/d/1ls4mxx5YgHAPAqGPt2sXNjVYPRz-mRgRXxhA06vVND0) (Pascal Paschos)
 - 2022-01-12 - **All-Staff Town Hall** (Frank Würthwein, requirements for joining OSCF/OSDF)
 - 2022-01-05 - [Network Monitoring](https://drive.google.com/file/d/1eJHu2FflMWZqCgKCbVVRXgK0RF8aiUEU/) (Shawn McKee)
