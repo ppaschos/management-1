@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2022-02-02 - Researcher Facilitation (Lauren Michael)
+- 2022-02-02 - [Research Facilitation](https://docs.google.com/presentation/d/1ViQNXGiZQ0gjN6YDlk1f3CR1NieF6qBgpgeQr2cDK3k/) (Lauren Michael)
 - 2022-02-09 - Town Hall (TBD)
 - 2022-02-16 - Operations (Jeff Dost) + <span style="color: #FF6600; font-weight: bold;">All-Staff:</span> Security Incident Training (Josh Drake)
 
