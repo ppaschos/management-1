@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2022-02-09 - **All-Staff Town Hall** (Frank Würthwein: OSG-AHM and COVID; Miron Livny: on-boarding)
 - 2022-02-16 - Operations (Jeff Dost) + <span style="color: #FF6600; font-weight: bold;">All-Staff:</span> Security Incident Training (Josh Drake)
 
 ### Past Meetings
@@ -81,6 +80,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of team 
 
 #### 2021
 
+- 2022-02-09 - **All-Staff Town Hall** (Frank Würthwein: OSG-AHM and COVID; Miron Livny: on-boarding)
 - 2022-02-02 - [Research Facilitation](https://docs.google.com/presentation/d/1ViQNXGiZQ0gjN6YDlk1f3CR1NieF6qBgpgeQr2cDK3k/) (Lauren Michael)
 - 2022-01-26 - Technology Investigations (Brian Bockelman)
 - 2022-01-19 - [Collaboration Support](https://docs.google.com/presentation/d/1ls4mxx5YgHAPAqGPt2sXNjVYPRz-mRgRXxhA06vVND0) (Pascal Paschos)
