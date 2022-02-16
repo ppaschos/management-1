@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2022-02-16 - Operations (Jeff Dost) + <span style="color: #FF6600; font-weight: bold;">All-Staff:</span> Security Incident Training (Josh Drake)
+- 2022-02-16 - [Operations](https://docs.google.com/presentation/d/1W9lPX7DVzmIrJ3Gc381FCwaWfX9VBrhV4Ld2dtXa6sc/) (Jeff Dost) + <span style="color: #FF6600; font-weight: bold;">All-Staff:</span> Security Incident Training (Josh Drake)
 
 ### Past Meetings
 
