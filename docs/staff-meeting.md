@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2022-02-23 - Infrastructure Lab (Igor Sfiligoi and Fabio Andrijauskas)
+- 2022-02-23 - Infrastructure Lab ([Igor Sfiligoi](https://docs.google.com/presentation/d/1c4AVSscGoPSHEJvTNMVYhRyT4QamM1Lr/edit?usp=sharing&ouid=101588432141720331361&rtpof=true&sd=true) and [Fabio Andrijauskas](https://docs.google.com/presentation/d/1lw0AnaJb-zjWT2r307DZNmBcL786Vk0l/edit?usp=sharing&ouid=101588432141720331361&rtpof=true&sd=true))
 - 2022-03-02 - Production Support (Ken Herner)
 - 2022-03-09 - **All-Staff Town Hall**
 - 2022-03-16 - <span style="color:#FF6600;">Cancelled</span> due to [OSG All-Hands Meeting 2022](https://opensciencegrid.org/all-hands/2022/)
