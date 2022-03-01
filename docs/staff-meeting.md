@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2022-02-23 - Infrastructure Lab ([Igor Sfiligoi](https://docs.google.com/presentation/d/1c4AVSscGoPSHEJvTNMVYhRyT4QamM1Lr/) and [Fabio Andrijauskas](https://docs.google.com/presentation/d/1lw0AnaJb-zjWT2r307DZNmBcL786Vk0l/))
 - 2022-03-02 - Software (Brian Lin)
 - 2022-03-09 - **All-Staff Town Hall**
 - 2022-03-16 - <span style="color:#FF6600;">Cancelled</span> due to [OSG All-Hands Meeting 2022](https://opensciencegrid.org/all-hands/2022/)
@@ -96,6 +95,7 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of team 
 
 #### 2021
 
+- 2022-02-23 - Infrastructure Lab ([Igor Sfiligoi](https://docs.google.com/presentation/d/1c4AVSscGoPSHEJvTNMVYhRyT4QamM1Lr/) and [Fabio Andrijauskas](https://docs.google.com/presentation/d/1lw0AnaJb-zjWT2r307DZNmBcL786Vk0l/))
 - 2022-02-16 - [Operations](https://docs.google.com/presentation/d/1W9lPX7DVzmIrJ3Gc381FCwaWfX9VBrhV4Ld2dtXa6sc/) (Jeff Dost) + <span style="color: #FF6600; font-weight: bold;">All-Staff:</span> Security Incident Training (Josh Drake)
 - 2022-02-09 - **All-Staff Town Hall** (Frank Würthwein: OSG-AHM and COVID; Miron Livny: on-boarding)
 - 2022-02-02 - [Research Facilitation](https://docs.google.com/presentation/d/1ViQNXGiZQ0gjN6YDlk1f3CR1NieF6qBgpgeQr2cDK3k/) (Lauren Michael)
@@ -121,31 +121,6 @@ Past meetings are listed newest to oldest.  Blank lines separate cycles of team 
 - 2021-09-15 - Regular meeting: [Production Support](https://drive.google.com/file/d/1_3322DTA56kej_7JMPXAKKAT5oegoe40/) (Ken Herner)
 
 Prior to 15 Sep 2021, the meeting used an older format.
-
-- 2021-09-08 - Cancelled
-- 2021-09-01 - Cancelled
-- 2021-08-25 - Town hall meeting: PATh discussion
-- 2021-08-18 - [Research Facilitation](https://docs.google.com/presentation/d/13c_KjeLp0OhZY8-7oRoIUowudWtbU9zMRauMDCMis2A/) (Lauren Michael)
-- 2021-08-11 - Cancelled (OSG Virtual School 2021)
-- 2021-08-04 - Cancelled (OSG Virtual School 2021)
-- 2021-07-28 - Cancelled (OSG Virtual School prep)
-- 2021-07-21 - Cancelled (PEARC21 + OSG Virtual School prep)
-- 2021-07-14 - Cancelled
-- 2021-07-07 - Cancelled
-- 2021-06-30 - [Network Monitoring](https://docs.google.com/presentation/d/1axVUpJLkeG6auEkoTfdEsllYMhEFKqfGW561EufEr_k/edit#slide=id.p1) (Shawn McKee)
-- 2021-06-23 - [Operations](https://docs.google.com/presentation/d/1cPhXM_izM6ZkrdX9y4TKjavcFoeh-aTVDVeugmJW6OE/) (Jeff Dost)
-- 2021-06-16 - [Collaboration Support](https://docs.google.com/presentation/d/1q1VxDxXeIbC0vjOxnomh9KUu7F8B3KwF-0InmrTHOks/) (Pascal Paschos)
-- 2021-06-09 - Cancelled
-- 2021-06-02 - Technology Investigations (Brian Bockelman)
-- 2021-05-26 - Cancelled due to [HTCondor Week](https://agenda.hep.wisc.edu/event/1579/)
-- 2021-05-19 - [Release](https://docs.google.com/document/d/1i_uWrf3XzYYOogvFpWCCcf4zeYuvbRz9OIEDoPCmRoQ/) and [Security](https://drive.google.com/file/d/1rPUMHETvp837SvAXPqXDsBTBls-3k_bb/) (Tim Theisen and Mike Stanfield)
-- 2021-05-12 - [Global Infrastructure Lab](https://drive.google.com/file/d/1XXswaN3LQ_U-MNVaNvStsZ4MHXRl8doe/) (Igor Sfiligoi)
-- 2021-05-05 - Cancelled
-- 2021-04-28 - Cancelled due to IRIS-HEP meetings
-- 2021-04-21 - [Software](https://docs.google.com/presentation/d/1dNjZbaQ4bER782Pa4aJHil-NPQKxfx9BW1bylGh0GbU) (Brian Lin)
-- 2021-04-14 - [Production Support](https://drive.google.com/file/d/1B5tCfNHgd3FhQ6mwhwW7GcQl42F17gJq/) (Ken Herner)
-
-<div style="height: 0.5ex"></div>
 
 #### Earlier Meetings
 
