@@ -12,6 +12,7 @@ nav:
   - Area Coordinators: 'area-coordinators.md'
   - AC Meeting Archive: 'ac-meeting-archive.md'
   - Policies: 'policies.md'
+  - Code of Conduct:    conduct.md
 
 markdown_extensions:
   - admonition
