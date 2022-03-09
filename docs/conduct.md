@@ -22,8 +22,8 @@ Participants in OSG activities are encouraged to resolve any perceived breach of
 in a professional and informal manner before escalation.
 If an individual does not feel comfortable confronting the violation
 and/or believes someone has violated the code of conduct and it has not been addressed,
-they should report it by emailing [events@opensciencegrid.org](mailto:events@opensciencegrid.org)[^1]
-or discussing it with one of the standing OSG CoC appointees
+they should report it by emailing [conduct@opensciencegrid.org](mailto:conduct@opensciencegrid.org)
+or discussing it with one of the standing OSG CoC appointees[^1]
 who will follow-up on the reported violation in a confidential manner.
 The appointees will determine ways of redressing the matter and counsel the parties involved.
 Sanctions may be issued and range from verbal warning,
