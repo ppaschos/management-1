@@ -72,8 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2022-03-09 - **All-Staff Town Hall**
-- 2022-03-16 - <span style="color:#FF6600;">Cancelled</span> due to [OSG All-Hands Meeting 2022](https://opensciencegrid.org/all-hands/2022/)
 - 2022-03-23 - Release (Tim Theisen)
 - 2022-03-30 - Security (Josh Drake)
 - 2022-04-06 - **All-Staff Town Hall**
@@ -93,34 +91,39 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
-#### 2021
+#### 2022
 
+- 2022-03-16 - Cancelled due to [OSG All-Hands Meeting 2022](https://opensciencegrid.org/all-hands/2022/)
+- 2022-03-09 - All-Staff Town Hall
 - 2022-03-02 - [Software](https://docs.google.com/presentation/d/1Zxr66x3p4q3gC4jFAUM5AzH6P4Z5-tqmjzpIooAuTBk) (Brian Lin)
 - 2022-02-23 - Infrastructure Lab ([Igor Sfiligoi](https://docs.google.com/presentation/d/1c4AVSscGoPSHEJvTNMVYhRyT4QamM1Lr/) and [Fabio Andrijauskas](https://docs.google.com/presentation/d/1lw0AnaJb-zjWT2r307DZNmBcL786Vk0l/))
 
 <div style="height: 0.5ex"></div>
 
 - 2022-02-16 - [Operations](https://docs.google.com/presentation/d/1W9lPX7DVzmIrJ3Gc381FCwaWfX9VBrhV4Ld2dtXa6sc/) (Jeff Dost) + <span style="color: #FF6600; font-weight: bold;">All-Staff:</span> Security Incident Training (Josh Drake)
-- 2022-02-09 - **All-Staff Town Hall** (Frank Würthwein: OSG-AHM and COVID; Miron Livny: on-boarding)
+- 2022-02-09 - All-Staff Town Hall (Frank Würthwein: OSG-AHM and COVID; Miron Livny: on-boarding)
 - 2022-02-02 - [Research Facilitation](https://docs.google.com/presentation/d/1ViQNXGiZQ0gjN6YDlk1f3CR1NieF6qBgpgeQr2cDK3k/) (Lauren Michael)
 - 2022-01-26 - Technology Investigations (Brian Bockelman)
 - 2022-01-19 - [Collaboration Support](https://docs.google.com/presentation/d/1ls4mxx5YgHAPAqGPt2sXNjVYPRz-mRgRXxhA06vVND0) (Pascal Paschos)
-- 2022-01-12 - **All-Staff Town Hall** (Frank Würthwein, requirements for joining OSCF/OSDF)
+- 2022-01-12 - All-Staff Town Hall (Frank Würthwein, requirements for joining OSCF/OSDF)
 - 2022-01-05 - [Network Monitoring](https://drive.google.com/file/d/1eJHu2FflMWZqCgKCbVVRXgK0RF8aiUEU/) (Shawn McKee)
+
+#### 2021
+
 - 2021-12-29 - Cancelled due to holidays
 - 2021-12-22 - Cancelled due to holidays
-- 2021-12-15 - **All-Staff Town Hall** (Frank Würthwein, Discussion of classifying unused resources on OSG)
+- 2021-12-15 - All-Staff Town Hall (Frank Würthwein, Discussion of classifying unused resources on OSG)
 - 2021-12-08 - HTCSS (Todd Tannenbaum)
 - 2021-12-01 - Cancelled
 - 2021-11-24 - Cancelled due to Thanksgiving
 - 2021-11-17 - Town Hall: Miron Livny on culture
 - 2021-11-10 - [Security](https://docs.google.com/presentation/d/1F9ON0wKbF7C7Ued9JrNlevv4oOQryz9Xev40pM4zAXU/) (Josh Drake)
 - 2021-11-03 - [Software](https://docs.google.com/presentation/d/1BYjf37QDALy7FM5KFY-Ay1MuUzt1raPO5q0AtwT2pyc/) (Brian Lin)
-- 2021-10-27 - Town hall (TBD) – **all staff**
+- 2021-10-27 - All-Staff Town Hall
 - 2021-10-20 - [Release](https://docs.google.com/presentation/d/1sqq28b4yvx5-I-RP4guC6ZDGiZLZKBbXHHBqs2KWqSQ/) (Tim Theisen) &ndash; discussion: runtime environment(s)
 - 2021-10-13 - Discussion: customer service
 - 2021-10-06 - [Infrastructure Lab](https://drive.google.com/file/d/1rsjT5giw-6kr1YNI1TcTBw6kpzQVNmp8) (Igor Sfiligoi)
-- 2021-09-29 - Town hall (Miron Livny) – **all staff**
+- 2021-09-29 - All-Staff Town Hall (Miron Livny)
 - 2021-09-22 - Cancelled - HTCondor Week Europe 2021, etc.
 - 2021-09-15 - Regular meeting: [Production Support](https://drive.google.com/file/d/1_3322DTA56kej_7JMPXAKKAT5oegoe40/) (Ken Herner)
 
