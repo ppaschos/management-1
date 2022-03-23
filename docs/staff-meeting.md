@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2022-03-23 - Release (Tim Theisen)
+- 2022-03-23 - [Release](https://docs.google.com/presentation/d/1aDX5NayEpOkVwM5SprhWIhoiP5XG7AeZ6wiXdtzx1Js/) (Tim Theisen)
 - 2022-03-30 - Security (Josh Drake)
 - 2022-04-06 - **All-Staff Town Hall**
 - 2022-04-13 - HTCSS (Todd Tannenbaum)
