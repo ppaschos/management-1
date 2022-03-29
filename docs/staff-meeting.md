@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2022-03-23 - [Release](https://docs.google.com/presentation/d/1aDX5NayEpOkVwM5SprhWIhoiP5XG7AeZ6wiXdtzx1Js/) (Tim Theisen)
 - 2022-03-30 - Security (Josh Drake)
 - 2022-04-06 - **All-Staff Town Hall**
 - 2022-04-13 - HTCSS (Todd Tannenbaum)
@@ -93,6 +92,7 @@ Blank lines separate cycles of team presentations.
 
 #### 2022
 
+- 2022-03-23 - [Release](https://docs.google.com/presentation/d/1aDX5NayEpOkVwM5SprhWIhoiP5XG7AeZ6wiXdtzx1Js/) (Tim Theisen)
 - 2022-03-16 - Cancelled due to [OSG All-Hands Meeting 2022](https://opensciencegrid.org/all-hands/2022/)
 - 2022-03-09 - All-Staff Town Hall
 - 2022-03-02 - [Software](https://docs.google.com/presentation/d/1Zxr66x3p4q3gC4jFAUM5AzH6P4Z5-tqmjzpIooAuTBk) (Brian Lin)
