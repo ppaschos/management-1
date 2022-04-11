@@ -100,7 +100,7 @@ Blank lines separate cycles of team presentations.
 
 <div style="height: 0.5ex"></div>
 
-- 2022-02-16 - [Operations](https://docs.google.com/presentation/d/1W9lPX7DVzmIrJ3Gc381FCwaWfX9VBrhV4Ld2dtXa6sc/) (Jeff Dost) + <span style="color: #FF6600; font-weight: bold;">All-Staff:</span> Security Incident Training [Slides](https://drive.google.com/file/d/1ZhdF4qqZ99Fnq5jmIUJtvGIkwmer4jbC/view?usp=sharing) and [Video](https://drive.google.com/file/d/1hnOMEhAYDyrK31rijCVr-4Q5Q_PQkR0E/view?usp=sharing) (Brian Chase)
+- 2022-02-16 - [Operations](https://docs.google.com/presentation/d/1W9lPX7DVzmIrJ3Gc381FCwaWfX9VBrhV4Ld2dtXa6sc/) (Jeff Dost) + <span style="color: #FF6600; font-weight: bold;">All-Staff:</span> Security Incident Training ([slides](https://drive.google.com/file/d/1ZhdF4qqZ99Fnq5jmIUJtvGIkwmer4jbC/) and [video](https://drive.google.com/file/d/1hnOMEhAYDyrK31rijCVr-4Q5Q_PQkR0E/); Brian Chase)
 - 2022-02-09 - All-Staff Town Hall (Frank Würthwein: OSG-AHM and COVID; Miron Livny: on-boarding)
 - 2022-02-02 - [Research Facilitation](https://docs.google.com/presentation/d/1ViQNXGiZQ0gjN6YDlk1f3CR1NieF6qBgpgeQr2cDK3k/) (Lauren Michael)
 - 2022-01-26 - Technology Investigations (Brian Bockelman)
