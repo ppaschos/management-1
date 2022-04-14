@@ -2,7 +2,7 @@
 
 This repository contains the internal documents for the OSG Management Area.
 
-- [Github hosted](http://opensciencegrid.github.io/management)
+- [Github hosted](http://osg-htc.org/management)
 
 ## Other OSG documentation on Github
 
