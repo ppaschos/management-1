@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2022-04-13 - HTCSS (Todd Tannenbaum)
 - 2022-04-20 - Production Support (Ken Herner)
 - 2022-04-27 - Collaboration Support (Pascal Paschos)
 - 2022-05-04 - **All-Staff Town Hall**
@@ -90,6 +89,7 @@ Blank lines separate cycles of team presentations.
 
 #### 2022
 
+- 2022-04-13 - HTCSS (Todd Tannenbaum)
 - 2022-04-06 - All-Staff Town Hall (Frank Würthwein, AHM feedback and security exercise results)
 - 2022-03-30 - [Security](https://drive.google.com/file/d/1NiyQYD3PPm5QN5430U3i3HawJspVLtyd/) (Josh Drake)
 - 2022-03-23 - [Release](https://docs.google.com/presentation/d/1aDX5NayEpOkVwM5SprhWIhoiP5XG7AeZ6wiXdtzx1Js/) (Tim Theisen)
