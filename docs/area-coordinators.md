@@ -11,7 +11,7 @@ The current Area Coordinators are:
 | :------- | :--------------- |
 | [Collaboration Support](https://opensciencegrid.org/collaboration-support/) | Pascal Paschos, University of Chicago |
 | [Global Infrastructure Lab](https://path-cc.io/services/gil/) | Igor Sfiligoi, University of California San Diego |
-| [HTCondor Software Suite](https://research.cs.wisc.edu/htcondor/) | Todd Tannenbaum, University of Wisconsin&ndash;Madison |
+| [HTCondor Software Suite](https://htcondor.org) | Todd Tannenbaum, University of Wisconsin&ndash;Madison |
 | [Network Monitoring](https://opensciencegrid.org/networking/) | Shawn McKee, University of Michigan |
 | [Operations](https://opensciencegrid.org/operations/) | Jeff Dost, University of California San Diego |
 | Production Support | Ken Herner, Fermi National Accelerator Lab |
