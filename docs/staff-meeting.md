@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2022-04-27 - Collaboration Support (Pascal Paschos)
 - 2022-05-04 - **All-Staff Town Hall**
 - 2022-05-11 - Network Monitoring (Shawn McKee)
 - 2022-05-18 - Research Facilitation (Lauren Michael)
@@ -88,6 +87,7 @@ Blank lines separate cycles of team presentations.
 
 #### 2022
 
+- 2022-04-27 - Discussions: HTCondor architecture and OSG GlideinWMS pilots
 - 2022-04-20 - [Production Support](https://drive.google.com/file/d/1l7KAbJnAJQi9mxyM_ThDtoCiTrS9TFyl/) (Ken Herner)
 - 2022-04-13 - HTCSS (Todd Tannenbaum)
 - 2022-04-06 - All-Staff Town Hall (Frank Würthwein, AHM feedback and security exercise results)
