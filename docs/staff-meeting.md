@@ -78,6 +78,8 @@ of a special topic, which will be announced in advance.
 - 2022-06-01 - **All-Staff Town Hall**
 - 2022-06-08 - Technology Investigations (Brian Bockelman)
 - 2022-06-15 - Operations (Jeff Dost)
+- 2022-06-22 - Collaboration Support (Pascal Paschos)
+- 2022-06-29 - **All-Staff Town Hall**
 
 ### Past Meetings
 
