@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2022-05-11 - Network Monitoring (Shawn McKee)
 - 2022-05-18 - Research Facilitation (Lauren Michael)
 - 2022-05-25 - <span style="color:#FF6600;">Cancelled</span> due to HTCondor Week 2022
 - 2022-06-01 - **All-Staff Town Hall**
@@ -88,6 +87,7 @@ Blank lines separate cycles of team presentations.
 
 #### 2022
 
+- 2022-05-11 - [Network Monitoring](https://docs.google.com/presentation/d/1SrC9_DKz1u6z3_PmMc1QctVT630e8cbhngwfG-pZA6Y/) (Shawn McKee)
 - 2022-05-04 - All-Staff Town Hall (PATh Facility)
 - 2022-04-27 - Discussions: HTCondor architecture and OSG GlideinWMS pilots
 - 2022-04-20 - [Production Support](https://drive.google.com/file/d/1l7KAbJnAJQi9mxyM_ThDtoCiTrS9TFyl/) (Ken Herner)
