@@ -38,7 +38,7 @@ earlier meeting notes, please contact [Tim Cartwright](mailto:cat@cs.wisc.edu) a
 
 Meetings earlier than 2021-03-10 were the called “OSG Area Coordinators meeting”, although staff were invited.
 
-- 2021-03-03 - Cancelled due to [OSG All-Hands Meeting 2021](https://opensciencegrid.org/all-hands/2021/)
+- 2021-03-03 - Cancelled due to [OSG All-Hands Meeting 2021](https://osg-htc.org/all-hands/2021/)
 - 2021-02-24 - [Operations](https://docs.google.com/presentation/d/1TG5AOK548F3Z_Uh1ue5DnJJeQ_I3mjYgoktwmtGAyY8/) (Jeff Dost)
 - 2021-02-17 - Technology Investigations (Brian Bockelman)
 - 2021-02-10 - [Collaboration Support](https://docs.google.com/presentation/d/1txOVEiFsCXC9lZXlVsknCfiep9vzMsDIVfknxyyoq_o/) (Pascal Paschos)
