@@ -9,16 +9,16 @@ The current Area Coordinators are:
 
 | OSG Area | Area Coordinator |
 | :------- | :--------------- |
-| [Collaboration Support](https://opensciencegrid.org/collaboration-support/) | Pascal Paschos, University of Chicago |
+| [Collaboration Support](https://osg-htc.org/collaboration-support/) | Pascal Paschos, University of Chicago |
 | [Global Infrastructure Lab](https://path-cc.io/services/gil/) | Igor Sfiligoi, University of California San Diego |
 | [HTCondor Software Suite](https://htcondor.org) | Todd Tannenbaum, University of Wisconsin&ndash;Madison |
-| [Network Monitoring](https://opensciencegrid.org/networking/) | Shawn McKee, University of Michigan |
-| [Operations](https://opensciencegrid.org/operations/) | Jeff Dost, University of California San Diego |
+| [Network Monitoring](https://osg-htc.org/networking/) | Shawn McKee, University of Michigan |
+| [Operations](https://osg-htc.org/operations/) | Jeff Dost, University of California San Diego |
 | Production Support | Ken Herner, Fermi National Accelerator Lab |
-| [Research Facilitation](https://opensciencegrid.org/research-facilitation) | Lauren Michael, University of Wisconsin&ndash;Madison |
-| [Security](https://opensciencegrid.org/security/) | Josh Drake, Indiana University |
-| [Software and Release](https://opensciencegrid.org/technology/) | Brian Lin and Tim Theisen, University of Wisconsin&ndash;Madison |
-| [Technology Investigations](https://opensciencegrid.org/technology/) | Brian Bockelman, Morgridge Institute for Research |
+| [Research Facilitation](https://osg-htc.org/research-facilitation) | Lauren Michael, University of Wisconsin&ndash;Madison |
+| [Security](https://osg-htc.org/security/) | Josh Drake, Indiana University |
+| [Software and Release](https://osg-htc.org/technology/) | Brian Lin and Tim Theisen, University of Wisconsin&ndash;Madison |
+| [Technology Investigations](https://osg-htc.org/technology/) | Brian Bockelman, Morgridge Institute for Research |
 
 
 ## Meetings
