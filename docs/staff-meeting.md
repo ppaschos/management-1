@@ -84,7 +84,7 @@ Blank lines separate cycles of team presentations.
 
 #### 2022
 
-- 2022-06-08 - Technology Investigations (Brian Bockelman)
+- 2022-06-08 - [Technology Investigations](https://drive.google.com/file/d/1HoB2h7I-jT-YRsaxxBIcShyGMafHtknx/) (Brian Bockelman)
 - 2022-06-01 - All-Staff Town Hall (CC* and OSDF)
 - 2022-05-25 - <span style="color:#FF6600;">Cancelled</span> due to HTCondor Week 2022
 - 2022-05-18 - Cancelled
