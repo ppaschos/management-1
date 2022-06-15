@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2022-06-15 - Operations (Jeff Dost)
+- 2022-06-15 - [Operations](https://docs.google.com/presentation/d/19Bt47Dl2ryDCpNVoPcDtQQCUoNRgeUuLcQ6b09wnXXQ/) (Jeff Dost)
 - 2022-06-22 - Collaboration Support (Pascal Paschos)
 - 2022-06-29 - **All-Staff Town Hall**
 - 2022-07-06 - Research Facilitation (Lauren Michael)
