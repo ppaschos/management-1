@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2022-06-15 - [Operations](https://docs.google.com/presentation/d/19Bt47Dl2ryDCpNVoPcDtQQCUoNRgeUuLcQ6b09wnXXQ/) (Jeff Dost)
 - 2022-06-22 - Collaboration Support (Pascal Paschos)
 - 2022-06-29 - **All-Staff Town Hall**
 - 2022-07-06 - Cancelled
@@ -85,6 +84,7 @@ Blank lines separate cycles of team presentations.
 
 #### 2022
 
+- 2022-06-15 - [Operations](https://docs.google.com/presentation/d/19Bt47Dl2ryDCpNVoPcDtQQCUoNRgeUuLcQ6b09wnXXQ/) (Jeff Dost)
 - 2022-06-08 - [Technology Investigations](https://drive.google.com/file/d/1HoB2h7I-jT-YRsaxxBIcShyGMafHtknx/) (Brian Bockelman)
 - 2022-06-01 - All-Staff Town Hall (CC* and OSDF)
 - 2022-05-25 - <span style="color:#FF6600;">Cancelled</span> due to HTCondor Week 2022
