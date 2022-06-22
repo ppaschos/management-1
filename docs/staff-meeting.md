@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-- 2022-06-22 - [Collaboration Support](https://docs.google.com/presentation/d/1Q1Oqap5SimUWlfalQyPlfQzDQMBQVTm1jrGxFrpYars/edit?usp=sharing) (Pascal Paschos)
+- 2022-06-22 - [Collaboration Support](https://docs.google.com/presentation/d/1Q1Oqap5SimUWlfalQyPlfQzDQMBQVTm1jrGxFrpYars/) (Pascal Paschos)
 - 2022-06-29 - **All-Staff Town Hall**
 - 2022-07-06 - Cancelled
 - 2022-07-13 - Research Facilitation (Christina Koch)
