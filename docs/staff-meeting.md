@@ -74,7 +74,7 @@ of a special topic, which will be announced in advance.
 
 - 2022-06-29 - The scheduled All-Staff Town Hall is cancelled this time
 - 2022-07-06 - Cancelled
-- 2022-07-13 - Research Facilitation (Christina Koch)
+- 2022-07-13 - [Research Facilitation](https://docs.google.com/presentation/d/1LxLAf8k438mSdgdd7OrMQMattKEaGnTT3J50lLvOLlI/edit#slide=id.p) (Christina Koch)
 
 ### Past Meetings
 
