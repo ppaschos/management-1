@@ -71,10 +71,11 @@ of a special topic, which will be announced in advance.
 ## Schedule
 
 ### Upcoming Meetings
+- 2022-07-20 - Cancelled
+- 2022-07-27 - Cancelled due to [OSG User School 2022](https://osg-htc.org/user-school-2022/)
+- 2022-08-03 - **All-Staff Town Hall**
 
-- 2022-06-29 - The scheduled All-Staff Town Hall is cancelled this time
-- 2022-07-06 - Cancelled
-- 2022-07-13 - [Research Facilitation](https://docs.google.com/presentation/d/1LxLAf8k438mSdgdd7OrMQMattKEaGnTT3J50lLvOLlI/) (Christina Koch)
+A new cycle of presentations begins on August 10.
 
 ### Past Meetings
 
@@ -83,6 +84,9 @@ Blank lines separate cycles of team presentations.
 
 #### 2022
 
+- 2022-07-13 - [Research Facilitation](https://docs.google.com/presentation/d/1LxLAf8k438mSdgdd7OrMQMattKEaGnTT3J50lLvOLlI/) (Christina Koch)
+- 2022-07-06 - Cancelled
+- 2022-06-29 - Cancelled (All-Staff Town Hall)
 - 2022-06-22 - [Collaboration Support](https://docs.google.com/presentation/d/1Q1Oqap5SimUWlfalQyPlfQzDQMBQVTm1jrGxFrpYars/) (Pascal Paschos)
 - 2022-06-15 - [Operations](https://docs.google.com/presentation/d/19Bt47Dl2ryDCpNVoPcDtQQCUoNRgeUuLcQ6b09wnXXQ/) (Jeff Dost)
 - 2022-06-08 - [Technology Investigations](https://drive.google.com/file/d/1HoB2h7I-jT-YRsaxxBIcShyGMafHtknx/) (Brian Bockelman)
