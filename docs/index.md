@@ -28,11 +28,11 @@ Current Executive Team members:
 * Frank Würthwein, University of California San Diego, OSG Executive Director
 * Miron Livny, University of Wisconsin&ndash;Madison, OSG Technical Director and PI
 * Brian Bockelman, Morgridge Institute for Research, OSG Technology lead
+* Christina Koch, University of Wisconsin&ndash;Madison, OSG Research Facilitation lead
 * Eric Lançon, Brookhaven National Laboratory, BNL/ATLAS representative
 * Eric Sedore, Syracuse University, Resource contributor and OSG Council chair
 * Jérôme Lauret, Brookhaven National Laboratory, Nuclear Physics representative
 * Josh Drake, Indiana University, OSG Information Security Officer
-* Lauren Michael, University of Wisconsin&ndash;Madison, OSG Research Facilitation lead
 * Lisa Goodenough, Fermi National Accelerator Laboratory, Fermilab representative
 * Liz Sexton-Kennedy, Fermi National Accelerator Laboratory, Fermilab representative
 * Mark Neubauer, University of Illinois at Urbana-Champaign, OSG Resource Manager
