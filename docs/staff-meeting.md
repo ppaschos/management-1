@@ -132,27 +132,6 @@ Blank lines separate cycles of team presentations.
 - 2022-01-12 - All-Staff Town Hall (Frank Würthwein, requirements for joining OSCF/OSDF)
 - 2022-01-05 - [Network Monitoring](https://drive.google.com/file/d/1eJHu2FflMWZqCgKCbVVRXgK0RF8aiUEU/) (Shawn McKee)
 
-#### 2021
-
-- 2021-12-29 - Cancelled due to holidays
-- 2021-12-22 - Cancelled due to holidays
-- 2021-12-15 - All-Staff Town Hall (Frank Würthwein, Discussion of classifying unused resources on OSG)
-- 2021-12-08 - HTCSS (Todd Tannenbaum)
-- 2021-12-01 - Cancelled
-- 2021-11-24 - Cancelled due to Thanksgiving
-- 2021-11-17 - Town Hall: Miron Livny on culture
-- 2021-11-10 - [Security](https://docs.google.com/presentation/d/1F9ON0wKbF7C7Ued9JrNlevv4oOQryz9Xev40pM4zAXU/) (Josh Drake)
-- 2021-11-03 - [Software](https://docs.google.com/presentation/d/1BYjf37QDALy7FM5KFY-Ay1MuUzt1raPO5q0AtwT2pyc/) (Brian Lin)
-- 2021-10-27 - All-Staff Town Hall
-- 2021-10-20 - [Release](https://docs.google.com/presentation/d/1sqq28b4yvx5-I-RP4guC6ZDGiZLZKBbXHHBqs2KWqSQ/) (Tim Theisen) &ndash; discussion: runtime environment(s)
-- 2021-10-13 - Discussion: customer service
-- 2021-10-06 - [Infrastructure Lab](https://drive.google.com/file/d/1rsjT5giw-6kr1YNI1TcTBw6kpzQVNmp8) (Igor Sfiligoi)
-- 2021-09-29 - All-Staff Town Hall (Miron Livny)
-- 2021-09-22 - Cancelled - HTCondor Week Europe 2021, etc.
-- 2021-09-15 - Regular meeting: [Production Support](https://drive.google.com/file/d/1_3322DTA56kej_7JMPXAKKAT5oegoe40/) (Ken Herner)
-
-Prior to 15 Sep 2021, the meeting used an older format.
-
 #### Earlier Meetings
 
 Information about earlier meetings are on [a separate archive page](ac-meeting-archive.md).  Meeting
