@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2022-08-10 - Release (Tim Theisen)
+-   2022-08-10 - [Release](https://docs.google.com/presentation/d/13NVZEHXxhBg5wwxTfw0VgFj5q5HU6whtCvt9oKJMVbU/) (Tim Theisen)
 -   2022-08-17 - Infrastructure Lab (Igor Sfiligoi)
 -   2022-08-24 - Software (Brian Lin)
 -   2022-08-31 - All-Staff Town Hall (TBD)
