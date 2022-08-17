@@ -38,7 +38,7 @@ There are three kinds of staff meetings:
 Staff should decide for themselves when it is best to attend.
 OSG Area Coordinators are asked to attend or send a delegate to ensure broad representation.
 
-1.  (2 min) Review [OSG calendar](https://indico.fnal.gov/categoryDisplay.py?categId=86) for updates
+1.  (2 min) Review [OSG calendar](https://calendar.google.com/calendar/embed?src=7597sl1am95q5dcg4ii0hggj4g%40group.calendar.google.com) for updates
 1.  (3 min) Collect topics for discussion time
 1.  (30 min) Team presentation and discussion
 1.  (25 min) Discussion of interesting challenges
