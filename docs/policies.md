@@ -21,21 +21,27 @@ When an OSG staff member departs the project:
   will discuss with the Chief of Staff and Executive Director the reasons for the delay, risks associated with leaving
   privileges (and so forth) intact for longer, and a planned completion date.
 
-## Handling Security Incident Reports
+## Handling Security Recommendations
 
-When the OSG Security team produces a final report on an OSG security incident:
+When the OSG Security team issues recommendations,
+for example as part of a final report on an OSG security incident or exercise:
 
-1.  The Security team submits the report, including recommendations, to the OSG Executive Team.
+1.  The Security team submits the recommendations (or containing report) to the OSG Executive Team.
 
 1.  The OSG Deputy Executive Director annotates each recommendation to indicate:
 
     -   If OSG has implemented the recommendation already, and if so, how;
 
     -   If the recommendation has not yet been implemented,
-        provide a rough estimate of effort required to implement it
+        a rough estimate of effort required to implement it
         broken down by OSG area; and
 
     -   Any additional thoughts and feedback gathered from the Area Coordinators
 
-1.  The Deputy forwards the annotated recommendations document to the Project Office
-    to schedule a discussion at the next PI Meeting to decide how to move forward.
+1.  The Deputy forwards the annotated recommendations document
+    to the appropriate project offices (e.g., PATh, IRIS-HEP)
+    to schedule a discussion at the next relevant project meeting to decide how to move forward.
+
+1.  Once the project team(s) discuss the document,
+    the OSG Executive Director informs the OSG Executive Team and OSG Area Coordinators
+    of what actions, if any, will be taken on each recommendation.
