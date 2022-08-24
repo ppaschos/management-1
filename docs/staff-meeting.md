@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2022-08-24 - Software (Brian Lin)
+-   2022-08-24 - [Software](https://docs.google.com/presentation/d/11DK-uIZZgb1tYIbyy812thGC9I7igu3dacjWUp1k_yU) (Brian Lin)
 -   2022-08-31 - **All-Staff Town Hall** (TBD)
 -   2022-09-07 - Security (Josh Drake)
 -   2022-09-14 - HTCSS (Todd Tannenbaum)
