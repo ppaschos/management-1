@@ -15,7 +15,7 @@ The current Area Coordinators are:
 | [Network Monitoring](https://osg-htc.org/networking/) | Shawn McKee, University of Michigan |
 | [Operations](https://osg-htc.org/operations/) | Jeff Dost, University of California San Diego |
 | Production Support | Ken Herner, Fermi National Accelerator Lab |
-| [Research Facilitation](https://osg-htc.org/research-facilitation) | Lauren Michael, University of Wisconsin&ndash;Madison |
+| [Research Facilitation](https://osg-htc.org/research-facilitation) | Christina Koch, University of Wisconsin&ndash;Madison |
 | [Security](https://osg-htc.org/security/) | Josh Drake, Indiana University |
 | [Software and Release](https://osg-htc.org/technology/) | Brian Lin and Tim Theisen, University of Wisconsin&ndash;Madison |
 | [Technology Investigations](https://osg-htc.org/technology/) | Brian Bockelman, Morgridge Institute for Research |
