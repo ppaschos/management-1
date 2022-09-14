@@ -75,7 +75,7 @@ of a special topic, which will be announced in advance.
 -   2022-09-14 - HTCSS (Todd Tannenbaum)
 -   2022-09-21 - Technology Investigations (Brian Bockelman)
 -   2022-09-28 - **All-Staff Town Hall** (TBD)
--   2022-10-05 - Production Support (Ken Herner)
+-   2022-10-05 - Production Support (Ken Herner) (meeting run by Pascal Paschos)
 -   2022-10-12 - Cancelled due to the Autumn 2022 European HTCondor Workshop
 -   2022-10-19 - Network Monitoring (Shawn McKee)
 -   2022-10-26 - **All-Staff Town Hall** (TBD)
