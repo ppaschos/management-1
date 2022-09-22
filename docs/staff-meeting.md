@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2022-09-21 - Technology Investigations (Brian Bockelman)
 -   2022-09-28 - **All-Staff Town Hall** (TBD)
 -   2022-10-05 - Production Support (Ken Herner) (meeting run by Pascal Paschos)
 -   2022-10-12 - Cancelled due to the Autumn 2022 European HTCondor Workshop
@@ -91,6 +90,7 @@ Blank lines separate cycles of team presentations.
 
 #### 2022
 
+-   2022-09-21 - [Technology Investigations](https://docs.google.com/presentation/d/1BBM_SdViHHByPE1FOtMmhIezCgL895wr/) (Brian Bockelman)
 -   2022-09-14 - [HTCSS](https://docs.google.com/presentation/d/1b3VQu5cTIqCT-jwtQ_WuzSIdttALOicm/) (Todd Tannenbaum)
 -   2022-09-07 - [Security](https://drive.google.com/file/d/10Lj5SrJ8v7BBsJTujdDZBe_FGglrgXAJ/view?usp=sharing) (Josh Drake)
 -   2022-08-31 - All-Staff Town Hall (communicating our value proposition)
