@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2022-09-28 - **All-Staff Town Hall** (HTCSS features and usability, Todd Tannenbaum)
+-   2022-09-28 - Cancelled
 -   2022-10-05 - Production Support (Ken Herner) (meeting run by Pascal Paschos)
 -   2022-10-12 - Cancelled due to the Autumn 2022 European HTCondor Workshop
 -   2022-10-19 - Network Monitoring (Shawn McKee)
