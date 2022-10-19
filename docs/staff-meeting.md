@@ -75,8 +75,8 @@ of a special topic, which will be announced in advance.
 -   2022-10-19 - Network Monitoring (Shawn McKee)
 -   2022-10-26 - **All-Staff Town Hall** (TBD)
 -   2022-11-02 - Operations (Jeff Dost)
--   2022-11-09 - Collaboration Support (Pascal Paschos)
--   2022-11-16 - Research Facilitation (Christina Koch)
+-   2022-11-09 - Research Facilitation (Christina Koch)
+-   2022-11-16 - Collaboration Support (Pascal Paschos)
 -   2022-11-23 - Cancelled due to the Thanksgiving holiday
 -   2022-11-30 - **All-Staff Town Hall** (TBD)
 
