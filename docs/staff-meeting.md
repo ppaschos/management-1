@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2022-10-19 - Network Monitoring (Shawn McKee)
 -   2022-10-26 - **All-Staff Town Hall** (TBD)
 -   2022-11-02 - Operations (Jeff Dost)
 -   2022-11-09 - Research Facilitation (Christina Koch)
@@ -87,6 +86,8 @@ Blank lines separate cycles of team presentations.
 
 #### 2022
 
+-   2022-10-19 - [Network Monitoring](https://docs.google.com/presentation/d/1REf6QXYyObGvMkt_QeA5BNMmv70U8YIjF1gPCfNfLu8/)
+    (Shawn McKee)
 -   2022-10-12 - Cancelled due to the Autumn 2022 European HTCondor Workshop
 -   2022-10-05 - [Production Support](https://drive.google.com/file/d/1hJjt8Fq2tFDhWV-F-5NS_XJss6KqVQQ3/) (Ken Herner) (meeting run by Pascal Paschos)
 -   2022-09-28 - Cancelled
