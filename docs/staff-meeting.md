@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2022-10-26 - **All-Staff Town Hall** (TBD)
 -   2022-11-02 - Operations (Jeff Dost)
 -   2022-11-09 - Research Facilitation (Christina Koch)
 -   2022-11-16 - Collaboration Support (Pascal Paschos)
@@ -86,6 +85,7 @@ Blank lines separate cycles of team presentations.
 
 #### 2022
 
+-   2022-10-26 - All-Staff Town Hall (Lessons learned in 2 years of PATh)
 -   2022-10-19 - [Network Monitoring](https://docs.google.com/presentation/d/1REf6QXYyObGvMkt_QeA5BNMmv70U8YIjF1gPCfNfLu8/)
     (Shawn McKee)
 -   2022-10-12 - Cancelled due to the Autumn 2022 European HTCondor Workshop
