@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2022-11-23 - Cancelled due to the Thanksgiving holiday
 -   2022-11-30 - **All-Staff Town Hall** (TBD)
 
 ### Past Meetings
@@ -82,6 +81,7 @@ Blank lines separate cycles of team presentations.
 
 #### 2022
 
+-   2022-11-23 - Cancelled due to the Thanksgiving holiday
 -   2022-11-16 - [Collaboration Support](https://docs.google.com/presentation/d/12whownn2Jopo6kc9KMoBDlXrf4SArDALH8l_1-3kIcs/) (Pascal Paschos)
 -   2022-11-09 - [Research Facilitation](https://docs.google.com/presentation/d/1gU8eecjOj34P6idZVL19gJMdPiDEwtX2wDE8MtfIOGw/) (Christina Koch)
 -   2022-11-02 - [Operations](https://docs.google.com/presentation/d/1-j2PwVfNa0MtdBm2DqrN68xD_jD8ej252AKiZAigG8g/) (Jeff Dost)
