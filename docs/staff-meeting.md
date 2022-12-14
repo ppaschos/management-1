@@ -75,7 +75,7 @@ of a special topic, which will be announced in advance.
 -   2022-12-14 - Release (Tim Theisen)
 -   2022-12-21 - Global Infrastructure Lab (Igor Sfiligoi)
 -   2022-12-28 - Cancelled due to holidays
--   2023-01-04 - **All-Staff Town Hall** (TBD)
+-   2023-01-04 - **All-Staff Town Hall** (our relationship with the NSF CC* program)
 
 ### Past Meetings
 
