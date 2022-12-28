@@ -4,6 +4,33 @@ Meeting notes prior to 20 September 2017 were contained in the old OSG TWiki, wh
 earlier meeting notes, please contact [Tim Cartwright](mailto:cat@cs.wisc.edu) and he can look for them in an archive.
 
 
+#### 2022
+
+- 2022-05-25 - <span style="color:#FF6600;">Cancelled</span> due to HTCondor Week 2022
+- 2022-05-18 - Cancelled
+- 2022-05-11 - [Network Monitoring](https://docs.google.com/presentation/d/1SrC9_DKz1u6z3_PmMc1QctVT630e8cbhngwfG-pZA6Y/) (Shawn McKee)
+- 2022-05-04 - All-Staff Town Hall (PATh Facility)
+- 2022-04-27 - Discussions: HTCondor architecture and OSG GlideinWMS pilots
+- 2022-04-20 - [Production Support](https://drive.google.com/file/d/1l7KAbJnAJQi9mxyM_ThDtoCiTrS9TFyl/) (Ken Herner)
+- 2022-04-13 - HTCSS (Todd Tannenbaum)
+- 2022-04-06 - All-Staff Town Hall (Frank Würthwein, AHM feedback and security exercise results)
+- 2022-03-30 - [Security](https://drive.google.com/file/d/1NiyQYD3PPm5QN5430U3i3HawJspVLtyd/) (Josh Drake)
+- 2022-03-23 - [Release](https://docs.google.com/presentation/d/1aDX5NayEpOkVwM5SprhWIhoiP5XG7AeZ6wiXdtzx1Js/) (Tim Theisen)
+- 2022-03-16 - Cancelled due to [OSG All-Hands Meeting 2022](https://osg-htc.org/all-hands/2022/)
+- 2022-03-09 - All-Staff Town Hall
+- 2022-03-02 - [Software](https://docs.google.com/presentation/d/1Zxr66x3p4q3gC4jFAUM5AzH6P4Z5-tqmjzpIooAuTBk) (Brian Lin)
+- 2022-02-23 - Infrastructure Lab ([Igor Sfiligoi](https://docs.google.com/presentation/d/1c4AVSscGoPSHEJvTNMVYhRyT4QamM1Lr/) and [Fabio Andrijauskas](https://docs.google.com/presentation/d/1lw0AnaJb-zjWT2r307DZNmBcL786Vk0l/))
+
+<div style="height: 0.5ex"></div>
+
+- 2022-02-16 - [Operations](https://docs.google.com/presentation/d/1W9lPX7DVzmIrJ3Gc381FCwaWfX9VBrhV4Ld2dtXa6sc/) (Jeff Dost) + <span style="color: #FF6600; font-weight: bold;">All-Staff:</span> Security Incident Training ([slides](https://drive.google.com/file/d/1ZhdF4qqZ99Fnq5jmIUJtvGIkwmer4jbC/) and [video](https://drive.google.com/file/d/1hnOMEhAYDyrK31rijCVr-4Q5Q_PQkR0E/); Brian Chase)
+- 2022-02-09 - All-Staff Town Hall (Frank Würthwein: OSG-AHM and COVID; Miron Livny: on-boarding)
+- 2022-02-02 - [Research Facilitation](https://docs.google.com/presentation/d/1ViQNXGiZQ0gjN6YDlk1f3CR1NieF6qBgpgeQr2cDK3k/) (Lauren Michael)
+- 2022-01-26 - Technology Investigations (Brian Bockelman)
+- 2022-01-19 - [Collaboration Support](https://docs.google.com/presentation/d/1ls4mxx5YgHAPAqGPt2sXNjVYPRz-mRgRXxhA06vVND0) (Pascal Paschos)
+- 2022-01-12 - All-Staff Town Hall (Frank Würthwein, requirements for joining OSCF/OSDF)
+- 2022-01-05 - [Network Monitoring](https://drive.google.com/file/d/1eJHu2FflMWZqCgKCbVVRXgK0RF8aiUEU/) (Shawn McKee)
+
 #### 2021
 
 - 2021-12-29 - Cancelled due to holidays
