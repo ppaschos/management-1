@@ -6,7 +6,7 @@ earlier meeting notes, please contact [Tim Cartwright](mailto:cat@cs.wisc.edu) a
 
 #### 2022
 
-- 2022-05-25 - <span style="color:#FF6600;">Cancelled</span> due to HTCondor Week 2022
+- 2022-05-25 - Cancelled due to HTCondor Week 2022
 - 2022-05-18 - Cancelled
 - 2022-05-11 - [Network Monitoring](https://docs.google.com/presentation/d/1SrC9_DKz1u6z3_PmMc1QctVT630e8cbhngwfG-pZA6Y/) (Shawn McKee)
 - 2022-05-04 - All-Staff Town Hall (PATh Facility)
@@ -23,7 +23,7 @@ earlier meeting notes, please contact [Tim Cartwright](mailto:cat@cs.wisc.edu) a
 
 <div style="height: 0.5ex"></div>
 
-- 2022-02-16 - [Operations](https://docs.google.com/presentation/d/1W9lPX7DVzmIrJ3Gc381FCwaWfX9VBrhV4Ld2dtXa6sc/) (Jeff Dost) + <span style="color: #FF6600; font-weight: bold;">All-Staff:</span> Security Incident Training ([slides](https://drive.google.com/file/d/1ZhdF4qqZ99Fnq5jmIUJtvGIkwmer4jbC/) and [video](https://drive.google.com/file/d/1hnOMEhAYDyrK31rijCVr-4Q5Q_PQkR0E/); Brian Chase)
+- 2022-02-16 - [Operations](https://docs.google.com/presentation/d/1W9lPX7DVzmIrJ3Gc381FCwaWfX9VBrhV4Ld2dtXa6sc/) (Jeff Dost) + All-Staff: Security Incident Training ([slides](https://drive.google.com/file/d/1ZhdF4qqZ99Fnq5jmIUJtvGIkwmer4jbC/) and [video](https://drive.google.com/file/d/1hnOMEhAYDyrK31rijCVr-4Q5Q_PQkR0E/); Brian Chase)
 - 2022-02-09 - All-Staff Town Hall (Frank Würthwein: OSG-AHM and COVID; Miron Livny: on-boarding)
 - 2022-02-02 - [Research Facilitation](https://docs.google.com/presentation/d/1ViQNXGiZQ0gjN6YDlk1f3CR1NieF6qBgpgeQr2cDK3k/) (Lauren Michael)
 - 2022-01-26 - Technology Investigations (Brian Bockelman)
@@ -267,8 +267,8 @@ Meetings earlier than 2021-03-10 were the called “OSG Area Coordinators meetin
 - 2018-06-13 - [Network Monitoring](https://drive.google.com/open?id=1Ut9I4XIW-OlNC3gRsv2wj2ne_HIr9vOA) (Shawn McKee)
 - 2018-06-06 - [Software and Release](https://docs.google.com/document/d/1flgOBN2IJ4j8FzftE4Za6tGD5JSp-XpErdrYj8OEYLk/edit?usp=sharing) (Brian Lin and Tim Theisen)
 - 2018-05-30 - Operations Wrap-Up and Sign-Off (Rob Quick)
-- 2018-05-23 - <span style="color: silver;">Canceled due to HTCondor Week</span>
-- 2018-05-16 - <span style="color: silver;">Canceled due to HEPiX</span>
+- 2018-05-23 - Canceled due to HTCondor Week
+- 2018-05-16 - Canceled due to HEPiX
 
 <div style="height: 0.5ex"></div>
 
