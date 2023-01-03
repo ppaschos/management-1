@@ -82,7 +82,7 @@ Blank lines separate cycles of team presentations.
 #### 2022
 
 -   2022-12-28 - Cancelled due to holidays
--   2022-12-21 - Global Infrastructure Lab (Igor Sfiligoi)
+-   2022-12-21 - [Global Infrastructure Lab](https://drive.google.com/file/d/1JT7eks7k7Pkbva5lP-6H055XP1MGtahY) (Igor Sfiligoi)
 -   2022-12-14 - [Release](https://docs.google.com/presentation/d/1MtDp3BkquscEAyikE4IrOITokLTCF78jioL-gppnVBc/) (Tim Theisen)
 
 <div style="height: 0.5ex"></div>
