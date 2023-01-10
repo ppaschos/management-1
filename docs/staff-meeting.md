@@ -73,6 +73,18 @@ of a special topic, which will be announced in advance.
 ### Upcoming Meetings
 
 -   2023-01-10 - Cancelled due to in-person meetings
+-   2023-01-18 - Software (Brian Lin)
+-   2023-01-25 - HTCSS (Todd Tannenbaum)
+-   2023-02-01 - **All-Staff Town Hall** (TBD)
+-   2023-02-08 - Security (Josh Drake)
+-   2023-02-15 - Technology Investigations (Brian Bockelman)
+-   2023-02-22 - Production Support (Ken Herner)
+-   2023-03-01 - **All-Staff Town Hall** (TBD)
+-   2023-03-08 - Network Monitoring (Shawn McKee)
+-   2023-03-15 - Operations (Jeff Dost)
+-   2023-03-22 - Research Facilitation (Christina Koch)
+-   2023-03-29 - **All-Staff Town Hall** (TBD)
+-   2023-04-05 - Collaboration Support (Pascal Paschos)
 
 ### Past Meetings
 
