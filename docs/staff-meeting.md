@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2023-01-04 - **All-Staff Town Hall** (our relationship with the NSF CC* program)
+-   2023-01-10 - Cancelled due to in-person meetings
 
 ### Past Meetings
 
@@ -81,6 +81,7 @@ Blank lines separate cycles of team presentations.
 
 #### 2022
 
+-   2023-01-04 - All-Staff Town Hall (our relationship with the NSF CC* program)
 -   2022-12-28 - Cancelled due to holidays
 -   2022-12-21 - [Global Infrastructure Lab](https://drive.google.com/file/d/1JT7eks7k7Pkbva5lP-6H055XP1MGtahY) (Igor Sfiligoi)
 -   2022-12-14 - [Release](https://docs.google.com/presentation/d/1MtDp3BkquscEAyikE4IrOITokLTCF78jioL-gppnVBc/) (Tim Theisen)
