@@ -74,7 +74,7 @@ of a special topic, which will be announced in advance.
 
 -   2023-01-18 - Software (Brian Lin)
 -   2023-01-25 - HTCSS (Todd Tannenbaum)
--   2023-02-01 - **All-Staff Town Hall** (TBD)
+-   2023-02-01 - **All-Staff Town Hall** (Frank Würthwein)
 -   2023-02-08 - Security (Josh Drake)
 -   2023-02-15 - Technology Investigations (Brian Bockelman)
 -   2023-02-22 - Production Support (Ken Herner)
