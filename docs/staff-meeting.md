@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2023-01-18 - Software (Brian Lin)
+-   2023-01-18 - [Software](https://docs.google.com/presentation/d/1KfaVc7NWJ9WpWT4DVuZNV81wAOpdBKcx0R4AJgMmHXU/edit) (Brian Lin)
 -   2023-01-25 - HTCSS (Todd Tannenbaum)
 -   2023-02-01 - **All-Staff Town Hall** (Frank Würthwein)
 -   2023-02-08 - Security (Josh Drake)
