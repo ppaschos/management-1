@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2023-01-18 - [Software](https://docs.google.com/presentation/d/1KfaVc7NWJ9WpWT4DVuZNV81wAOpdBKcx0R4AJgMmHXU/) (Brian Lin)
 -   2023-01-25 - HTCSS (Todd Tannenbaum)
 -   2023-02-01 - **All-Staff Town Hall** (Frank Würthwein)
 -   2023-02-08 - Security (Josh Drake)
@@ -92,7 +91,8 @@ Blank lines separate cycles of team presentations.
 
 #### 2022
 
--   2023-01-10 - Cancelled due to in-person meetings
+-   2023-01-18 - [Software](https://docs.google.com/presentation/d/1KfaVc7NWJ9WpWT4DVuZNV81wAOpdBKcx0R4AJgMmHXU/) (Brian Lin)
+-   2023-01-11 - Cancelled due to in-person meetings
 -   2023-01-04 - All-Staff Town Hall (our relationship with the NSF CC* program)
 -   2022-12-28 - Cancelled due to holidays
 -   2022-12-21 - [Global Infrastructure Lab](https://drive.google.com/file/d/1JT7eks7k7Pkbva5lP-6H055XP1MGtahY) (Igor Sfiligoi)
