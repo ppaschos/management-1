@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2023-02-01 - **All-Staff Town Hall** (Frank Würthwein)
 -   2023-02-08 - Security (Josh Drake)
 -   2023-02-15 - Technology Investigations (Brian Bockelman)
 -   2023-02-22 - Production Support (Ken Herner)
@@ -88,6 +87,7 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2023-02-01 - All-Staff Town Hall (OSDF overview and namespaces)
 -   2023-01-25 - [HTCSS](https://docs.google.com/presentation/d/1R3JDYZNKNkMzBhHpj4OejzYXhHvA1nLj/) (Todd Tannenbaum)
 -   2023-01-18 - [Software](https://docs.google.com/presentation/d/1KfaVc7NWJ9WpWT4DVuZNV81wAOpdBKcx0R4AJgMmHXU/) (Brian Lin)
 -   2023-01-11 - Cancelled due to in-person meetings
