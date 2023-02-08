@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2023-02-08 - Security (Josh Drake)
+-   2023-02-08 - [Security](https://drive.google.com/file/d/1WnpqQNenNDI8yopmwAfnIbVOcy9LOOPb/) (Josh Drake)
 -   2023-02-15 - Technology Investigations (Brian Bockelman)
 -   2023-02-22 - Production Support (Ken Herner)
 -   2023-03-01 - **All-Staff Town Hall** (TBD)
