@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2023-02-15 - Open — options being explored
+-   2023-02-15 - **Cancelled**
 -   2023-02-22 - Production Support (Ken Herner)
 -   2023-03-01 - **All-Staff Town Hall** (TBD)
 -   2023-03-08 - Network Monitoring (Shawn McKee)
