@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2023-02-22 - Production Support (Ken Herner)
 -   2023-03-01 - **All-Staff Town Hall** (TBD)
 -   2023-03-08 - Network Monitoring (Shawn McKee)
 -   2023-03-15 - Operations (Jeff Dost)
@@ -86,6 +85,7 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2023-02-22 - [Production Support](https://drive.google.com/file/d/1Ay87Um7mtnylpDp-EAyIh3h_WHPKuO9w/) (Ken Herner)
 -   2023-02-15 - Cancelled
 -   2023-02-08 - [Security](https://drive.google.com/file/d/1WnpqQNenNDI8yopmwAfnIbVOcy9LOOPb/) (Josh Drake)
 -   2023-02-01 - All-Staff Town Hall (OSDF overview and namespaces)
