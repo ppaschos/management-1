@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2023-03-15 - Operations (Jeff Dost)
 -   2023-03-22 - Research Facilitation (Christina Koch)
 -   2023-03-29 - **All-Staff Town Hall** (TBD)
 -   2023-04-05 - Collaboration Support (Pascal Paschos)
@@ -85,6 +84,7 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2023-03-15 - Operations (Jeff Dost)
 -   2023-03-08 - All-Staff Town Hall (PATh accomplishments and goals)
 -   2023-03-01 - All-Staff Town Hall (PATh accomplishments and goals)
 -   2023-02-22 - [Production Support](https://drive.google.com/file/d/1Ay87Um7mtnylpDp-EAyIh3h_WHPKuO9w/) (Ken Herner)
