@@ -84,7 +84,7 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
--   2023-03-15 - Operations (Jeff Dost)
+-   2023-03-15 - [Operations](https://docs.google.com/presentation/d/1o2IUlIeKAgnLYL0DjyKhGHK-pJBFD-Io-hPIhEOBDEs/) (Jeff Dost)
 -   2023-03-08 - All-Staff Town Hall (PATh accomplishments and goals)
 -   2023-03-01 - All-Staff Town Hall (PATh accomplishments and goals)
 -   2023-02-22 - [Production Support](https://drive.google.com/file/d/1Ay87Um7mtnylpDp-EAyIh3h_WHPKuO9w/) (Ken Herner)
