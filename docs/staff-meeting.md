@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2023-03-29 - **All-Staff Town Hall** (TBD)
 -   2023-04-05 - Collaboration Support (Pascal Paschos)
 -   2023-04-12 - Technology Investigations (Brian Bockelman)
 -   2023-04-19 - **Sample onboarding presentations** (Brian Bockelman & Brian Lin)
@@ -83,6 +82,7 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2023-03-29 - All-Staff Town Hall (Facilitation practices)
 -   2023-03-22 - [Facilitation Services](https://docs.google.com/presentation/d/1J7aXa0n1hHSC-5WvutsvSYg_eUwPqX_aFVExTbOH16I) (Christina Koch)
 -   2023-03-15 - [Operations](https://docs.google.com/presentation/d/1o2IUlIeKAgnLYL0DjyKhGHK-pJBFD-Io-hPIhEOBDEs/) (Jeff Dost)
 -   2023-03-08 - All-Staff Town Hall (PATh accomplishments and goals)
