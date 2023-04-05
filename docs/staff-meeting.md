@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2023-04-05 - [Collaboration Support] (https://docs.google.com/presentation/d/1XFuDaikLm996lhWTOw_5OXQgrOqKBEYVOHQbDO9TrX0/) (Pascal Paschos)
+-   2023-04-05 - [Collaboration Support](https://docs.google.com/presentation/d/1XFuDaikLm996lhWTOw_5OXQgrOqKBEYVOHQbDO9TrX0/) (Pascal Paschos)
 -   2023-04-12 - Technology Investigations (Brian Bockelman)
 -   2023-04-19 - **Sample onboarding presentations** (Brian Bockelman & Brian Lin)
 -   2023-04-26 - Network Monitoring (Shawn McKee)
