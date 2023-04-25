@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2023-04-19 - **Cancelled**
 -   2023-04-26 - Network Monitoring (Shawn McKee)
 -   2023-05-03 - Technology Investigations (Brian Bockelman)
 
@@ -81,6 +80,7 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2023-04-19 - Cancelled (All-Staff Town Hall)
 -   2023-04-12 - Introduction to CVMFS (Derek Weitzel)
 -   2023-04-05 - [Collaboration Support](https://docs.google.com/presentation/d/1XFuDaikLm996lhWTOw_5OXQgrOqKBEYVOHQbDO9TrX0/) (Pascal Paschos)
 -   2023-03-29 - All-Staff Town Hall (Facilitation practices)
