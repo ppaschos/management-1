@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2023-04-26 - [Network Monitoring](https://docs.google.com/presentation/d/1R2_zaDwadwnkOy6WRYPCo5TnKULHVewPXCGUerbQuCg/edit#slide=id.p1) (Shawn McKee)
+-   2023-04-26 - [Network Monitoring](https://docs.google.com/presentation/d/1R2_zaDwadwnkOy6WRYPCo5TnKULHVewPXCGUerbQuCg/) (Shawn McKee)
 -   2023-05-03 - Technology Investigations (Brian Bockelman)
 
 ### Past Meetings
