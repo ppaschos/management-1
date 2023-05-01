@@ -73,6 +73,7 @@ of a special topic, which will be announced in advance.
 ### Upcoming Meetings
 
 -   2023-05-03 - Probably cancelled (was: Technology Investigations (Brian Bockelman))
+-   2023-05-10 - **All-Staff Town Hall**
 
 ### Past Meetings
 
