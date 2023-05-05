@@ -72,7 +72,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2023-05-03 - <span style="font-weight: bold; color: #FF6600;">Cancelled</span>
 -   2023-05-10 - **All-Staff Town Hall**
 
 ### Past Meetings
@@ -80,6 +79,7 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2023-05-03 - Cancelled
 -   2023-04-26 - [Network Monitoring](https://docs.google.com/presentation/d/1R2_zaDwadwnkOy6WRYPCo5TnKULHVewPXCGUerbQuCg/) (Shawn McKee)
 -   2023-04-19 - Cancelled (All-Staff Town Hall)
 -   2023-04-12 - Introduction to CVMFS (Derek Weitzel)
