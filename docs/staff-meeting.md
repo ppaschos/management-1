@@ -71,14 +71,34 @@ of a special topic, which will be announced in advance.
 ## Schedule
 
 ### Upcoming Meetings
-
--   2023-05-10 - **All-Staff Town Hall**
+-   2023-05-17 - Maybe a Town Hall or else cancelled
+-   2023-05-24 - Release (Tim Theisen)
+-   2023-05-31 - Cancelled or maybe pre-PATh review discussion
+-   2023-06-07 - **All-Staff Town Hall** (TBD - Review debrief?)
+-   2023-06-14 - Global Infrastructure Lab (Igor Sfiligoi)
+-   2023-06-21 - HTCSS (Todd Tannenbaum)
+-   2023-06-28 - Software (Brian Lin)
+-   2023-07-05 - **All-Staff Town Hall** (TBD - HTC23 prep?)
+-   2023-07-12 - Cancelled HTC23
+-   2023-07-19 - Production Support (Ken Herner)
+-   2023-07-26 - Technology Investigations (Brian Bockelman)
+-   2023-08-02 - **All-Staff Town Hall** (TBD)
+-   2023-08-09 - Cancelled - OSG School
+-   2023-08-16 - Security (Josh Drake)
+-   2023-08-23 - Operations (Jeff Dost)
+-   2023-08-30 - **All-Staff Town Hall** (TBD)
+-   2023-09-06 - Research Facilitation (Christina Koch)
+-   2023-09-13 - Collaboration Support (Pascal Paschos)
+-   2023-09-20 - Network Monitoring (Shawn McKee)
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+<div style="height: 0.5ex"></div>
+
+-   2023-05-10 - Cancelled (no Town Hall due to travel)
 -   2023-05-03 - Cancelled
 -   2023-04-26 - [Network Monitoring](https://docs.google.com/presentation/d/1R2_zaDwadwnkOy6WRYPCo5TnKULHVewPXCGUerbQuCg/) (Shawn McKee)
 -   2023-04-19 - Cancelled (All-Staff Town Hall)
