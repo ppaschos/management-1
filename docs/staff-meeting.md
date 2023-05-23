@@ -71,7 +71,6 @@ of a special topic, which will be announced in advance.
 ## Schedule
 
 ### Upcoming Meetings
--   2023-05-17 - **Cancelled**
 -   2023-05-24 - Release (Tim Theisen)
 -   2023-05-31 - Cancelled or maybe pre-PATh review discussion
 -   2023-06-07 - **All-Staff Town Hall** (TBD - Review debrief?)
@@ -96,8 +95,11 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+
+
 <div style="height: 0.5ex"></div>
 
+-   2023-05-17 - Cancelled
 -   2023-05-10 - Cancelled (no Town Hall due to travel)
 -   2023-05-03 - Cancelled
 -   2023-04-26 - [Network Monitoring](https://docs.google.com/presentation/d/1R2_zaDwadwnkOy6WRYPCo5TnKULHVewPXCGUerbQuCg/) (Shawn McKee)
