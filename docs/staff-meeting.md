@@ -71,7 +71,7 @@ of a special topic, which will be announced in advance.
 ## Schedule
 
 ### Upcoming Meetings
--   2023-05-24 - Release (Tim Theisen)
+-   2023-05-24 - [Release](https://docs.google.com/presentation/d/1B7wnhiJ5CdwBFQOUTu8JyQWWdlr65YS38nui3SzmKgU/) (Tim Theisen)
 -   2023-05-31 - Cancelled or maybe pre-PATh review discussion
 -   2023-06-07 - **All-Staff Town Hall** (TBD - Review debrief?)
 -   2023-06-14 - Global Infrastructure Lab (Igor Sfiligoi)
