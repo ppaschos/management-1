@@ -71,13 +71,11 @@ of a special topic, which will be announced in advance.
 ## Schedule
 
 ### Upcoming Meetings
--   2023-05-31 - PATh review discussion (just for staff who are participating in the review)
--   2023-06-07 - **All-Staff Town Hall** (TBD - Review debrief?)
 -   2023-06-14 - Global Infrastructure Lab (Igor Sfiligoi)
 -   2023-06-21 - HTCSS (Todd Tannenbaum)
 -   2023-06-28 - Software (Brian Lin)
 -   2023-07-05 - **All-Staff Town Hall** (TBD - HTC23 prep?)
--   2023-07-12 - Cancelled HTC23
+-   2023-07-12 - Cancelled due to [HTC23](https://agenda.hep.wisc.edu/event/2014/)
 -   2023-07-19 - Production Support (Ken Herner)
 -   2023-07-26 - Technology Investigations (Brian Bockelman)
 -   2023-08-02 - **All-Staff Town Hall** (TBD)
@@ -94,6 +92,8 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2023-06-07 - All-Staff Town Hall (review debrief and awards in general)
+-   2023-05-31 - PATh review discussion (select staff)
 -   2023-05-24 - [Release](https://docs.google.com/presentation/d/1B7wnhiJ5CdwBFQOUTu8JyQWWdlr65YS38nui3SzmKgU/) (Tim Theisen)
 
 <div style="height: 0.5ex"></div>
