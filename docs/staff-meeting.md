@@ -71,12 +71,12 @@ of a special topic, which will be announced in advance.
 ## Schedule
 
 ### Upcoming Meetings
--   2023-06-14 - Global Infrastructure Lab ([Igor Sfiligoi](https://docs.google.com/presentation/d/11MW6JwOLgqettzwqpa3CnTpA-Uqfr2Tu/view?usp=share_link&ouid=101588432141720331361&rtpof=true&sd=true) and [Fabio Andrijauskas](https://docs.google.com/presentation/d/1t_Tfy8fpkqLy73Ane_1EEdQBOpAbbZkUe7Z8oMVBGlA/view?usp=share_link))
--   2023-06-21 - HTCSS (Todd Tannenbaum)
+-   2023-06-14 - Global Infrastructure Lab ([Igor Sfiligoi](https://docs.google.com/presentation/d/11MW6JwOLgqettzwqpa3CnTpA-Uqfr2Tu/) and [Fabio Andrijauskas](https://docs.google.com/presentation/d/1t_Tfy8fpkqLy73Ane_1EEdQBOpAbbZkUe7Z8oMVBGlA/))
+-   2023-06-21 - Production Support (Ken Herner)
 -   2023-06-28 - Software (Brian Lin)
 -   2023-07-05 - **All-Staff Town Hall** (TBD - HTC23 prep?)
 -   2023-07-12 - Cancelled due to [HTC23](https://agenda.hep.wisc.edu/event/2014/)
--   2023-07-19 - Production Support (Ken Herner)
+-   2023-07-19 - HTCSS (Todd Tannenbaum)
 -   2023-07-26 - Technology Investigations (Brian Bockelman)
 -   2023-08-02 - **All-Staff Town Hall** (TBD)
 -   2023-08-09 - Cancelled - OSG School
