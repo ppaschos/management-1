@@ -71,7 +71,6 @@ of a special topic, which will be announced in advance.
 ## Schedule
 
 ### Upcoming Meetings
--   2023-06-14 - Global Infrastructure Lab ([Igor Sfiligoi](https://docs.google.com/presentation/d/11MW6JwOLgqettzwqpa3CnTpA-Uqfr2Tu/) and [Fabio Andrijauskas](https://docs.google.com/presentation/d/1t_Tfy8fpkqLy73Ane_1EEdQBOpAbbZkUe7Z8oMVBGlA/))
 -   2023-06-21 - Production Support (Ken Herner)
 -   2023-06-28 - Software (Brian Lin)
 -   2023-07-05 - **All-Staff Town Hall** (TBD - HTC23 prep?)
@@ -92,6 +91,7 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2023-06-14 - Global Infrastructure Lab ([Igor Sfiligoi](https://docs.google.com/presentation/d/11MW6JwOLgqettzwqpa3CnTpA-Uqfr2Tu/) and [Fabio Andrijauskas](https://docs.google.com/presentation/d/1t_Tfy8fpkqLy73Ane_1EEdQBOpAbbZkUe7Z8oMVBGlA/))
 -   2023-06-07 - All-Staff Town Hall (review debrief and awards in general)
 -   2023-05-31 - PATh review discussion (select staff)
 -   2023-05-24 - [Release](https://docs.google.com/presentation/d/1B7wnhiJ5CdwBFQOUTu8JyQWWdlr65YS38nui3SzmKgU/) (Tim Theisen)
