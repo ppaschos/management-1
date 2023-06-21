@@ -71,7 +71,7 @@ of a special topic, which will be announced in advance.
 ## Schedule
 
 ### Upcoming Meetings
--   2023-06-21 - Production Support (Ken Herner)
+-   2023-06-21 - [Production Support](https://drive.google.com/file/d/1mJtXbJHZbrqajFlmC9teRtyKwyFMdiXH/) (Ken Herner)
 -   2023-06-28 - Software (Brian Lin)
 -   2023-07-05 - **All-Staff Town Hall** (TBD - HTC23 prep?)
 -   2023-07-12 - Cancelled due to [HTC23](https://agenda.hep.wisc.edu/event/2014/)
