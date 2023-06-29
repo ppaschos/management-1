@@ -71,7 +71,7 @@ of a special topic, which will be announced in advance.
 ## Schedule
 
 ### Upcoming Meetings
--   2023-06-28 - Software (Brian Lin)
+-   2023-06-28 - [Software](https://docs.google.com/presentation/d/1GfBW_JHPPK9T4_NoOh56rr8yAbyubraxUIavH1vVTo0) (Brian Lin)
 -   2023-07-05 - **All-Staff Town Hall** (TBD - HTC23 prep?)
 -   2023-07-12 - Cancelled due to [HTC23](https://agenda.hep.wisc.edu/event/2014/)
 -   2023-07-19 - HTCSS (Todd Tannenbaum)
