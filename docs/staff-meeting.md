@@ -71,9 +71,6 @@ of a special topic, which will be announced in advance.
 ## Schedule
 
 ### Upcoming Meetings
--   2023-06-28 - [Software](https://docs.google.com/presentation/d/1GfBW_JHPPK9T4_NoOh56rr8yAbyubraxUIavH1vVTo0) (Brian Lin)
--   2023-07-05 - **All-Staff Town Hall** (TBD - HTC23 prep?)
--   2023-07-12 - Cancelled due to [HTC23](https://agenda.hep.wisc.edu/event/2014/)
 -   2023-07-19 - HTCSS (Todd Tannenbaum)
 -   2023-07-26 - Technology Investigations (Brian Bockelman)
 -   2023-08-02 - **All-Staff Town Hall** (TBD)
@@ -90,6 +87,9 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2023-07-12 - Cancelled due to [HTC23](https://agenda.hep.wisc.edu/event/2014/)
+-   2023-07-05 - Cancelled
+-   2023-06-28 - [Software](https://docs.google.com/presentation/d/1GfBW_JHPPK9T4_NoOh56rr8yAbyubraxUIavH1vVTo0) (Brian Lin)
 -   2023-06-21 - [Production Support](https://drive.google.com/file/d/1mJtXbJHZbrqajFlmC9teRtyKwyFMdiXH/) (Ken Herner)
 -   2023-06-14 - Global Infrastructure Lab ([Igor Sfiligoi](https://docs.google.com/presentation/d/11MW6JwOLgqettzwqpa3CnTpA-Uqfr2Tu/) and [Fabio Andrijauskas](https://docs.google.com/presentation/d/1t_Tfy8fpkqLy73Ane_1EEdQBOpAbbZkUe7Z8oMVBGlA/))
 -   2023-06-07 - All-Staff Town Hall (review debrief and awards in general)
