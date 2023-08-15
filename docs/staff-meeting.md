@@ -71,7 +71,7 @@ of a special topic, which will be announced in advance.
 ## Schedule
 
 ### Upcoming Meetings
--   2023-08-16 - Security (Josh Drake)
+-   2023-08-16 - Security (Brian Chase)
 -   2023-08-23 - Operations (Jeff Dost)
 -   2023-08-30 - **All-Staff Town Hall** (TBD)
 -   2023-09-06 - Research Facilitation (Christina Koch)
