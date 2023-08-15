@@ -71,9 +71,6 @@ of a special topic, which will be announced in advance.
 ## Schedule
 
 ### Upcoming Meetings
--   2023-07-26 - Technology Investigations (Brian Bockelman)
--   2023-08-02 - **All-Staff Town Hall** (TBD)
--   2023-08-09 - Cancelled - OSG School
 -   2023-08-16 - Security (Josh Drake)
 -   2023-08-23 - Operations (Jeff Dost)
 -   2023-08-30 - **All-Staff Town Hall** (TBD)
@@ -86,6 +83,9 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2023-08-09 - Cancelled - OSG School
+-   2023-08-02 - Cancelled (no Town Hall due to PATh report)
+-   2023-07-26 - Technology Investigations (Brian Bockelman)
 -   2023-07-19 - HTCSS (Todd Tannenbaum)
 -   2023-07-12 - Cancelled due to [HTC23](https://agenda.hep.wisc.edu/event/2014/)
 -   2023-07-05 - Cancelled
