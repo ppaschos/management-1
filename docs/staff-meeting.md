@@ -86,7 +86,7 @@ Blank lines separate cycles of team presentations.
 -   2023-08-09 - Cancelled - OSG School
 -   2023-08-02 - Cancelled (no Town Hall due to PATh report)
 -   2023-07-26 - Technology Investigations (Brian Bockelman)
--   2023-07-19 - [HTCSS](https://docs.google.com/presentation/d/1cvPfqxU0UHGMpmzRTHTL9LNA1igJGel7/edit?usp=sharing&ouid=103134215711647835494&rtpof=true&sd=true) (Todd Tannenbaum)
+-   2023-07-19 - [HTCSS](https://docs.google.com/presentation/d/1cvPfqxU0UHGMpmzRTHTL9LNA1igJGel7/) (Todd Tannenbaum)
 -   2023-07-12 - Cancelled due to [HTC23](https://agenda.hep.wisc.edu/event/2014/)
 -   2023-07-05 - Cancelled
 -   2023-06-28 - [Software](https://docs.google.com/presentation/d/1GfBW_JHPPK9T4_NoOh56rr8yAbyubraxUIavH1vVTo0) (Brian Lin)
