@@ -71,9 +71,6 @@ of a special topic, which will be announced in advance.
 ## Schedule
 
 ### Upcoming Meetings
--   2023-08-16 - Security (Brian Chase)
--   2023-08-23 - [Operations](https://docs.google.com/presentation/d/14z4FcGvfNORumi-5wMHkjyFzx7A4xPAkTHvVjaDoL64/) (Jeff Dost)
--   2023-08-30 - **All-Staff Town Hall** (TBD)
 -   2023-09-06 - Research Facilitation (Christina Koch)
 -   2023-09-13 - Collaboration Support (Pascal Paschos)
 -   2023-09-20 - Network Monitoring (Shawn McKee)
@@ -83,6 +80,9 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2023-08-30 - **All-Staff Town Hall** (Factory and CE)
+-   2023-08-23 - [Operations](https://docs.google.com/presentation/d/14z4FcGvfNORumi-5wMHkjyFzx7A4xPAkTHvVjaDoL64/) (Jeff Dost)
+-   2023-08-16 - Security (Brian Chase)
 -   2023-08-09 - Cancelled - OSG School
 -   2023-08-02 - Cancelled (no Town Hall due to PATh report)
 -   2023-07-26 - Technology Investigations (Brian Bockelman)
