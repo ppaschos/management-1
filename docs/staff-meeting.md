@@ -71,7 +71,7 @@ of a special topic, which will be announced in advance.
 ## Schedule
 
 ### Upcoming Meetings
--   2023-09-06 - Research Facilitation (Christina Koch)
+-   2023-09-06 - [Research Facilitation](https://docs.google.com/presentation/d/1_NHzchSqLy_OHt6oxnxL2plWeEMycEAXlyLi73FRMpo/) (Christina Koch)
 -   2023-09-13 - Collaboration Support (Pascal Paschos)
 -   2023-09-20 - Network Monitoring (Shawn McKee)
 
