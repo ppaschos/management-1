@@ -71,7 +71,7 @@ of a special topic, which will be announced in advance.
 ## Schedule
 
 ### Upcoming Meetings
--   2023-09-13 - Collaboration Support (Pascal Paschos)
+-   2023-09-13 - [Collaboration Support](https://docs.google.com/presentation/d/1vWrXePaMu1UVPQdr1JfRORVNW2ciwj0d6cBMludkv_c/) (Pascal Paschos)
 -   2023-09-20 - Network Monitoring (Shawn McKee)
 
 ### Past Meetings
