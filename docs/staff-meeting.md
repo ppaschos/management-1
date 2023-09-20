@@ -71,7 +71,7 @@ of a special topic, which will be announced in advance.
 ## Schedule
 
 ### Upcoming Meetings
--   2023-09-20 - [Network Monitoring](https://docs.google.com/presentation/d/1ThCUgWPvio3DFVwJAW9xIqQGqN6wyOaNgT4voWodlKc/edit?usp=sharing) (Shawn McKee)
+-   2023-09-20 - [Network Monitoring](https://docs.google.com/presentation/d/1ThCUgWPvio3DFVwJAW9xIqQGqN6wyOaNgT4voWodlKc/) (Shawn McKee)
 
 ### Past Meetings
 
