@@ -71,13 +71,17 @@ of a special topic, which will be announced in advance.
 ## Schedule
 
 ### Upcoming Meetings
--   2023-09-20 - [Network Monitoring](https://docs.google.com/presentation/d/1ThCUgWPvio3DFVwJAW9xIqQGqN6wyOaNgT4voWodlKc/) (Shawn McKee)
+
+A new cycle of meetings is in development.
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+<div style="height: 0.5ex"></div>
+
+-   2023-09-20 - [Network Monitoring](https://docs.google.com/presentation/d/1ThCUgWPvio3DFVwJAW9xIqQGqN6wyOaNgT4voWodlKc/) (Shawn McKee)
 -   2023-09-13 - [Collaboration Support](https://docs.google.com/presentation/d/1vWrXePaMu1UVPQdr1JfRORVNW2ciwj0d6cBMludkv_c/) (Pascal Paschos)
 -   2023-09-06 - [Research Facilitation](https://docs.google.com/presentation/d/1_NHzchSqLy_OHt6oxnxL2plWeEMycEAXlyLi73FRMpo/) (Christina Koch)
 -   2023-08-30 - **All-Staff Town Hall** (Factory and CE)
