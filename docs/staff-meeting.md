@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2023-10-04 - **All-Staff Town Hall** (NSF CC* PI meeting)
+-   2023-10-18 - Release topics (Tim Theisen)
 
 A new cycle of meetings is in development.
 
@@ -83,11 +83,13 @@ Blank lines separate cycles of team presentations.
 
 <div style="height: 0.5ex"></div>
 
+-   2023-10-11 - Cancelled
+-   2023-10-04 - All-Staff Town Hall (NSF CC* PI meeting)
 -   2023-09-27 - Cancelled
 -   2023-09-20 - [Network Monitoring](https://docs.google.com/presentation/d/1ThCUgWPvio3DFVwJAW9xIqQGqN6wyOaNgT4voWodlKc/) (Shawn McKee)
 -   2023-09-13 - [Collaboration Support](https://docs.google.com/presentation/d/1vWrXePaMu1UVPQdr1JfRORVNW2ciwj0d6cBMludkv_c/) (Pascal Paschos)
 -   2023-09-06 - [Research Facilitation](https://docs.google.com/presentation/d/1_NHzchSqLy_OHt6oxnxL2plWeEMycEAXlyLi73FRMpo/) (Christina Koch)
--   2023-08-30 - **All-Staff Town Hall** (Factory and CE)
+-   2023-08-30 - All-Staff Town Hall (Factory and CE)
 -   2023-08-23 - [Operations](https://docs.google.com/presentation/d/14z4FcGvfNORumi-5wMHkjyFzx7A4xPAkTHvVjaDoL64/) (Jeff Dost)
 -   2023-08-16 - Security (Brian Chase)
 -   2023-08-09 - Cancelled - OSG School
