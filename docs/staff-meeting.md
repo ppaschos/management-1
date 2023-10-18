@@ -72,7 +72,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2023-10-18 - Release topics (Tim Theisen)
+-   2023-10-18 - [Release topics] (https://docs.google.com/presentation/d/13nSM8gVrQ-30GIB82bQSpPDZqDiZwxVuWNOCljd0rpQ/) (Tim Theisen)
 
 A new cycle of meetings is in development.
 
