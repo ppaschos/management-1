@@ -79,9 +79,10 @@ A new cycle of meetings is in development.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2023-10-18 - [Release topics](https://docs.google.com/presentation/d/13nSM8gVrQ-30GIB82bQSpPDZqDiZwxVuWNOCljd0rpQ/) (Tim Theisen)
+
 <div style="height: 0.5ex"></div>
 
--   2023-10-18 - [Release topics](https://docs.google.com/presentation/d/13nSM8gVrQ-30GIB82bQSpPDZqDiZwxVuWNOCljd0rpQ/) (Tim Theisen)
 -   2023-10-11 - Cancelled
 -   2023-10-04 - All-Staff Town Hall (NSF CC* PI meeting)
 -   2023-09-27 - Cancelled
