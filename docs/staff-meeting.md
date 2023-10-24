@@ -27,9 +27,10 @@ and all PATh staff.
 
 ## Meeting Types
 
-There are three kinds of staff meetings:
+There are four kinds of staff meetings:
 
 *  **Regular meetings** have a team presentation plus discussion of interesting challenges
+*  **Topical meetings** are focused around one or two questions for a team lead
 *  **Town hall meetings** occur on last Wednesdays each month and are led by Miron or Frank
 *  **Special topics meetings** focus on a special discussion topic or two
 
@@ -54,9 +55,27 @@ although the presenter is welcome to identify ones during their talk.
 and we’ll get through as many as we can each time.
 Even better, nominate topics by emailing Tim C. in advance.
 
+### Topical meetings
+
+Team topical meetings address one or two broad questions about a team’s activities:
+
+*   **How does it work?**  The team lead picks some “it” to talk about,
+    with the goal of helping all OSG and PATh staff learn more about our technologies and processes.
+    Team leads are encouraged to ask other staff what they want to learn about.
+
+*   **What bothers me?**  The team lead picks some current issue or annoyance
+    in their team’s technologies, processes, or so on,
+    and leads a discussion about what might be done to make it better.
+    Team leads are encouraged to ask other team members about potential topics here.
+
+Otherwise, these meetings are like Regular meetings.
+
+Each team will alternate between Regular and Topical meetings when scheduled to present.
+Thus, team updates will occur half as often as before.
+
 ### Town hall meetings
 
-On the last Wednesday of each month, OSG/PATh leadership (usually Miron or Frank)
+Every fourth meeting, OSG/PATh leadership (Miron, Frank, or Brian B.)
 will lead a meeting to discuss topics of their choice.
 All staff are encouraged to suggest topics in advance by emailing Tim C.
 
@@ -72,14 +91,16 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-A new cycle of meetings is in development.
+-   2023-10-25 - Software, regular (Brian Lin)
+
+The rest of the new cycle of meetings is in development.
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
--   2023-10-18 - [Release topics](https://docs.google.com/presentation/d/13nSM8gVrQ-30GIB82bQSpPDZqDiZwxVuWNOCljd0rpQ/) (Tim Theisen)
+-   2023-10-18 - [Release, topical](https://docs.google.com/presentation/d/13nSM8gVrQ-30GIB82bQSpPDZqDiZwxVuWNOCljd0rpQ/) (Tim Theisen)
 
 <div style="height: 0.5ex"></div>
 
