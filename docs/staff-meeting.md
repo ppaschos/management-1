@@ -91,7 +91,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2023-10-25 - Software, regular (Brian Lin)
+-   2023-10-25 - [Software, topical](https://docs.google.com/presentation/d/1bWcyGFnMUQ6WG4H77taFLP6vum6ci0V1MXLCXq8_89I) (Brian Lin)
 
 The rest of the new cycle of meetings is in development.
 
