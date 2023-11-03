@@ -91,15 +91,29 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2023-10-25 - [Software, topical](https://docs.google.com/presentation/d/1bWcyGFnMUQ6WG4H77taFLP6vum6ci0V1MXLCXq8_89I) (Brian Lin)
-
-The rest of the new cycle of meetings is in development.
+-   2023-11-08 - Production Support (Ken Herner)
+-   2023-11-15 - Technology Investigations (Brian Bockelman)
+-   2023-11-22 - Cancelled - Thanksgiving
+-   2023-11-29 - Town Hall (TBD)
+-   2023-12-06 - Security (Josh Drake)
+-   2023-12-13 - HTCSS (Todd Tannenbaum)
+-   2023-12-20 - Operations (Jeff Dost)
+-   2023-12-27 - Cancelled - Holiday
+-   2024-01-03 - Cancelled - Holiday
+-   2024-01-10 - Town Hall (TBD)
+-   2024-01-17 - Global Infrastructure Lab (Igor Sfiligoi)
+-   2024-01-24 - Research Facilitation (Christina Koch)
+-   2024-01-31 - Network Monitoring (Shawn McKee)
+-   2024-02-07 - Town Hall (TBD)
+-   2024-02-14 - Collaboration Support (Pascal Paschos)
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2023-11-01 - Cancelled (no Town Hall due to Pelican meeting)
+-   2023-10-25 - [Software, topical](https://docs.google.com/presentation/d/1bWcyGFnMUQ6WG4H77taFLP6vum6ci0V1MXLCXq8_89I) (Brian Lin)
 -   2023-10-18 - [Release, topical](https://docs.google.com/presentation/d/13nSM8gVrQ-30GIB82bQSpPDZqDiZwxVuWNOCljd0rpQ/) (Tim Theisen)
 
 <div style="height: 0.5ex"></div>
