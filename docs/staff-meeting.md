@@ -91,7 +91,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
-
+-   2023-12-06 - [Security](https://drive.google.com/file/d/1B0dhbHPy_0bSquwUvlY84t_LYzBy2UhD/) (Josh Drake)
 -   2023-12-13 - HTCSS (Todd Tannenbaum)
 -   2023-12-20 - Operations (Jeff Dost)
 -   2023-12-27 - Cancelled - Holiday
@@ -108,7 +108,6 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
--   2023-12-06 - [Security](https://drive.google.com/file/d/1B0dhbHPy_0bSquwUvlY84t_LYzBy2UhD/view?usp=sharing) (Josh Drake)
 -   2023-11-29 - All-Staff Town Hall (NAIRR)
 -   2023-11-22 - Cancelled - Thanksgiving
 -   2023-11-15 - Technology Investigations (Brian Bockelman)
