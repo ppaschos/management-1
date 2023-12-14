@@ -29,6 +29,7 @@ Current Executive Team members:
 * Miron Livny, University of Wisconsin&ndash;Madison, OSG Technical Director and PI
 * Brian Bockelman, Morgridge Institute for Research, OSG Services and Technology lead
 * Christina Koch, University of Wisconsin&ndash;Madison, OSG Research Facilitation lead
+* Derek Weitzel, University of Nebraska–Lincoln, Campus, NPR, and HEP representative
 * Eric Lançon, Brookhaven National Laboratory, BNL/ATLAS representative
 * Eric Sedore, Syracuse University, Resource contributor and OSG Council chair
 * Jérôme Lauret, Brookhaven National Laboratory, Nuclear Physics representative
