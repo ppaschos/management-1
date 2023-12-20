@@ -92,7 +92,7 @@ of a special topic, which will be announced in advance.
 ### Upcoming Meetings
 
 -   2023-12-13 - HTCSS (Todd Tannenbaum)
--   2023-12-20 - Operations (Jeff Dost)
+-   2023-12-20 - [Operations](https://docs.google.com/presentation/d/1vj_KqHCpDV4o3vdtlV-UMarH4xdKkHVTg6DErd7rGbc/) (Jeff Dost)
 -   2023-12-27 - Cancelled - Holiday
 -   2024-01-03 - Cancelled - Holiday
 -   2024-01-10 - **All-Staff Town Hall** (TBD)
