@@ -93,7 +93,7 @@ of a special topic, which will be announced in advance.
 
 -   2023-12-27 - Cancelled - Holiday
 -   2024-01-03 - Cancelled - Holiday
--   2024-01-10 - **All-Staff Town Hall** (TBD)
+-   2024-01-10 - **All-Staff Town Hall** (Frank Würthwein)
 -   2024-01-17 - Global Infrastructure Lab (Igor Sfiligoi)
 -   2024-01-24 - Research Facilitation (Christina Koch)
 -   2024-01-31 - Network Monitoring (Shawn McKee)
