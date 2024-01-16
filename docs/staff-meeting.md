@@ -91,9 +91,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2023-12-27 - Cancelled - Holiday
--   2024-01-03 - Cancelled - Holiday
--   2024-01-10 - **All-Staff Town Hall** (Frank Würthwein)
 -   2024-01-17 - Global Infrastructure Lab (Igor Sfiligoi)
 -   2024-01-24 - Research Facilitation (Christina Koch)
 -   2024-01-31 - Network Monitoring (Shawn McKee)
@@ -105,6 +102,9 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2024-01-10 - All-Staff Town Hall (Frank Würthwein)
+-   2024-01-03 - Cancelled - Holiday
+-   2023-12-27 - Cancelled - Holiday
 -   2023-12-20 - [Operations](https://docs.google.com/presentation/d/1vj_KqHCpDV4o3vdtlV-UMarH4xdKkHVTg6DErd7rGbc/) (Jeff Dost)
 -   2023-12-13 - Special guest: James Clark on LIGO monitoring
 -   2023-12-06 - [Security](https://drive.google.com/file/d/1B0dhbHPy_0bSquwUvlY84t_LYzBy2UhD/) (Josh Drake)
