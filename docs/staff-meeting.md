@@ -91,7 +91,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2024-01-17 - Global Infrastructure Lab (Igor Sfiligoi)
 -   2024-01-24 - Research Facilitation (Christina Koch)
 -   2024-01-31 - Network Monitoring (Shawn McKee)
 -   2024-02-07 - **All-Staff Town Hall** (TBD)
@@ -102,8 +101,7 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
--   2024-01-17 - GIL (Fabio Andrijauskas)
-) - [Notes](https://docs.google.com/document/d/1g7RIbnsF6M9r3cQ7HpU6wPY61879gdJzQ4CVD4-HNGg/)
+-   2024-01-17 - Global Infrastructure Lab (Fabio Andrijauskas) - [Notes](https://docs.google.com/document/d/1g7RIbnsF6M9r3cQ7HpU6wPY61879gdJzQ4CVD4-HNGg/)
 -   2024-01-10 - All-Staff Town Hall (Frank Würthwein)
 -   2024-01-03 - Cancelled - Holiday
 -   2023-12-27 - Cancelled - Holiday
