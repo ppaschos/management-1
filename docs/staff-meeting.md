@@ -102,10 +102,12 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2024-01-17 - GIL (Fabio Andrijauskas)
+) - [Notes](https://docs.google.com/document/d/1g7RIbnsF6M9r3cQ7HpU6wPY61879gdJzQ4CVD4-HNGg/)
 -   2024-01-10 - All-Staff Town Hall (Frank Würthwein)
 -   2024-01-03 - Cancelled - Holiday
 -   2023-12-27 - Cancelled - Holiday
--   2023-12-20 - [Operations](https://docs.google.com/presentation/d/1vj_KqHCpDV4o3vdtlV-UMarH4xdKkHVTg6DErd7rGbc/) (Jeff Dost)
+-   2023-12-20 - [Operations](https://docs.google.com/presentation/d/1vj_KqHCpDV4o3vdtlV-UMarH4xdKkHVTg6DErd7rGbc/) (Jeff Dost) - [Notes](https://docs.google.com/document/d/1Xos2AdtOdKbKoCIVI6JSc-2rS8NSK6CpcqDX1uiJrUI/)
 -   2023-12-13 - Special guest: James Clark on LIGO monitoring
 -   2023-12-06 - [Security](https://drive.google.com/file/d/1B0dhbHPy_0bSquwUvlY84t_LYzBy2UhD/) (Josh Drake)
 -   2023-11-29 - All-Staff Town Hall (NAIRR) - [Notes](https://docs.google.com/document/d/1JBo5NYIWMuYDn0VdmcJjvvbHO0CIeQphbx8TyXOD960/)
