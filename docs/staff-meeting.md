@@ -91,7 +91,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2024-01-31 - Network Monitoring (Shawn McKee)
 -   2024-02-07 - **All-Staff Town Hall** (Pelican updates, Brian Bockelman)
 -   2024-02-14 - Collaboration Support (Pascal Paschos)
 
@@ -100,6 +99,7 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2024-01-31 - Network Monitoring (Shawn McKee)
 -   2024-01-24 - Research Facilitation (Christina Koch) - Topics
 -   2024-01-17 - Global Infrastructure Lab (Fabio Andrijauskas) - [Notes](https://docs.google.com/document/d/1g7RIbnsF6M9r3cQ7HpU6wPY61879gdJzQ4CVD4-HNGg/)
 -   2024-01-10 - All-Staff Town Hall (Frank Würthwein)
