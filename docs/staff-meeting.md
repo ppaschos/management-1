@@ -91,7 +91,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2024-02-14 - Collaboration Support (Pascal Paschos)
+-   2024-02-14 - Collaboration Support (Pascal Paschos) [Notes](https://docs.google.com/presentation/d/1Dl8erwpmHbqTB_8wjDojum3au4hLBbtTlaFNZDO_Rqk/)
 
 ### Past Meetings
 
