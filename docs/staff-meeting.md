@@ -91,13 +91,22 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2024-02-14 - Collaboration Support (Pascal Paschos)
+-   2024-02-28 - Release, update (Tim Theisen)
+-   2024-03-06 - **All-Staff Town Hall** (TBD)
+-   2024-03-13 - Cancelled
+-   2024-03-20 - Software, update (Brian Lin)
+
+The rest of this cycle’s schedule is still being built.
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+<div style="height: 0.5ex"></div>
+
+-   2024-02-21 - Cancelled - IGWN visit   
+-   2024-02-14 - Collaboration Support (Pascal Paschos)
 -   2024-02-07 - All-Staff Town Hall (Pelican updates, Brian Bockelman)
 -   2024-01-31 - Network Monitoring (Shawn McKee)
 -   2024-01-24 - Research Facilitation (Christina Koch) - Topics
