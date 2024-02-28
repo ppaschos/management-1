@@ -91,7 +91,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2024-02-28 - Release, update (Tim Theisen)
+-   2024-02-28 - [Release, update](https://docs.google.com/presentation/d/1nzGCV5-AXRXl1XayVDJL7lQIWTnhy6AH5hF5szrceAs/) (Tim Theisen)
 -   2024-03-06 - **All-Staff Town Hall** (TBD)
 -   2024-03-13 - Cancelled
 -   2024-03-20 - Software, update (Brian Lin)
