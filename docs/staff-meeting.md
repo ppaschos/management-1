@@ -91,17 +91,32 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2024-02-28 - [Release, update](https://docs.google.com/presentation/d/1nzGCV5-AXRXl1XayVDJL7lQIWTnhy6AH5hF5szrceAs/) (Tim Theisen)
--   2024-03-06 - **All-Staff Town Hall** (TBD)
--   2024-03-13 - Cancelled
 -   2024-03-20 - Software, update (Brian Lin)
-
-The rest of this cycle’s schedule is still being built.
+-   2024-03-27 - HTCondor Software Suite (Todd Tannenbaum)
+-   2024-04-03 - **All-Staff Town Hall** (TBD)
+-   2024-04-10 - Security (Josh Drake)
+-   2024-04-17 - Production Support (Ken Herner)
+-   2024-04-24 - Technology Investigations (Brian Bockelman)
+-   2024-05-01 - **All-Staff Town Hall** (TBD)
+-   2024-05-08 - Operations (Jeff Dost)
+-   2024-05-15 - Research Facilitation (Christina Koch)
+-   2024-05-22 - Global Infrastructure Lab (Igor Sfiligoi)
+-   2024-05-29 - **All-Staff Town Hall** (TBD)
+-   2024-06-05 - Collaboration Support (Pascal Paschos)
+-   2024-06-12 - Network Monitoring (Shawn McKee)
+-   2024-06-19 - Cancelled (Juneteenth Holiday)
+-   2024-06-26 - **All-Staff Town Hall** (TBD)
+-   2024-07-03 - Cancelled (July 4th Holiday)
+-   2024-07-10 - Cancelled (HTC24)
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
+
+-   2024-03-13 - Cancelled - Collaborations day
+-   2024-03-06 - All-Staff Town Hall (team chat)
+-   2024-02-28 - [Release, update](https://docs.google.com/presentation/d/1nzGCV5-AXRXl1XayVDJL7lQIWTnhy6AH5hF5szrceAs/) (Tim Theisen)
 
 <div style="height: 0.5ex"></div>
 
