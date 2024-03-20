@@ -91,7 +91,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2024-03-20 - Software, update (Brian Lin)
+-   2024-03-20 - [Software, topical](https://docs.google.com/presentation/d/1VQVr7UFbZeu-7UozdCtoGiPruf1Q2gAAJdlzaqDu0Ro/edit?usp=sharing) (Brian Lin)
 -   2024-03-27 - HTCondor Software Suite (Todd Tannenbaum)
 -   2024-04-03 - **All-Staff Town Hall** (TBD)
 -   2024-04-10 - Security (Josh Drake)
