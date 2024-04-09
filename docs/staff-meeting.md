@@ -91,8 +91,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2024-03-27 - HTCondor Software Suite (Todd Tannenbaum)
--   2024-04-03 - **All-Staff Town Hall** (TBD)
 -   2024-04-10 - Security (Josh Drake)
 -   2024-04-17 - Production Support (Ken Herner)
 -   2024-04-24 - Technology Investigations (Brian Bockelman)
@@ -113,6 +111,8 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2024-04-03 - All-Staff Town Hall (Namespaces, Miron Livny and Brian Bockelman)
+-   2024-03-27 - HTCondor Software Suite (Todd Tannenbaum)
 -   2024-03-20 - [Software, topical](https://docs.google.com/presentation/d/1VQVr7UFbZeu-7UozdCtoGiPruf1Q2gAAJdlzaqDu0Ro/) (Brian Lin)
 -   2024-03-13 - Cancelled - Collaborations day
 -   2024-03-06 - All-Staff Town Hall (team chat)
