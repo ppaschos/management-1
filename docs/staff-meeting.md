@@ -91,7 +91,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2024-04-10 - Security (Josh Drake)
+-   2024-04-10 - Security (Mike Stanfield)
 -   2024-04-17 - Production Support (Ken Herner)
 -   2024-04-24 - Technology Investigations (Brian Bockelman)
 -   2024-05-01 - **All-Staff Town Hall** (TBD)
