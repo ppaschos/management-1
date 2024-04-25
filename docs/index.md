@@ -33,7 +33,7 @@ Current Executive Team members:
 * Eric Lançon, Brookhaven National Laboratory, BNL/ATLAS representative
 * Eric Sedore, Syracuse University, Resource contributor and OSG Council chair
 * Jérôme Lauret, Brookhaven National Laboratory, Nuclear Physics representative
-* Josh Drake, Indiana University, OSG Information Security Officer
+* Josh Drake & Mike Stanfield, Indiana University, OSG Security leads
 * Lisa Goodenough, Fermi National Accelerator Laboratory, Fermilab representative
 * Liz Sexton-Kennedy, Fermi National Accelerator Laboratory, Fermilab representative
 * Mark Neubauer, University of Illinois at Urbana-Champaign, HEP representative
