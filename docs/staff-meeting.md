@@ -91,10 +91,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2024-04-17 - Production Support (Ken Herner)
--   2024-04-24 - Technology Investigations (Brian Bockelman)
--   2024-05-01 - **All-Staff Town Hall** (TBD)
--   2024-05-08 - Operations (Jeff Dost)
+-   2024-05-08 - Accounting (Derek Weitzel)
 -   2024-05-15 - Research Facilitation (Christina Koch)
 -   2024-05-22 - Global Infrastructure Lab (Igor Sfiligoi)
 -   2024-05-29 - **All-Staff Town Hall** (TBD)
@@ -105,11 +102,16 @@ of a special topic, which will be announced in advance.
 -   2024-07-03 - Cancelled (July 4th Holiday)
 -   2024-07-10 - Cancelled (HTC24)
 
+Yet to reschedule: Production Support (Ken Herner), Operations (Jeff Dost)
+
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2024-05-01 - Cancelled (no Town Hall)
+-   2024-04-24 - Technology Investigations (Brian Bockelman)
+-   2024-04-17 - Cancelled
 -   2024-04-10 - [Security](https://drive.google.com/file/d/1Avvs-HKMpL7Z96jFJFjB3xPphRg_kBKm/) (Mike Stanfield)
 -   2024-04-03 - All-Staff Town Hall (Namespaces, Miron Livny and Brian Bockelman)
 -   2024-03-27 - HTCondor Software Suite (Todd Tannenbaum)
