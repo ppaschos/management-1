@@ -91,10 +91,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2024-05-08 - Accounting (Derek Weitzel)
--   2024-05-15 - Research Facilitation (Christina Koch)
--   2024-05-22 - Global Infrastructure Lab (Igor Sfiligoi)
--   2024-05-29 - **All-Staff Town Hall** (TBD)
+-   2024-05-29 - Operations (Jeff Dost)
 -   2024-06-05 - Collaboration Support (Pascal Paschos)
 -   2024-06-12 - Network Monitoring (Shawn McKee)
 -   2024-06-19 - Cancelled (Juneteenth Holiday)
@@ -102,13 +99,16 @@ of a special topic, which will be announced in advance.
 -   2024-07-03 - Cancelled (July 4th Holiday)
 -   2024-07-10 - Cancelled (HTC24)
 
-Yet to reschedule: Production Support (Ken Herner), Operations (Jeff Dost)
+Yet to reschedule: Production Support (Ken Herner), Research Facilitation (Christina Koch)
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2024-05-22 - Global Infrastructure Lab (Igor Sfiligoi, et al.)
+-   2024-05-15 - All-Staff Town Hall (HTC 24 plans, Frank Wuerthwein)
+-   2024-05-08 - Accounting (Derek Weitzel)
 -   2024-05-01 - Cancelled (no Town Hall)
 -   2024-04-24 - Technology Investigations (Brian Bockelman)
 -   2024-04-17 - Cancelled
