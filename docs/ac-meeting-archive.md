@@ -3,9 +3,105 @@
 Meeting notes prior to 20 September 2017 were contained in the old OSG TWiki, which is no longer available.  If you need
 earlier meeting notes, please contact [Tim Cartwright](mailto:cat@cs.wisc.edu) and he can look for them in an archive.
 
+#### 2023
+
+-   2023-12-27 - Cancelled - Holiday
+-   2023-12-20 - [Operations](https://docs.google.com/presentation/d/1vj_KqHCpDV4o3vdtlV-UMarH4xdKkHVTg6DErd7rGbc/) (Jeff Dost) - [Notes](https://docs.google.com/document/d/1Xos2AdtOdKbKoCIVI6JSc-2rS8NSK6CpcqDX1uiJrUI/)
+-   2023-12-13 - Special guest: James Clark on LIGO monitoring
+-   2023-12-06 - [Security](https://drive.google.com/file/d/1B0dhbHPy_0bSquwUvlY84t_LYzBy2UhD/) (Josh Drake)
+-   2023-11-29 - All-Staff Town Hall (NAIRR) - [Notes](https://docs.google.com/document/d/1JBo5NYIWMuYDn0VdmcJjvvbHO0CIeQphbx8TyXOD960/)
+-   2023-11-22 - Cancelled - Thanksgiving
+-   2023-11-15 - Technology Investigations (Brian Bockelman) - [Notes](https://docs.google.com/document/d/1E_QF5yIjjYb6lNmCsum8xsJC8-tfKAW2/)
+-   2023-11-08 - [Production Support, update](https://docs.google.com/presentation/d/1a-SEjsFG35AignfNThq9Ge-yK44fOX-H/) (Ken Herner) - [Notes](https://docs.google.com/document/d/1tVVrcocska-KUoF4h6ucqHVvDfNqmC5H9BXa1iubURA/)
+-   2023-11-01 - Cancelled (no Town Hall due to Pelican meeting)
+-   2023-10-25 - [Software, topical](https://docs.google.com/presentation/d/1bWcyGFnMUQ6WG4H77taFLP6vum6ci0V1MXLCXq8_89I) (Brian Lin) - [Notes](https://docs.google.com/document/d/1yGVP6QcIJV2v_FbfF8pC5wkuvObZoTJ4WeLArEUH0c8/)
+-   2023-10-18 - [Release, topical](https://docs.google.com/presentation/d/13nSM8gVrQ-30GIB82bQSpPDZqDiZwxVuWNOCljd0rpQ/) (Tim Theisen)
+
+<div style="height: 0.5ex"></div>
+
+-   2023-10-11 - Cancelled
+-   2023-10-04 - All-Staff Town Hall (NSF CC* PI meeting)
+-   2023-09-27 - Cancelled
+-   2023-09-20 - [Network Monitoring](https://docs.google.com/presentation/d/1ThCUgWPvio3DFVwJAW9xIqQGqN6wyOaNgT4voWodlKc/) (Shawn McKee)
+-   2023-09-13 - [Collaboration Support](https://docs.google.com/presentation/d/1vWrXePaMu1UVPQdr1JfRORVNW2ciwj0d6cBMludkv_c/) (Pascal Paschos)
+-   2023-09-06 - [Research Facilitation](https://docs.google.com/presentation/d/1_NHzchSqLy_OHt6oxnxL2plWeEMycEAXlyLi73FRMpo/) (Christina Koch)
+-   2023-08-30 - All-Staff Town Hall (Factory and CE)
+-   2023-08-23 - [Operations](https://docs.google.com/presentation/d/14z4FcGvfNORumi-5wMHkjyFzx7A4xPAkTHvVjaDoL64/) (Jeff Dost)
+-   2023-08-16 - Security (Brian Chase)
+-   2023-08-09 - Cancelled - OSG School
+-   2023-08-02 - Cancelled (no Town Hall due to PATh report)
+-   2023-07-26 - Technology Investigations (Brian Bockelman)
+-   2023-07-19 - [HTCSS](https://docs.google.com/presentation/d/1cvPfqxU0UHGMpmzRTHTL9LNA1igJGel7/) (Todd Tannenbaum)
+-   2023-07-12 - Cancelled due to [HTC23](https://agenda.hep.wisc.edu/event/2014/)
+-   2023-07-05 - Cancelled
+-   2023-06-28 - [Software](https://docs.google.com/presentation/d/1GfBW_JHPPK9T4_NoOh56rr8yAbyubraxUIavH1vVTo0) (Brian Lin)
+-   2023-06-21 - [Production Support](https://drive.google.com/file/d/1mJtXbJHZbrqajFlmC9teRtyKwyFMdiXH/) (Ken Herner)
+-   2023-06-14 - Global Infrastructure Lab ([Igor Sfiligoi](https://docs.google.com/presentation/d/11MW6JwOLgqettzwqpa3CnTpA-Uqfr2Tu/) and [Fabio Andrijauskas](https://docs.google.com/presentation/d/1t_Tfy8fpkqLy73Ane_1EEdQBOpAbbZkUe7Z8oMVBGlA/))
+-   2023-06-07 - All-Staff Town Hall (review debrief and awards in general)
+-   2023-05-31 - PATh review discussion (select staff)
+-   2023-05-24 - [Release](https://docs.google.com/presentation/d/1B7wnhiJ5CdwBFQOUTu8JyQWWdlr65YS38nui3SzmKgU/) (Tim Theisen)
+
+<div style="height: 0.5ex"></div>
+
+-   2023-05-17 - Cancelled
+-   2023-05-10 - Cancelled (no Town Hall due to travel)
+-   2023-05-03 - Cancelled
+-   2023-04-26 - [Network Monitoring](https://docs.google.com/presentation/d/1R2_zaDwadwnkOy6WRYPCo5TnKULHVewPXCGUerbQuCg/) (Shawn McKee)
+-   2023-04-19 - Cancelled (All-Staff Town Hall)
+-   2023-04-12 - Introduction to CVMFS (Derek Weitzel)
+-   2023-04-05 - [Collaboration Support](https://docs.google.com/presentation/d/1XFuDaikLm996lhWTOw_5OXQgrOqKBEYVOHQbDO9TrX0/) (Pascal Paschos)
+-   2023-03-29 - All-Staff Town Hall (Facilitation practices)
+-   2023-03-22 - [Facilitation Services](https://docs.google.com/presentation/d/1J7aXa0n1hHSC-5WvutsvSYg_eUwPqX_aFVExTbOH16I) (Christina Koch)
+-   2023-03-15 - [Operations](https://docs.google.com/presentation/d/1o2IUlIeKAgnLYL0DjyKhGHK-pJBFD-Io-hPIhEOBDEs/) (Jeff Dost)
+-   2023-03-08 - All-Staff Town Hall (PATh accomplishments and goals)
+-   2023-03-01 - All-Staff Town Hall (PATh accomplishments and goals)
+-   2023-02-22 - [Production Support](https://drive.google.com/file/d/1Ay87Um7mtnylpDp-EAyIh3h_WHPKuO9w/) (Ken Herner)
+-   2023-02-15 - Cancelled
+-   2023-02-08 - [Security](https://drive.google.com/file/d/1WnpqQNenNDI8yopmwAfnIbVOcy9LOOPb/) (Josh Drake)
+-   2023-02-01 - All-Staff Town Hall (OSDF overview and namespaces)
+-   2023-01-25 - [HTCSS](https://docs.google.com/presentation/d/1R3JDYZNKNkMzBhHpj4OejzYXhHvA1nLj/) (Todd Tannenbaum)
+-   2023-01-18 - [Software](https://docs.google.com/presentation/d/1KfaVc7NWJ9WpWT4DVuZNV81wAOpdBKcx0R4AJgMmHXU/) (Brian Lin)
+-   2023-01-11 - Cancelled due to in-person meetings
+-   2023-01-04 - All-Staff Town Hall (our relationship with the NSF CC* program)
 
 #### 2022
 
+-   2022-12-28 - Cancelled due to holidays
+-   2022-12-21 - [Global Infrastructure Lab](https://drive.google.com/file/d/1JT7eks7k7Pkbva5lP-6H055XP1MGtahY) (Igor Sfiligoi)
+-   2022-12-14 - [Release](https://docs.google.com/presentation/d/1MtDp3BkquscEAyikE4IrOITokLTCF78jioL-gppnVBc/) (Tim Theisen)
+
+<div style="height: 0.5ex"></div>
+
+-   2022-11-30 - All-Staff Town Hall
+-   2022-11-23 - Cancelled due to the Thanksgiving holiday
+-   2022-11-16 - [Collaboration Support](https://docs.google.com/presentation/d/12whownn2Jopo6kc9KMoBDlXrf4SArDALH8l_1-3kIcs/) (Pascal Paschos)
+-   2022-11-09 - [Research Facilitation](https://docs.google.com/presentation/d/1gU8eecjOj34P6idZVL19gJMdPiDEwtX2wDE8MtfIOGw/) (Christina Koch)
+-   2022-11-02 - [Operations](https://docs.google.com/presentation/d/1-j2PwVfNa0MtdBm2DqrN68xD_jD8ej252AKiZAigG8g/) (Jeff Dost)
+-   2022-10-26 - All-Staff Town Hall (Lessons learned in 2 years of PATh)
+-   2022-10-19 - [Network Monitoring](https://docs.google.com/presentation/d/1REf6QXYyObGvMkt_QeA5BNMmv70U8YIjF1gPCfNfLu8/) (Shawn McKee)
+-   2022-10-12 - Cancelled due to the Autumn 2022 European HTCondor Workshop
+-   2022-10-05 - [Production Support](https://drive.google.com/file/d/1hJjt8Fq2tFDhWV-F-5NS_XJss6KqVQQ3/) (Ken Herner) (meeting run by Pascal Paschos)
+-   2022-09-28 - Cancelled
+-   2022-09-21 - [Technology Investigations](https://docs.google.com/presentation/d/1BBM_SdViHHByPE1FOtMmhIezCgL895wr/) (Brian Bockelman)
+-   2022-09-14 - [HTCSS](https://docs.google.com/presentation/d/1b3VQu5cTIqCT-jwtQ_WuzSIdttALOicm/) (Todd Tannenbaum)
+-   2022-09-07 - [Security](https://drive.google.com/file/d/10Lj5SrJ8v7BBsJTujdDZBe_FGglrgXAJ/view?usp=sharing) (Josh Drake)
+-   2022-08-31 - All-Staff Town Hall (communicating our value proposition)
+-   2022-08-24 - [Software](https://docs.google.com/presentation/d/11DK-uIZZgb1tYIbyy812thGC9I7igu3dacjWUp1k_yU) (Brian Lin)
+-   2022-08-17 - [Infrastructure Lab](https://drive.google.com/file/d/1HAVGra36pDSZHSX4JYhUzNlANMhEM8FY) (Igor Sfiligoi)
+-   2022-08-10 - [Release](https://docs.google.com/presentation/d/13NVZEHXxhBg5wwxTfw0VgFj5q5HU6whtCvt9oKJMVbU/) (Tim Theisen)
+
+<div style="height: 0.5ex"></div>
+
+- 2022-08-03 - All-Staff Town Hall
+- 2022-07-27 - Cancelled due to [OSG User School 2022](https://osg-htc.org/user-school-2022/)
+- 2022-07-20 - Cancelled
+- 2022-07-13 - [Research Facilitation](https://docs.google.com/presentation/d/1LxLAf8k438mSdgdd7OrMQMattKEaGnTT3J50lLvOLlI/) (Christina Koch)
+- 2022-07-06 - Cancelled
+- 2022-06-29 - Cancelled (All-Staff Town Hall)
+- 2022-06-22 - [Collaboration Support](https://docs.google.com/presentation/d/1Q1Oqap5SimUWlfalQyPlfQzDQMBQVTm1jrGxFrpYars/) (Pascal Paschos)
+- 2022-06-15 - [Operations](https://docs.google.com/presentation/d/19Bt47Dl2ryDCpNVoPcDtQQCUoNRgeUuLcQ6b09wnXXQ/) (Jeff Dost)
+- 2022-06-08 - [Technology Investigations](https://drive.google.com/file/d/1HoB2h7I-jT-YRsaxxBIcShyGMafHtknx/) (Brian Bockelman)
+- 2022-06-01 - All-Staff Town Hall (CC* and OSDF)
 - 2022-05-25 - Cancelled due to HTCondor Week 2022
 - 2022-05-18 - Cancelled
 - 2022-05-11 - [Network Monitoring](https://docs.google.com/presentation/d/1SrC9_DKz1u6z3_PmMc1QctVT630e8cbhngwfG-pZA6Y/) (Shawn McKee)
