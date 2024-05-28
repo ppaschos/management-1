@@ -1,7 +1,6 @@
 # Area Coordinator Meeting Archive
 
-Meeting notes prior to 20 September 2017 were contained in the old OSG TWiki, which is no longer available.  If you need
-earlier meeting notes, please contact [Tim Cartwright](mailto:cat@cs.wisc.edu) and he can look for them in an archive.
+Meeting notes prior to 20 September 2017 were contained in the old OSG TWiki, which is no longer available.
 
 #### 2023
 
