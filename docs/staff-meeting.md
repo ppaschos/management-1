@@ -91,7 +91,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2024-05-29 - Operations (Jeff Dost)
+-   2024-05-29 - [Operations](https://docs.google.com/presentation/d/1nZIpU-tuk4IW44pGHwWOs-tkG76XorkWztG9iPVCo0U/) (Jeff Dost)
 -   2024-06-05 - Collaboration Support (Pascal Paschos)
 -   2024-06-12 - Network Monitoring (Shawn McKee)
 -   2024-06-19 - Cancelled (Juneteenth Holiday)
