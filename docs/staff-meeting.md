@@ -91,19 +91,20 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2024-06-12 - [Network Monitoring](https://docs.google.com/presentation/d/1BAKjc1ErtzJwMdpzn3vSIpnFrgcKqsL0izgD7vwQKYM/) (Shawn McKee)
--   2024-06-19 - Cancelled (Juneteenth Holiday)
--   2024-06-26 - **All-Staff Town Hall** (TBD)
+-   2024-06-26 - Research Facilitation (Christina Koch)
 -   2024-07-03 - Cancelled (July 4th Holiday)
--   2024-07-10 - Cancelled (HTC24)
+-   2024-07-10 - Cancelled (HTC 24)
+-   2024-07-17 - **All-Staff Town Hall** (HTC 24 discussion)
 
-Yet to reschedule: Production Support (Ken Herner), Research Facilitation (Christina Koch)
+Yet to reschedule: Production Support (Ken Herner)
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2024-06-19 - Cancelled (Juneteenth Holiday)
+-   2024-06-12 - [Network Monitoring](https://docs.google.com/presentation/d/1BAKjc1ErtzJwMdpzn3vSIpnFrgcKqsL0izgD7vwQKYM/) (Shawn McKee)
 -   2024-06-05 - [Collaboration Support](https://docs.google.com/presentation/d/15XzU_UPODlXm5ENp7SNH1OFCL2C3zLt8ebmK9aPKlq4) (Pascal Paschos)
 -   2024-05-29 - [Operations](https://docs.google.com/presentation/d/1nZIpU-tuk4IW44pGHwWOs-tkG76XorkWztG9iPVCo0U/) (Jeff Dost)
 -   2024-05-22 - [Global Infrastructure Lab](https://drive.google.com/file/d/14bIVtCSdF6M3mBYrj7nY-5xH0rYQD2IR/view) (Igor Sfiligoi, et al.)
