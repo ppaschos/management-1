@@ -103,6 +103,7 @@ Yet to reschedule: Production Support (Ken Herner)
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2024-06-26 - [Facilitation Services](https://docs.google.com/presentation/d/19ZNuq0w84iAklai9P2iMCWjIW2so8e7cffYLAZBEa9U/) (Christina Koch)
 -   2024-06-19 - Cancelled (Juneteenth Holiday)
 -   2024-06-12 - [Network Monitoring](https://docs.google.com/presentation/d/1BAKjc1ErtzJwMdpzn3vSIpnFrgcKqsL0izgD7vwQKYM/) (Shawn McKee)
 -   2024-06-05 - [Collaboration Support](https://docs.google.com/presentation/d/15XzU_UPODlXm5ENp7SNH1OFCL2C3zLt8ebmK9aPKlq4) (Pascal Paschos)
