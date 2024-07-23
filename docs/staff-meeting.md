@@ -91,10 +91,9 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2024-06-26 - Research Facilitation (Christina Koch)
--   2024-07-03 - Cancelled (July 4th Holiday)
--   2024-07-10 - Cancelled (HTC 24)
--   2024-07-17 - **All-Staff Town Hall** (HTC 24 discussion)
+-   2024-07-24 - Cancelled (PEARC24)
+
+**Next meetings coming soon!**
 
 Yet to reschedule: Production Support (Ken Herner)
 
@@ -103,6 +102,9 @@ Yet to reschedule: Production Support (Ken Herner)
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2024-07-17 - **All-Staff Town Hall** (HTC 24 discussion)
+-   2024-07-10 - Cancelled (HTC 24)
+-   2024-07-03 - Cancelled (July 4th Holiday)
 -   2024-06-26 - [Facilitation Services](https://docs.google.com/presentation/d/19ZNuq0w84iAklai9P2iMCWjIW2so8e7cffYLAZBEa9U/) (Christina Koch)
 -   2024-06-19 - Cancelled (Juneteenth Holiday)
 -   2024-06-12 - [Network Monitoring](https://docs.google.com/presentation/d/1BAKjc1ErtzJwMdpzn3vSIpnFrgcKqsL0izgD7vwQKYM/) (Shawn McKee)
