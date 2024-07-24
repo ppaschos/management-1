@@ -92,10 +92,27 @@ of a special topic, which will be announced in advance.
 ### Upcoming Meetings
 
 -   2024-07-24 - Cancelled (PEARC24)
+-   2024-07-31 - Production Support (Ken Herner)
+-   2024-08-07 - Cancelled (OSG School)
 
-**Next meetings coming soon!**
+<div style="height: 0.5ex"></div>
 
-Yet to reschedule: Production Support (Ken Herner)
+-   2024-08-14 - **All-Staff Town Hall** (TBD)
+-   2024-08-21 - Campus Services (Tim Cartwright)
+-   2024-08-28 - Release (Tim Theisen)
+-   2024-09-04 - HTCSS (Todd Tannenbaum)
+-   2024-09-11 - **All-Staff Town Hall** (TBD)
+-   2024-09-18 - Pelican (Brian Bockelman)
+-   2024-09-25 - Security (Mike Stanfield)
+-   2024-10-02 - Software (Brian Lin)
+-   2024-10-09 - **All-Staff Town Hall** (TBD)
+-   2024-10-16 - Global Infrastructure Lab (Igor Sfiligoi)
+-   2024-10-23 - Network Monitoring (Shawn McKee)
+-   2024-10-30 - Operations (Jeff Dost)
+-   2024-11-06 - **All-Staff Town Hall** (TBD)
+-   2024-11-13 - Research Facilitation (Christina Koch)
+-   2024-11-20 - Collaboration Support (Pascal Paschos)
+-   2024-11-27 - Cancelled (Thanksgiving)
 
 ### Past Meetings
 
