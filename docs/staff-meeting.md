@@ -91,8 +91,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2024-07-24 - Cancelled (PEARC24)
--   2024-07-31 - Production Support (Ken Herner)
 -   2024-08-07 - Cancelled (OSG School)
 
 <div style="height: 0.5ex"></div>
@@ -119,6 +117,8 @@ of a special topic, which will be announced in advance.
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2024-07-31 - Production Support (Ken Herner)
+-   2024-07-24 - Cancelled (PEARC24)
 -   2024-07-17 - **All-Staff Town Hall** (HTC 24 discussion)
 -   2024-07-10 - Cancelled (HTC 24)
 -   2024-07-03 - Cancelled (July 4th Holiday)
