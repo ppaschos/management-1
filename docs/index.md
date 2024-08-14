@@ -31,11 +31,11 @@ Current Executive Team members:
 * Christina Koch, University of Wisconsin&ndash;Madison, OSG Research Facilitation lead
 * Derek Weitzel, University of Nebraska–Lincoln, Campus, NRP, and HEP representative
 * Eric Lançon, Brookhaven National Laboratory, BNL/ATLAS representative
-* Eric Sedore, Syracuse University, Resource contributor and OSG Council chair
+* Eric Sedore, Syracuse University, Resource contributor
 * Jérôme Lauret, Brookhaven National Laboratory, Nuclear Physics representative
 * Josh Drake & Mike Stanfield, Indiana University, OSG Security leads
 * Lisa Goodenough, Fermi National Accelerator Laboratory, Fermilab representative
-* Liz Sexton-Kennedy, Fermi National Accelerator Laboratory, Fermilab representative
+* Liz Sexton-Kennedy, Fermi National Accelerator Laboratory, Fermilab representative, OSG Council chair
 * Mark Neubauer, University of Illinois at Urbana-Champaign, HEP representative
 * Rob Gardner, University of Chicago, OSG Collaboration Support
 * Tim Cartwright, University of Wisconsin&ndash;Madison, OSG Deputy Executive Director
