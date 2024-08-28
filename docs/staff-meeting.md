@@ -97,7 +97,6 @@ of a special topic, which will be announced in advance.
 
 -   2024-08-14 - **All-Staff Town Hall** (TBD)
 -   2024-08-21 - Campus Services (Tim Cartwright)
--   2024-08-28 - Release (Tim Theisen)
 -   2024-08-28 - [Release, topical](https://docs.google.com/presentation/d/1PC5_rw6bDoSsvN7neye-mN1Mbw7cO_7dD7N3okO3uLA/) (Tim Theisen)
 -   2024-09-04 - HTCSS (Todd Tannenbaum)
 -   2024-09-11 - **All-Staff Town Hall** (TBD)
