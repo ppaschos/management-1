@@ -91,10 +91,6 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2024-09-04 - **Cancelled**
--   2024-09-11 - **All-Staff Town Hall** (TBD)
--   2024-09-18 - Pelican (Brian Bockelman)
--   2024-09-25 - Security (Mike Stanfield)
 -   2024-10-02 - Software (Brian Lin)
 -   2024-10-09 - **All-Staff Town Hall** (TBD)
 -   2024-10-16 - Global Infrastructure Lab (Igor Sfiligoi)
@@ -112,6 +108,10 @@ To reschedule: HTCSS (Todd Tannenbaum)
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2024-09-25 - Security (Mike Stanfield)
+-   2024-09-18 - Pelican (Brian Bockelman)
+-   2024-09-11 - All-Staff Town Hall
+-   2024-09-04 - Cancelled
 -   2024-08-28 - [Release, topical](https://docs.google.com/presentation/d/1PC5_rw6bDoSsvN7neye-mN1Mbw7cO_7dD7N3okO3uLA/) (Tim Theisen)
 -   2024-08-21 - [Campus Services, update](https://drive.google.com/file/d/1OSWvP87FlC9zZ4Dpa3d4fbdLXjI0RsNQ/) (Tim Cartwright)
 
