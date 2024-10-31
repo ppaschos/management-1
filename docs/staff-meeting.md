@@ -91,19 +91,17 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2024-10-30 - Operations (Jeff Dost)
 -   2024-11-06 - **All-Staff Town Hall** (TBD)
 -   2024-11-13 - Research Facilitation (Christina Koch)
 -   2024-11-20 - Collaboration Support (Pascal Paschos)
 -   2024-11-27 - Cancelled (Thanksgiving)
-
-To reschedule: HTCSS (Todd Tannenbaum)
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2024-10-30 - Operations (Jeff Dost)
 -   2024-10-23 - [Network Monitoring](https://docs.google.com/presentation/d/16JCaGD_uHV3DQKwrWY3POUpgatHaw8VMEc3YNlIjpSg/) (Shawn McKee)
 -   2024-10-16 - [Global Infrastructure Lab](https://drive.google.com/file/d/1c6YxSaAUw_JgQEcgHUPOyVDbZkk0vaMf/) (Igor Sfiligoi)
 -   2024-10-09 - Cancelled (no Town Hall)
