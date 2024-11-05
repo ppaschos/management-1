@@ -91,10 +91,11 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2024-11-06 - **All-Staff Town Hall** (TBD)
--   2024-11-13 - Research Facilitation (Christina Koch)
+-   2024-11-06 - **All-Staff Town Hall** (Miron Livny)
+-   2024-11-13 - Cancelled
 -   2024-11-20 - Collaboration Support (Pascal Paschos)
 -   2024-11-27 - Cancelled (Thanksgiving)
+-   2024-12-04 - Research Facilitation (Christina Koch)
 
 ### Past Meetings
 
