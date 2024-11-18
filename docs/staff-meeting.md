@@ -91,16 +91,16 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2024-11-13 - Cancelled
--   2024-11-20 - Collaboration Support (Pascal Paschos)
+-   2024-11-20 - Research Facilitation (Christina Koch)
 -   2024-11-27 - Cancelled (Thanksgiving)
--   2024-12-04 - Research Facilitation (Christina Koch)
+-   2024-12-04 - Collaboration Support (Pascal Paschos)
 
 ### Past Meetings
 
 Past meetings are listed newest to oldest.
 Blank lines separate cycles of team presentations.
 
+-   2024-11-13 - Cancelled
 -   2024-11-06 - All-Staff Town Hall (Terminology, Miron Livny)
 -   2024-10-30 - Operations (Jeff Dost)
 -   2024-10-23 - [Network Monitoring](https://docs.google.com/presentation/d/16JCaGD_uHV3DQKwrWY3POUpgatHaw8VMEc3YNlIjpSg/) (Shawn McKee)
