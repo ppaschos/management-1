@@ -37,7 +37,7 @@ Current Executive Team members:
 * Liz Sexton-Kennedy, Fermi National Accelerator Laboratory, Fermilab representative, OSG Council chair
 * Mark Neubauer, University of Illinois at Urbana-Champaign, HEP representative
 * Rob Gardner, University of Chicago, OSG Collaboration Support
-* Tim Cartwright, University of Wisconsin&ndash;Madison, OSG Deputy Executive Director
+* Tim Cartwright, University of Wisconsin&ndash;Madison, OSG Campus Coordinator
 
 
 ## Management Activities
