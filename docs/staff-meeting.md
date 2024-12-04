@@ -92,7 +92,7 @@ of a special topic, which will be announced in advance.
 ### Upcoming Meetings
 
 -   2024-11-27 - Cancelled (Thanksgiving)
--   2024-12-04 - Collaboration Support (Pascal Paschos)
+-   2024-12-04 - [Collaboration Support](https://docs.google.com/presentation/d/1RwdwyW1FlcAh1or2uAIxBDKzNVP0GZWQkbVSeTR1ASM/edit?usp=sharing) (Pascal Paschos)
 
 ### Past Meetings
 
